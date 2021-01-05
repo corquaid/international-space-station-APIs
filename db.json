@@ -1,0 +1,67 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Sergey Ryzhikov",
+      "nationality": "ru",
+      "agency": "Roscosmos",
+      "spacecraft": "Soyuz MS-17",
+      "launched": "2020-10-14",
+      "days_in_space": 173
+    },
+    {
+      "id": 2,
+      "name": "Sergey Kud-Sverchkov",
+      "nationality": "ru",
+      "agency": "Roscosmos",
+      "spacecraft": "Soyuz MS-17",
+      "launched": "2020-10-14",
+      "days_in_space": 0
+    },
+    {
+      "id": 3,
+      "name": "Kate Rubins",
+      "nationality": "us",
+      "agency": "NASA",
+      "spacecraft": "Soyuz MS-17",
+      "launched": "2020-10-14",
+      "days_in_space": 115
+    },
+    {
+      "id": 4,
+      "name": "Mike Hopkins",
+      "nationality": "us",
+      "agency": "NASA",
+      "spacecraft": "Crew-1 Dragon",
+      "launched": "2020-12-06",
+      "days_in_space": 166
+    },
+    {
+      "id": 5,
+      "name": "Victor Glover",
+      "nationality": "us",
+      "agency": "NASA",
+      "spacecraft": "Crew-1 Dragon",
+      "launched": "2020-12-06",
+      "days_in_space": 0
+    },
+    {
+      "id": 6,
+      "name": "Shannon Walker",
+      "nationality": "us",
+      "agency": "NASA",
+      "spacecraft": "Crew-1 Dragon",
+      "launched": "2020-12-06",
+      "days_in_space": 164
+    },
+    {
+      "id": 7,
+      "name": "Soichi Noguchi",
+      "nationality": "jp",
+      "agency": "JAXA",
+      "spacecraft": "Crew-1 Dragon",
+      "launched": "2020-12-06",
+      "days_in_space": 177
+    }
+  ]
+}
