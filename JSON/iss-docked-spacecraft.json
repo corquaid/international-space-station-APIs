@@ -1,0 +1,83 @@
+{
+  "spacecraft": [
+    {
+      "name": "Progress MS-14",
+      "country": "Russia",
+      "operator": "Roscosmos",
+      "manufacturer": "Energia",
+      "launched": 1587772301,
+      "launch_site": "Site 31/6, Baikonur",
+      "docked": 1587784316,
+      "docking_port": "Zvezda aft",
+      "launch_mass": 7430,
+      "payload_mass": 2528,
+      "launch_vehicle": "Soyuz 2.1a",
+      "purpose": "Cargo",
+      "crew": null
+    },
+    {
+      "name": "Progress MS-15",
+      "country": "Russia",
+      "operator": "Roscosmos",
+      "manufacturer": "Energia",
+      "launched": 1595507181,
+      "launch_site": "Site 31/6, Baikonur",
+      "docked": 1595519100,
+      "docking_port": "Pirs nadir",
+      "launch_mass": 7000,
+      "payload_mass": 2540,
+      "launch_vehicle": "Soyuz 2.1a",
+      "mission_type": "Cargo",
+      "crew": null
+    },
+    {
+      "name": "Soyuz MS-17",
+      "country": "Russia",
+      "operator": "Roscosmos",
+      "manufacturer": "Energia",
+      "launched": 1602647104,
+      "launch_site": "Site 31/6, Baikonur",
+      "docked": 1602658127,
+      "docking_port": "Poisk Zenith",
+      "launch_mass": 7000,
+      "payload_mass": 2540,
+      "launch_vehicle": "Soyuz 2.1a",
+      "mission_type": "Crew",
+      "crew": [
+        "Sergey Ryzhikov", "Sergey Kud-Sverchkov", "Kate Rubins"
+      ]
+    },
+    {
+      "name": "Crew-1 Dragon",
+      "country": "United States",
+      "operator": "SpaceX",
+      "manufacturer": "SpaceX",
+      "launched": 1605482837,
+      "launch_site": "KSC, LC-39A",
+      "docked": 1605582060,
+      "docking_port": "Harmony forward",
+      "launch_mass": 12055,
+      "payload_mass": null,
+      "launch_vehicle": "Falcon 9",
+      "mission_type": "Crew",
+      "crew": [
+        "Mike Hopkins", "Victor Glover", "Shannon Walker", "Soichi Noguchi"
+      ]
+    },
+    {
+      "name": "CRS-21 Dragon",
+      "country": "United States",
+      "operator": "SpaceX",
+      "manufacturer": "SpaceX",
+      "launched": 1607267828,
+      "launch_site": "KSC, LC-39A",
+      "docked": 1607362800,
+      "docking_port": "Harmony zenith",
+      "launch_mass": 6000,
+      "payload_mass": 2972,
+      "launch_vehicle": "Falcon 9",
+      "mission_type": "Cargo",
+      "crew": null
+    }
+  ]
+}
