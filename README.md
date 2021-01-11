@@ -4,7 +4,7 @@ APIs packed with information regarding all ongoing spaceflights and spacecraft o
 
 The idea for this project came from various space-related APIs, including [Open Notify](http://open-notify.org/) by Nathan Bergey and the excellent [Where The ISS At](https://wheretheiss.at/w/developer) resource, which I called upon when creating my own  [ISS Tracker app](https://corquaid.github.io/api-iss-tracker).
 
-It's my goal to keep these APIs up to date depending on rocket launch schedules and spacecraft leaving the ISS.
+It's my goal to keep these APIs up to date depending on rocket launch schedules and spacecraft docking and departures from the ISS.
 
 I hope the level of detail in these APIs is useful for your own projects. 
 
