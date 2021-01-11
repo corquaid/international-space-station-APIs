@@ -88,7 +88,11 @@ This NASA resource is also useful with a nice visualisation of the docked spacec
 
 [ISS Visiting Vehicles (NASA site)](https://www.nasa.gov/feature/visiting-vehicle-launches-arrivals-and-departures)
 
+# References
 
+[Open Notify](http://open-notify.org/) by [Nathan Bergey](http://t.co/jIv30xdyTZ?amp=1).
+
+[Where The ISS At?](https://wheretheiss.at/) by Bill Shupp.
 
 
 
