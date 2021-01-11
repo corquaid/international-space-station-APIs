@@ -16,6 +16,8 @@ Ad Astra!
 
 [People In Space](https://corquaid.github.io/international-space-station-APIs/JSON/people-in-space.json) (JSON)
 
+`https://corquaid.github.io/international-space-station-APIs/JSON/people-in-space.json`
+
 Calling this API will return lots of information about the only humans not currently on Earth.
 
 Here's an example of the returned JSON:
@@ -53,6 +55,8 @@ Using `"launched"` and `"days_in_space"` together, you can calculate the up-to-d
 ## Spacecraft at the ISS
 
 [ISS Docked Spacecraft](https://corquaid.github.io/international-space-station-APIs/JSON/iss-docked-spacecraft.json) (JSON)
+
+`https://corquaid.github.io/international-space-station-APIs/JSON/iss-docked-spacecraft.json`
 
 If you want to know all about the spacecraft currently docked at the International Space Station, this API will get you up to speed.
 
