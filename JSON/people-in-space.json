@@ -11,7 +11,7 @@
       "agency": "Roscosmos",
       "position": "Commander",
       "spacecraft": "Soyuz MS-17",
-      "launched": "2020-10-14",
+      "launched": 1602647104,
       "days_in_space": 173
     },
     {
@@ -22,7 +22,7 @@
       "agency": "Roscosmos",
       "position": "Flight Engineer",
       "spacecraft": "Soyuz MS-17",
-      "launched": "2020-10-14",
+      "launched": 1602647104,
       "days_in_space": 0
     },
     {
@@ -33,7 +33,7 @@
       "agency": "NASA",
       "position": "Flight Engineer",
       "spacecraft": "Soyuz MS-17",
-      "launched": "2020-10-14",
+      "launched": 1602647104,
       "days_in_space": 115
     },
     {
@@ -44,7 +44,7 @@
       "agency": "NASA",
       "position": "Flight Engineer",
       "spacecraft": "Crew-1 Dragon",
-      "launched": "2020-12-06",
+      "launched": 1605482837,
       "days_in_space": 166
     },
     {
@@ -55,7 +55,7 @@
       "agency": "NASA",
       "position": "Flight Engineer",
       "spacecraft": "Crew-1 Dragon",
-      "launched": "2020-12-06",
+      "launched": 1605482837,
       "days_in_space": 0
     },
     {
@@ -66,7 +66,7 @@
       "agency": "NASA",
       "position": "Flight Engineer",
       "spacecraft": "Crew-1 Dragon",
-      "launched": "2020-12-06",
+      "launched": 1605482837,
       "days_in_space": 164
     },
     {
@@ -77,7 +77,7 @@
       "agency": "JAXA",
       "position": "Flight Engineer",
       "spacecraft": "Crew-1 Dragon",
-      "launched": "2020-12-06",
+      "launched": 1605482837,
       "days_in_space": 177
     }
   ]
