@@ -12,7 +12,7 @@ Ad Astra!
 
 ## APIs
 
-### People In Space
+### People In Space :woman_astronaut:
 
 [People In Space](https://corquaid.github.io/international-space-station-APIs/JSON/people-in-space.json) (JSON)
 
@@ -52,7 +52,7 @@ Here's an example of the returned JSON:
 Using `"launched"` and `"days_in_space"` together, you can calculate the up-to-date total time a person has spent above the [Karman line](https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line)!
 
 
-## Spacecraft at the ISS
+## Spacecraft at the ISS :rocket:
 
 [ISS Docked Spacecraft](https://corquaid.github.io/international-space-station-APIs/JSON/iss-docked-spacecraft.json) (JSON)
 
