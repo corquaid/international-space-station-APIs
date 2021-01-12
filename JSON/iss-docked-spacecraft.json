@@ -63,21 +63,6 @@
       "crew": [
         "Mike Hopkins", "Victor Glover", "Shannon Walker", "Soichi Noguchi"
       ]
-    },
-    {
-      "name": "CRS-21 Dragon",
-      "country": "United States",
-      "operator": "SpaceX",
-      "manufacturer": "SpaceX",
-      "launched": 1607267828,
-      "launch_site": "KSC, LC-39A",
-      "docked": 1607362800,
-      "docking_port": "Harmony zenith",
-      "launch_mass": 6000,
-      "payload_mass": 2972,
-      "launch_vehicle": "Falcon 9",
-      "mission_type": "Cargo",
-      "crew": null
     }
   ]
 }
