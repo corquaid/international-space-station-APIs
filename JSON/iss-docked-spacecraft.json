@@ -16,21 +16,6 @@
       "crew": null
     },
     {
-      "name": "Progress MS-15",
-      "country": "Russia",
-      "operator": "Roscosmos",
-      "manufacturer": "Energia",
-      "launched": 1595507181,
-      "launch_site": "Site 31/6, Baikonur",
-      "docked": 1595519100,
-      "docking_port": "Pirs nadir",
-      "launch_mass": 7000,
-      "payload_mass": 2540,
-      "launch_vehicle": "Soyuz 2.1a",
-      "mission_type": "Cargo",
-      "crew": null
-    },
-    {
       "name": "Soyuz MS-17",
       "country": "Russia",
       "operator": "Roscosmos",
