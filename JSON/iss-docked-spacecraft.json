@@ -34,7 +34,8 @@
       "mission_type": "Crew",
       "crew": [
         "Sergey Ryzhikov", "Sergey Kud-Sverchkov", "Kate Rubins"
-      ]
+      ],
+      "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Soyuz-MS-17-Mission-Patch.png"
     },
     {
       "id": 3,
@@ -53,7 +54,8 @@
       "mission_type": "Crew",
       "crew": [
         "Mike Hopkins", "Victor Glover", "Shannon Walker", "Soichi Noguchi"
-      ]
+      ],
+      "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/1/1c/SpaceX_Crew-1_logo.svg"
     },
     {
       "id": 4,
@@ -70,7 +72,26 @@
       "payload_mass": 2460.5,
       "launch_vehicle": "Soyuz 2.1a",
       "mission_type": "Cargo",
-      "crew": null
+      "crew": null,
+      "mission_patch": null
+    },
+    {
+      "id": 5,
+      "name": "Cygnus NG-15",
+      "country": "United States",
+      "flag_code": "us",
+      "operator": "NASA",
+      "manufacturer": "Northrop Grumman",
+      "launched": 1613839010,
+      "launch_site": "MARS, Pad 0A",
+      "docked": 1613992560,
+      "docking_port": "Unity nadir",
+      "launch_mass": 3810,
+      "payload_mass": 3810,
+      "launch_vehicle": "Antares 230+",
+      "mission_type": "Cargo",
+      "crew": null,
+      "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Cygnus_NG-15_Patch.png"
     }
   ]
 }
