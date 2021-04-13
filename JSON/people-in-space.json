@@ -1,84 +1,92 @@
-{ 
-  "number": 7,
-  "iss_expedition": 64,
-  "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ISS_Expedition_64_Patch.png/1024px-ISS_Expedition_64_Patch.png",
-  "people": [
-    {
-      "id": 1,
-      "name": "Sergey Ryzhikov",
-      "country": "Russia",
-      "flag_code": "ru",
-      "agency": "Roscosmos",
-      "position": "Commander",
-      "spacecraft": "Soyuz MS-17",
-      "launched": 1602647104,
-      "days_in_space": 173
-    },
-    {
-      "id": 2,
-      "name": "Sergey Kud-Sverchkov",
-      "country": "Russia",
-      "flag_code": "ru",
-      "agency": "Roscosmos",
-      "position": "Flight Engineer",
-      "spacecraft": "Soyuz MS-17",
-      "launched": 1602647104,
-      "days_in_space": 0
-    },
-    {
-      "id": 3,
-      "name": "Kate Rubins",
-      "country": "United States",
-      "flag_code": "us",
-      "agency": "NASA",
-      "position": "Flight Engineer",
-      "spacecraft": "Soyuz MS-17",
-      "launched": 1602647104,
-      "days_in_space": 115
-    },
-    {
-      "id": 4,
-      "name": "Mike Hopkins",
-      "country": "United States",
-      "flag_code": "us",
-      "agency": "NASA",
-      "position": "Flight Engineer",
-      "spacecraft": "Crew-1 Dragon",
-      "launched": 1605482837,
-      "days_in_space": 166
-    },
-    {
-      "id": 5,
-      "name": "Victor Glover",
-      "country": "United States",
-      "flag_code": "us",
-      "agency": "NASA",
-      "position": "Flight Engineer",
-      "spacecraft": "Crew-1 Dragon",
-      "launched": 1605482837,
-      "days_in_space": 0
-    },
-    {
-      "id": 6,
-      "name": "Shannon Walker",
-      "country": "United States",
-      "flag_code": "us",
-      "agency": "NASA",
-      "position": "Flight Engineer",
-      "spacecraft": "Crew-1 Dragon",
-      "launched": 1605482837,
-      "days_in_space": 164
-    },
-    {
-      "id": 7,
-      "name": "Soichi Noguchi",
-      "country": "Japan",
-      "flag_code": "jp",
-      "agency": "JAXA",
-      "position": "Flight Engineer",
-      "spacecraft": "Crew-1 Dragon",
-      "launched": 1605482837,
-      "days_in_space": 177
-    }
-  ]
+{
+    "number": 7,
+    "iss_expedition": 65,
+    "expedition_patch": "https://en.wikipedia.org/wiki/Expedition_65#/media/File:ISS_Expedition_65_Patch.png",
+    "expedition_url": "https://en.wikipedia.org/wiki/Expedition_65",
+    "people": [
+        {
+            "id": 1,
+            "name": "Mike Hopkins",
+            "country": "United States",
+            "flag_code": "us",
+            "agency": "NASA",
+            "position": "Flight Engineer",
+            "spacecraft": "Crew-1 Dragon",
+            "launched": 1605482837,
+            "days_in_space": 166,
+            "url": "https://en.wikipedia.org/wiki/Michael_S._Hopkins"
+        },
+        {
+            "id": 2,
+            "name": "Victor Glover",
+            "country": "United States",
+            "flag_code": "us",
+            "agency": "NASA",
+            "position": "Flight Engineer",
+            "spacecraft": "Crew-1 Dragon",
+            "launched": 1605482837,
+            "days_in_space": 0,
+            "url": "https://en.wikipedia.org/wiki/Victor_J._Glover"
+        },
+        {
+            "id": 3,
+            "name": "Shannon Walker",
+            "country": "United States",
+            "flag_code": "us",
+            "agency": "NASA",
+            "position": "Commander",
+            "spacecraft": "Crew-1 Dragon",
+            "launched": 1605482837,
+            "days_in_space": 164,
+            "url": "https://en.wikipedia.org/wiki/Shannon_Walker"
+        },
+        {
+            "id": 4,
+            "name": "Soichi Noguchi",
+            "country": "Japan",
+            "flag_code": "jp",
+            "agency": "JAXA",
+            "position": "Flight Engineer",
+            "spacecraft": "Crew-1 Dragon",
+            "launched": 1605482837,
+            "days_in_space": 177,
+            "url": "https://en.wikipedia.org/wiki/Soichi_Noguchi"
+        },
+        {
+            "id": 5,
+            "name": "Oleg Novitsky",
+            "country": "Russia",
+            "flag_code": "ru",
+            "agency": "Roscosmos",
+            "position": "Flight Engineer",
+            "spacecraft": "Soyuz MS-18",
+            "launched": 1617946961,
+            "days_in_space": 340,
+            "url": "https://en.wikipedia.org/wiki/Oleg_Novitsky"
+        },
+        {
+            "id": 6,
+            "name": "Pyotr Dubrov",
+            "country": "Russia",
+            "flag_code": "ru",
+            "agency": "Roscosmos",
+            "position": "Flight Engineer",
+            "spacecraft": "Soyuz MS-18",
+            "launched": 1617946961,
+            "days_in_space": 0,
+            "url": "https://en.wikipedia.org/wiki/Pyotr_Dubrov"
+        },
+        {
+            "id": 7,
+            "name": "Mark Vande Hei",
+            "country": "United States",
+            "flag_code": "us",
+            "agency": "NASA",
+            "position": "Flight Engineer",
+            "spacecraft": "Soyuz MS-18",
+            "launched": 1617946961,
+            "days_in_space": 168,
+            "url": "https://en.wikipedia.org/wiki/Mark_T._Vande_Hei"
+        }
+    ]
 }
