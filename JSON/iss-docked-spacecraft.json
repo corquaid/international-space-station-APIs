@@ -16,7 +16,9 @@
             "launch_vehicle": "Soyuz 2.1a",
             "purpose": "Cargo",
             "crew": null,
-            "url": "https://en.wikipedia.org/wiki/Progress_MS-14"
+            "mission_patch": null,
+            "url": "https://en.wikipedia.org/wiki/Progress_MS-14",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Progress_MS-14_screenshot.png"
         },
         {
             "id": 2,
@@ -35,7 +37,8 @@
             "mission_type": "Crew",
             "crew": ["Mike Hopkins", "Victor Glover", "Shannon Walker", "Soichi Noguchi"],
             "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/1/1c/SpaceX_Crew-1_logo.svg",
-            "url": "https://en.wikipedia.org/wiki/SpaceX_Crew-1"
+            "url": "https://en.wikipedia.org/wiki/SpaceX_Crew-1",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/SpaceX_Crew-1_Commercial_Crew_Portrait.jpg"
         },
         {
             "id": 3,
@@ -54,7 +57,8 @@
             "mission_type": "Cargo",
             "crew": null,
             "mission_patch": null,
-            "url": "https://en.wikipedia.org/wiki/Progress_MS-16"
+            "url": "https://en.wikipedia.org/wiki/Progress_MS-16",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Progress_MS-16_approaches_the_ISS_%283%29.jpg"
         },
         {
             "id": 4,
@@ -73,7 +77,8 @@
             "mission_type": "Cargo",
             "crew": null,
             "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Cygnus_NG-15_Patch.png",
-            "url": "https://en.wikipedia.org/wiki/Cygnus_NG-15"
+            "url": "https://en.wikipedia.org/wiki/Cygnus_NG-15",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/ISS-64_The_Cygnus_space_freighter_approaches_the_space_station_%282%29.jpg"
         },
         {
             "id": 5,
@@ -90,11 +95,10 @@
             "payload_mass": null,
             "launch_vehicle": "Soyuz 2.1a",
             "mission_type": "Crew",
-            "crew": [
-              "Oleg Novitsky", "Pyotr Dubrov", "Mark Vande Hei"
-            ],
-            "mission_patch": "https://en.wikipedia.org/wiki/Soyuz_MS-18#/media/File:Soyuz-MS-18-Mission-Patch.png",
-            "url": "https://en.wikipedia.org/wiki/Soyuz_MS-18"
+            "crew": ["Oleg Novitsky", "Pyotr Dubrov", "Mark Vande Hei"],
+            "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Soyuz-MS-18-Mission-Patch.png",
+            "url": "https://en.wikipedia.org/wiki/Soyuz_MS-18",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Expedition_64_Crew_Qualification_Exams_%28NHQ202009220006%29.jpg"
         }
     ]
 }

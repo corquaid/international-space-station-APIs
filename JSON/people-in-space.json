@@ -1,7 +1,7 @@
 {
     "number": 7,
     "iss_expedition": 65,
-    "expedition_patch": "https://en.wikipedia.org/wiki/Expedition_65#/media/File:ISS_Expedition_65_Patch.png",
+    "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/4/49/ISS_Expedition_65_Patch.png",
     "expedition_url": "https://en.wikipedia.org/wiki/Expedition_65",
     "people": [
         {
@@ -14,7 +14,8 @@
             "spacecraft": "Crew-1 Dragon",
             "launched": 1605482837,
             "days_in_space": 166,
-            "url": "https://en.wikipedia.org/wiki/Michael_S._Hopkins"
+            "url": "https://en.wikipedia.org/wiki/Michael_S._Hopkins",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Mike_Hopkins_official_portrait_2020.jpg"
         },
         {
             "id": 2,
@@ -26,7 +27,8 @@
             "spacecraft": "Crew-1 Dragon",
             "launched": 1605482837,
             "days_in_space": 0,
-            "url": "https://en.wikipedia.org/wiki/Victor_J._Glover"
+            "url": "https://en.wikipedia.org/wiki/Victor_J._Glover",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Victor_Glover_official_portrait_2020.jpg"
         },
         {
             "id": 3,
@@ -38,7 +40,8 @@
             "spacecraft": "Crew-1 Dragon",
             "launched": 1605482837,
             "days_in_space": 164,
-            "url": "https://en.wikipedia.org/wiki/Shannon_Walker"
+            "url": "https://en.wikipedia.org/wiki/Shannon_Walker",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/ShannonWalker.jpg"
         },
         {
             "id": 4,
@@ -50,7 +53,8 @@
             "spacecraft": "Crew-1 Dragon",
             "launched": 1605482837,
             "days_in_space": 177,
-            "url": "https://en.wikipedia.org/wiki/Soichi_Noguchi"
+            "url": "https://en.wikipedia.org/wiki/Soichi_Noguchi",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Soichi_noguchi_v2.jpg"
         },
         {
             "id": 5,
@@ -62,7 +66,8 @@
             "spacecraft": "Soyuz MS-18",
             "launched": 1617946961,
             "days_in_space": 340,
-            "url": "https://en.wikipedia.org/wiki/Oleg_Novitsky"
+            "url": "https://en.wikipedia.org/wiki/Oleg_Novitsky",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Oleg_Novitskiy_2016.jpg"
         },
         {
             "id": 6,
@@ -74,7 +79,8 @@
             "spacecraft": "Soyuz MS-18",
             "launched": 1617946961,
             "days_in_space": 0,
-            "url": "https://en.wikipedia.org/wiki/Pyotr_Dubrov"
+            "url": "https://en.wikipedia.org/wiki/Pyotr_Dubrov",
+            "image": "http://www.spacefacts.de/bios/portraits2/cosmonauts/dubrov_pyotr.jpg"
         },
         {
             "id": 7,
@@ -86,7 +92,8 @@
             "spacecraft": "Soyuz MS-18",
             "launched": 1617946961,
             "days_in_space": 168,
-            "url": "https://en.wikipedia.org/wiki/Mark_T._Vande_Hei"
+            "url": "https://en.wikipedia.org/wiki/Mark_T._Vande_Hei",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mark_Vande_Hei%2C_official_portrait.jpg"
         }
     ]
 }
