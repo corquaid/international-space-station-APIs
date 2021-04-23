@@ -94,6 +94,58 @@
             "days_in_space": 168,
             "url": "https://en.wikipedia.org/wiki/Mark_T._Vande_Hei",
             "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mark_Vande_Hei%2C_official_portrait.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Shane Kimbrough",
+            "country": "United States",
+            "flag_code": "us",
+            "agency": "NASA",
+            "position": "Flight Engineer",
+            "spacecraft": "Crew-2 Dragon",
+            "launched": 1619171342,
+            "days_in_space": 189,
+            "url": "https://en.wikipedia.org/wiki/Shane_Kimbrough",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Shanekimbroughv2.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Megan McArthur",
+            "country": "United States",
+            "flag_code": "us",
+            "agency": "NASA",
+            "position": "Flight Engineer",
+            "spacecraft": "Crew-2 Dragon",
+            "launched": 1619171342,
+            "days_in_space": 13,
+            "url": "https://en.wikipedia.org/wiki/K._Megan_McArthur",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Meganmcarthurv2.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Akihido Hoshide",
+            "country": "Japan",
+            "flag_code": "jp",
+            "agency": "JAXA",
+            "position": "Flight Engineer",
+            "spacecraft": "Crew-2 Dragon",
+            "launched": 1619171342,
+            "days_in_space": 141,
+            "url": "https://en.wikipedia.org/wiki/Akihiko_Hoshide",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Akihiko_Hoshide_2012.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Thomas Pesquet",
+            "country": "France",
+            "flag_code": "fr",
+            "agency": "ESA",
+            "position": "Flight Engineer",
+            "spacecraft": "Crew-2 Dragon",
+            "launched": 1619171342,
+            "days_in_space": 197,
+            "url": "https://en.wikipedia.org/wiki/Thomas_Pesquet",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Thomas_Pesquet%2C_official_portrait_in_EMU_%282020%29.jpg"
         }
     ]
 }
