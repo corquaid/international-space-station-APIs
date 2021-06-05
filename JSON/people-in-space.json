@@ -3,6 +3,7 @@
     "iss_expedition": 65,
     "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/4/49/ISS_Expedition_65_Patch.png",
     "expedition_url": "https://en.wikipedia.org/wiki/Expedition_65",
+    "expedition_image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Expedition_65_crew_portrait.jpg",
     "people": [
         {
             "id": 1,
