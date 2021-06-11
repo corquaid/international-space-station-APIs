@@ -14,6 +14,7 @@
             "position": "Flight Engineer",
             "spacecraft": "Soyuz MS-18",
             "launched": 1617946961,
+            "iss": true,
             "days_in_space": 340,
             "url": "https://en.wikipedia.org/wiki/Oleg_Novitsky",
             "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Oleg_Novitskiy_2016.jpg"
@@ -27,6 +28,7 @@
             "position": "Flight Engineer",
             "spacecraft": "Soyuz MS-18",
             "launched": 1617946961,
+            "iss": true,
             "days_in_space": 0,
             "url": "https://en.wikipedia.org/wiki/Pyotr_Dubrov",
             "image": "https://www.nasa.gov/sites/default/files/thumbnails/image/jsc2021e010288.jpg"
@@ -40,6 +42,7 @@
             "position": "Flight Engineer",
             "spacecraft": "Soyuz MS-18",
             "launched": 1617946961,
+            "iss": true,
             "days_in_space": 168,
             "url": "https://en.wikipedia.org/wiki/Mark_T._Vande_Hei",
             "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mark_Vande_Hei%2C_official_portrait.jpg"
@@ -53,6 +56,7 @@
             "position": "Flight Engineer",
             "spacecraft": "Crew-2 Dragon",
             "launched": 1619171342,
+            "iss": true,
             "days_in_space": 189,
             "url": "https://en.wikipedia.org/wiki/Shane_Kimbrough",
             "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Shanekimbroughv2.jpg"
@@ -66,6 +70,7 @@
             "position": "Flight Engineer",
             "spacecraft": "Crew-2 Dragon",
             "launched": 1619171342,
+            "iss": true,
             "days_in_space": 13,
             "url": "https://en.wikipedia.org/wiki/K._Megan_McArthur",
             "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Meganmcarthurv2.jpg"
@@ -79,6 +84,7 @@
             "position": "Commander",
             "spacecraft": "Crew-2 Dragon",
             "launched": 1619171342,
+            "iss": true,
             "days_in_space": 141,
             "url": "https://en.wikipedia.org/wiki/Akihiko_Hoshide",
             "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Akihiko_Hoshide_2012.jpg"
@@ -92,6 +98,7 @@
             "position": "Flight Engineer",
             "spacecraft": "Crew-2 Dragon",
             "launched": 1619171342,
+            "iss": true,
             "days_in_space": 197,
             "url": "https://en.wikipedia.org/wiki/Thomas_Pesquet",
             "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Thomas_Pesquet%2C_official_portrait_in_EMU_%282020%29.jpg"
