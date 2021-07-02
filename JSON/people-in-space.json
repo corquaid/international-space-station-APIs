@@ -102,6 +102,48 @@
             "days_in_space": 197,
             "url": "https://en.wikipedia.org/wiki/Thomas_Pesquet",
             "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Thomas_Pesquet%2C_official_portrait_in_EMU_%282020%29.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Nie Haisheng",
+            "country": "China",
+            "flag_code": "cn",
+            "agency": "PLAAC",
+            "position": "Commander",
+            "spacecraft": "Shenzhou 12",
+            "launched": 1623885747,
+            "iss": false,
+            "days_in_space": 24,
+            "url": "https://en.wikipedia.org/wiki/Nie_Haisheng",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Nie_Haisheng_2021.png"
+        },
+        {
+            "id": 9,
+            "name": "Liu Boming",
+            "country": "China",
+            "flag_code": "cn",
+            "agency": "PLAAC",
+            "position": "Operator 1",
+            "spacecraft": "Shenzhou 12",
+            "launched": 1623885747,
+            "iss": false,
+            "days_in_space": 3,
+            "url": "https://en.wikipedia.org/wiki/Liu_Boming_(astronaut)",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Liu_Boming.JPG"
+        },
+        {
+            "id": 10,
+            "name": "Tang Hongbo",
+            "country": "China",
+            "flag_code": "cn",
+            "agency": "PLAAC",
+            "position": "Operator 2",
+            "spacecraft": "Shenzhou 12",
+            "launched": 1623885747,
+            "iss": false,
+            "days_in_space": 0,
+            "url": "https://en.wikipedia.org/wiki/Tang_Hongbo",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tang_Hongbo.png"
         }
     ]
 }
