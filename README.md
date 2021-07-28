@@ -6,7 +6,9 @@ The idea for this project came from various space-related APIs, including [Open 
 
 It's my goal to keep these APIs up to date depending on rocket launch schedules and spacecraft docking and departures from the ISS.
 
-I hope the level of detail in these APIs is useful for your own projects. 
+*Update:* I am now using these APIs in my [React ISS Tracker app](https://corquaid.github.io/react-iss-tracker).
+
+I hope the level of detail in these APIs is useful for your own projects.
 
 Ad Astra!
 
