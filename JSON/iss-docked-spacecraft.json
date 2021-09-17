@@ -79,7 +79,7 @@
             "docking_port": "Unity nadir",
             "launch_mass": 8041,
             "payload_mass": 3723,
-            "launch_vehicle": "Antares 2320+",
+            "launch_vehicle": "Antares 230+",
             "mission_type": "Cargo",
             "crew": null,
             "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Cygnus_NG-16_Patch.png",
