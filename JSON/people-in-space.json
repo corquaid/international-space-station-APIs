@@ -109,13 +109,13 @@
             "country": "Russia",
             "flag_code": "ru",
             "agency": "Roscosmos",
-            "position": "Commander",
+            "position": "Flight Engineer",
             "spacecraft": "Soyuz MS-19",
             "launched": 1633416902,
             "iss": true,
             "days_in_space": 533,
             "url": "https://en.wikipedia.org/wiki/Anton_Shkaplerov",
-            "image": "https://github.com/corquaid/international-space-station-APIs/blob/main/images/blog_soyuz_ms19_crew_shkaplerov.jpg"
+            "image": "https://dl.airtable.com/.attachmentThumbnails/4d32501a3a4697f3d1bdb82d7573391d/5e5e3d0b"
         },
         {
             "id": 9,
@@ -129,7 +129,7 @@
             "iss": true,
             "days_in_space": 0,
             "url": "https://en.wikipedia.org/wiki/Klim_Shipenko",
-            "image": "https://github.com/corquaid/international-space-station-APIs/blob/main/images/blog_soyuz_ms19_crew_shipenko.jpg"
+            "image": "https://dl.airtable.com/.attachmentThumbnails/792c2679f038e25424c95ad70b3475f5/6132ece5"
         },
         {
             "id": 10,
@@ -143,7 +143,7 @@
             "iss": true,
             "days_in_space": 0,
             "url": "https://en.wikipedia.org/wiki/Yulia_Peresild",
-            "image": "https://github.com/corquaid/international-space-station-APIs/blob/main/images/blog_soyuz_ms19_crew_peresild.jpg"
+            "image": "https://dl.airtable.com/.attachmentThumbnails/270e1fab8b054c92d272fb8ce7e6f965/2699f41c"
         }       
     ]
 }
