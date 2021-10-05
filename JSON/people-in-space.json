@@ -1,5 +1,5 @@
 {
-    "number": 7,
+    "number": 10,
     "iss_expedition": 65,
     "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/4/49/ISS_Expedition_65_Patch.png",
     "expedition_url": "https://en.wikipedia.org/wiki/Expedition_65",
@@ -81,7 +81,7 @@
             "country": "Japan",
             "flag_code": "jp",
             "agency": "JAXA",
-            "position": "Commander",
+            "position": "Flight Engineer",
             "spacecraft": "Crew-2 Dragon",
             "launched": 1619171342,
             "iss": true,
@@ -95,13 +95,55 @@
             "country": "France",
             "flag_code": "fr",
             "agency": "ESA",
-            "position": "Flight Engineer",
+            "position": "Commander",
             "spacecraft": "Crew-2 Dragon",
             "launched": 1619171342,
             "iss": true,
             "days_in_space": 197,
             "url": "https://en.wikipedia.org/wiki/Thomas_Pesquet",
             "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Thomas_Pesquet%2C_official_portrait_in_EMU_%282020%29.jpg"
-        }
+        },
+        {
+            "id": 8,
+            "name": "Anton Shkaplerov",
+            "country": "Russia",
+            "flag_code": "ru",
+            "agency": "Roscosmos",
+            "position": "Commander",
+            "spacecraft": "Soyuz MS-19",
+            "launched": 1633416902,
+            "iss": true,
+            "days_in_space": 533,
+            "url": "https://en.wikipedia.org/wiki/Anton_Shkaplerov",
+            "image": "https://github.com/corquaid/international-space-station-APIs/blob/main/images/blog_soyuz_ms19_crew_shkaplerov.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Klim Shipenko",
+            "country": "Russia",
+            "flag_code": "ru",
+            "agency": null,
+            "position": "Participant",
+            "spacecraft": "Soyuz MS-19",
+            "launched": 1633416902,
+            "iss": true,
+            "days_in_space": 0,
+            "url": "https://en.wikipedia.org/wiki/Klim_Shipenko",
+            "image": "https://github.com/corquaid/international-space-station-APIs/blob/main/images/blog_soyuz_ms19_crew_shipenko.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Yulia Peresild",
+            "country": "Russia",
+            "flag_code": "ru",
+            "agency": null,
+            "position": "Participant",
+            "spacecraft": "Soyuz MS-19",
+            "launched": 1633416902,
+            "iss": true,
+            "days_in_space": 0,
+            "url": "https://en.wikipedia.org/wiki/Yulia_Peresild",
+            "image": "https://github.com/corquaid/international-space-station-APIs/blob/main/images/blog_soyuz_ms19_crew_peresild.jpg"
+        }       
     ]
 }
