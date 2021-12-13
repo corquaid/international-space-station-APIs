@@ -84,6 +84,27 @@
             "mission_patch": null,
             "url": "https://en.wikipedia.org/wiki/Progress_M-UM",
             "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Prichal_flyaround_and_docking_12_%28cropped%29.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Soyuz MS-20",
+            "country": "Russia",
+            "flag_code": "ru",
+            "operator": "Roscosmos",
+            "manufacturer": "Energia",
+            "launched": 1638945495,
+            "launch_site": "Site 31/6, Baikonur",
+            "iss": true,
+            "docked": 1638967260,
+            "docking_port": "Poisk zenith",
+            "launch_mass": null,
+            "payload_mass": null,
+            "launch_vehicle": "Soyuz 2.1a",
+            "mission_type": "Crew",
+            "crew": ["Alexander Misurkin", "Yusaku Maezawa", "Yozo Hirano"],
+            "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Soyuz_MS-20_Mission_Patch.png",
+            "url": "https://en.wikipedia.org/wiki/Soyuz_MS-20",
+            "image": ""
         }
     ]
 }

@@ -144,6 +144,48 @@
             "days_in_space": 0,
             "url": "https://en.wikipedia.org/wiki/Matthias_Maurer",
             "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/SpaceX_Crew-3_Mission_Specialist_Matthias_Maurer.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Alexander Misurkin",
+            "country": "Russia",
+            "flag_code": "ru",
+            "agency": "Roscosmos",
+            "position": "Flight Engineer",
+            "spacecraft": "Soyuz MS-20",
+            "launched": 1638945495,
+            "iss": true,
+            "days_in_space": 334,
+            "url": "https://en.wikipedia.org/wiki/Alexander_Misurkin",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Aleksandr_Misurkin_in_2017.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Yusaku Maezawa",
+            "country": "Japan",
+            "flag_code": "jp",
+            "agency": null,
+            "position": "Participant",
+            "spacecraft": "Soyuz MS-20",
+            "launched": 1638945495,
+            "iss": true,
+            "days_in_space": 0,
+            "url": "https://en.wikipedia.org/wiki/Yusaku_Maezawa",
+            "image": "https://www.spacelaunchschedule.com/wp-content/uploads/yusaku_maezawa_image_20211102152037-185x300.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Yozo Hirano",
+            "country": "Japan",
+            "flag_code": "jp",
+            "agency": null,
+            "position": "Participant",
+            "spacecraft": "Soyuz MS-20",
+            "launched": 1638945495,
+            "iss": true,
+            "days_in_space": 0,
+            "url": "https://en.wikipedia.org/wiki/Yozo_Hirano",
+            "image": "https://www.spacelaunchschedule.com/wp-content/uploads/yozo_hirano_image_20211102151705-190x300.jpg"
         }
     ]
 }
