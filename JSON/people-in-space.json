@@ -1,5 +1,5 @@
 {
-  "number": 11,
+  "number": 7,
   "iss_expedition": 67,
   "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/d/d3/ISS_Expedition_67_Patch.png",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_67",
@@ -102,62 +102,6 @@
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Sergey_Korsakov_(cosmonaut)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sergey_Korsakov_in_2021.jpg"
-    },
-    {
-      "id": 8,
-      "name": "Michael López-Alegría",
-      "country": "United States",
-      "flag_code": "us",
-      "agency": "Axiom Space",
-      "position": "Participant",
-      "spacecraft": "Axiom-1 Dragon",
-      "launched": 1649423832,
-      "iss": true,
-      "days_in_space": 254,
-      "url": "https://en.wikipedia.org/wiki/Michael_L%C3%B3pez-Alegr%C3%ADa",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Michael_Lopez-Alegria.jpg"
-    },
-    {
-      "id": 9,
-      "name": "Larry Connor",
-      "country": "United States",
-      "flag_code": "us",
-      "agency": "Axiom Space",
-      "position": "Participant",
-      "spacecraft": "Axiom-1 Dragon",
-      "launched": 1649423832,
-      "iss": true,
-      "days_in_space": 0,
-      "url": "https://en.wikipedia.org/wiki/Larry_Connor",
-      "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/Larry_Connor_Portrait.png"
-    },
-    {
-      "id": 10,
-      "name": "Eytan Stibbe",
-      "country": "Israel",
-      "flag_code": "il",
-      "agency": "Axiom Space",
-      "position": "Participant",
-      "spacecraft": "Axiom-1 Dragon",
-      "launched": 1649423832,
-      "iss": true,
-      "days_in_space": 0,
-      "url": "https://en.wikipedia.org/wiki/Eytan_Stibbe",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Eitan_Stiva.jpg"
-    },
-    {
-      "id": 11,
-      "name": "Mark Pathy",
-      "country": "Canada",
-      "flag_code": "ca",
-      "agency": "Axiom Space",
-      "position": "Participant",
-      "spacecraft": "Axiom-1 Dragon",
-      "launched": 1649423832,
-      "iss": true,
-      "days_in_space": 0,
-      "url": "https://en.wikipedia.org/wiki/Mark_Pathy",
-      "image": null
     }
   ]
 }
