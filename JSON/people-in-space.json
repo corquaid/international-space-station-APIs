@@ -1,5 +1,5 @@
 {
-  "number": 11,
+  "number": 7,
   "iss_expedition": 67,
   "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/d/d3/ISS_Expedition_67_Patch.png",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_67",
@@ -7,67 +7,11 @@
   "people": [
     {
       "id": 1,
-      "name": "Raja Chari",
-      "country": "United States",
-      "flag_code": "us",
-      "agency": "NASA",
-      "position": "Flight Engineer",
-      "spacecraft": "Crew-3 Dragon",
-      "launched": 1636592611,
-      "iss": true,
-      "days_in_space": 0,
-      "url": "https://en.wikipedia.org/wiki/Raja_Chari",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SpaceX_Crew-3_Commander_Raja_Chari_%28cropped%29.jpg/1558px-SpaceX_Crew-3_Commander_Raja_Chari_%28cropped%29.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Tom Marshburn",
-      "country": "United States",
-      "flag_code": "us",
-      "agency": "NASA",
-      "position": "Commander",
-      "spacecraft": "Crew-3 Dragon",
-      "launched": 1636592611,
-      "iss": true,
-      "days_in_space": 161,
-      "url": "https://en.wikipedia.org/wiki/Thomas_Marshburn",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/SpaceX_Crew-3_Pilot_Thomas_Marshburn.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Kayla Barron",
-      "country": "United States",
-      "flag_code": "us",
-      "agency": "NASA",
-      "position": "Flight Engineer",
-      "spacecraft": "Crew-3 Dragon",
-      "launched": 1636592611,
-      "iss": true,
-      "days_in_space": 0,
-      "url": "https://en.wikipedia.org/wiki/Kayla_Barron",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/SpaceX_Crew-3_Mission_Specialist_Kayla_Barron.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Matthias Maurer",
-      "country": "Germany",
-      "flag_code": "de",
-      "agency": "ESA",
-      "position": "Flight Engineer",
-      "spacecraft": "Crew-3 Dragon",
-      "launched": 1636592611,
-      "iss": true,
-      "days_in_space": 0,
-      "url": "https://en.wikipedia.org/wiki/Matthias_Maurer",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/SpaceX_Crew-3_Mission_Specialist_Matthias_Maurer.jpg"
-    },
-    {
-      "id": 5,
       "name": "Oleg Artemyev",
       "country": "Russia",
       "flag_code": "ru",
       "agency": "Roscosmos",
-      "position": "Flight Engineer",
+      "position": "Commander",
       "spacecraft": "Soyuz MS-21",
       "launched": 1647615318,
       "iss": true,
@@ -76,7 +20,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Oleg_Artemyev_in_2021.jpg"
     },
     {
-      "id": 6,
+      "id": 2,
       "name": "Denis Matveev",
       "country": "Russia",
       "flag_code": "ru",
@@ -90,7 +34,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Denis_Matveev_in_2021_%28b%29.jpg"
     },
     {
-      "id": 7,
+      "id": 3,
       "name": "Sergey Korsakov",
       "country": "Russia",
       "flag_code": "ru",
@@ -104,7 +48,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sergey_Korsakov_in_2021.jpg"
     },
     {
-      "id": 8,
+      "id": 4,
       "name": "Kjell Lindgren",
       "country": "United States",
       "flag_code": "us",
@@ -118,7 +62,7 @@
       "image": "https://www.nasa.gov/sites/default/files/thumbnails/image/jsc2021e018841_alt.jpg"
     },
     {
-      "id": 9,
+      "id": 5,
       "name": "Bob Hines",
       "country": "United States",
       "flag_code": "us",
@@ -132,7 +76,7 @@
       "image": "https://www.nasa.gov/sites/default/files/thumbnails/image/jsc2021e018898_alt.jpg"
     },
     {
-      "id": 10,
+      "id": 6,
       "name": "Samantha Cristoforetti",
       "country": "Italy",
       "flag_code": "it",
@@ -146,7 +90,7 @@
       "image": "https://www.nasa.gov/sites/default/files/thumbnails/image/jsc2022e006162_alt.jpg"
     },
     {
-      "id": 11,
+      "id": 7,
       "name": "Jessica Watkins",
       "country": "United States",
       "flag_code": "us",
