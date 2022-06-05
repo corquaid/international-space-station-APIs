@@ -102,6 +102,48 @@
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Jessica_Watkins",
       "image": "https://www.nasa.gov/sites/default/files/thumbnails/image/jsc2021e037768_alt.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Chen Dong",
+      "country": "China",
+      "flag_code": "cn",
+      "agency": "CNSA",
+      "position": "Commander",
+      "spacecraft": "Shenzhou 14",
+      "launched": 1654389841,
+      "iss": false,
+      "days_in_space": 33,
+      "url": "https://en.wikipedia.org/wiki/Chen_Dong_(taikonaut)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/%E8%88%AA%E5%A4%A9%E5%91%98%E9%99%88%E5%86%AC_Chen_Dong.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Liu Yang",
+      "country": "China",
+      "flag_code": "cn",
+      "agency": "CNSA",
+      "position": "Operator",
+      "spacecraft": "Shenzhou 14",
+      "launched": 1654389841,
+      "iss": false,
+      "days_in_space": 12,
+      "url": "https://en.wikipedia.org/wiki/Liu_Yang_(taikonaut)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Liu_Yang_-_UNOOSA_50_Years_of_Women_in_Space_NHM_Vienna_2013_b.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Cai Xuzhe",
+      "country": "China",
+      "flag_code": "cn",
+      "agency": "CNSA",
+      "position": "System Operator",
+      "spacecraft": "Shenzhou 14",
+      "launched": 1654389841,
+      "iss": false,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Cai_Xuzhe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/%E8%88%AA%E5%A4%A9%E5%91%98%E8%94%A1%E6%97%AD%E5%93%B2_Cai_Xuzhe.jpg"
     }
   ]
 }
