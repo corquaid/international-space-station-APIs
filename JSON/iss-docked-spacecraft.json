@@ -88,7 +88,7 @@
       "crew": null,
       "mission_patch": null,
       "url": "https://en.wikipedia.org/wiki/Progress_MS-20",
-      "image": "https://github.com/corquaid/international-space-station-APIs/blob/main/images/progress-ms-20-start.jpg"
+      "image": "https://raw.githubusercontent.com/corquaid/international-space-station-APIs/main/images/progress-ms-20-start.jpg"
     },
     {
       "id": 5,
@@ -109,7 +109,7 @@
       "crew": ["Sergey Prokopyev", "Dmitry Petelin", "Frank Rubio"],
       "mission_patch": "http://www.collectspace.com/review/soyuz_ms22_patch01-lg.jpg",
       "url": "https://en.wikipedia.org/wiki/Soyuz_MS-22",
-      "image": "https://github.com/corquaid/international-space-station-APIs/blob/main/images/52374325618_54b4743bd1_k.jpg"
+      "image": "https://raw.githubusercontent.com/corquaid/international-space-station-APIs/main/images/52374325618_54b4743bd1_k.jpg"
     }
   ]
 }
