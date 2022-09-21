@@ -1,5 +1,5 @@
 {
-  "number": 10,
+  "number": 13,
   "iss_expedition": 67,
   "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/d/d3/ISS_Expedition_67_Patch.png",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_67",
@@ -11,7 +11,7 @@
       "country": "Russia",
       "flag_code": "ru",
       "agency": "Roscosmos",
-      "position": "Commander",
+      "position": "Flight Engineer",
       "spacecraft": "Soyuz MS-21",
       "launched": 1647615318,
       "iss": true,
@@ -81,7 +81,7 @@
       "country": "Italy",
       "flag_code": "it",
       "agency": "ESA",
-      "position": "Flight Engineer",
+      "position": "Commander",
       "spacecraft": "Crew-4 Dragon",
       "launched": 1651038775,
       "iss": true,
@@ -144,6 +144,48 @@
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Cai_Xuzhe",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/%E8%88%AA%E5%A4%A9%E5%91%98%E8%94%A1%E6%97%AD%E5%93%B2_Cai_Xuzhe.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Sergey Prokopyev",
+      "country": "Russia",
+      "flag_code": "ru",
+      "agency": "Roscosmos",
+      "position": "Flight Engineer",
+      "spacecraft": "Soyuz MS-22",
+      "launched": 1663761240,
+      "iss": true,
+      "days_in_space": 197,
+      "url": "https://en.wikipedia.org/wiki/Sergey_Prokopyev_(cosmonaut)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sergey_Prokopyev_-_NASA_portrait.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Dmitry Petelin",
+      "country": "Russia",
+      "flag_code": "ru",
+      "agency": "Roscosmos",
+      "position": "Flight Engineer",
+      "spacecraft": "Soyuz MS-22",
+      "launched": 1663761240,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Dmitry_Petelin",
+      "image": "https://en.wikipedia.org/wiki/Dmitry_Petelin#/media/File:Dmitry_Petelin_(cropped).jpg"
+    },
+    {
+      "id": 13,
+      "name": "Frank Rubio",
+      "country": "United States",
+      "flag_code": "us",
+      "agency": "NASA",
+      "position": "Flight Engineer",
+      "spacecraft": "Soyuz MS-22",
+      "launched": 1663761240,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Francisco_Rubio_(astronaut)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Francisco_Rubio_portrait.jpg"
     }
   ]
 }
