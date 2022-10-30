@@ -8,6 +8,8 @@ It's my goal to keep these APIs up to date depending on rocket launch schedules 
 
 I hope the level of detail in these APIs is useful for your own projects.
 
+Please let me know if there is any information that you would like to have added to either API, just open an issue, or go ahead and create a PR!
+
 Ad Astra!
 
 ## APIs
