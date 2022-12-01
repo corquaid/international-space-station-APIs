@@ -1,5 +1,5 @@
 {
-  "number": 10,
+  "number": 13,
   "iss_expedition": 68,
   "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/2/25/ISS_Expedition_68_Patch.png",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_68",
@@ -144,6 +144,48 @@
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Anna_Kikina",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Anna_Kikina_Official_Portrait.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Fei Junlong",
+      "country": "China",
+      "flag_code": "cn",
+      "agency": "CNSA",
+      "position": "Commander",
+      "spacecraft": "Shenzhou 15",
+      "launched": 1669730897,
+      "iss": false,
+      "days_in_space": 5,
+      "url": "https://en.wikipedia.org/wiki/Fei_Junlong",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dyor_Fei_Junlong.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Deng Qingming",
+      "country": "China",
+      "flag_code": "cn",
+      "agency": "CNSA",
+      "position": "Operator",
+      "spacecraft": "Shenzhou 15",
+      "launched": 1669730897,
+      "iss": false,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Deng_Qingming",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Deng_Qingming_%28cropped%29.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Zhang Lu",
+      "country": "China",
+      "flag_code": "cn",
+      "agency": "CNSA",
+      "position": "System Operator",
+      "spacecraft": "Shenzhou 15",
+      "launched": 1669730897,
+      "iss": false,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Zhang_Lu_(taikonaut)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Zhang_Lu_%28cropped%29.jpg"
     }
   ]
 }
