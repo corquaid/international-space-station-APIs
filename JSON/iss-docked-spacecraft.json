@@ -1,5 +1,5 @@
 {
-  "number": 6,
+  "number": 5,
   "spacecraft": [
     {
       "id": 1,
@@ -105,27 +105,6 @@
       "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cygnus_NG-18_Patch.png",
       "url": "https://en.wikipedia.org/wiki/Cygnus_NG-18",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Blog_cygnus_capture_110922.jpg"
-    },
-    {
-      "id": 6,
-      "name": "CRS-26 Dragon",
-      "country": "United States",
-      "flag_code": "us",
-      "operator": "SpaceX",
-      "manufacturer": "SpaceX",
-      "launched": 1669486842,
-      "launch_site": "KSC, LC-39A",
-      "iss": true,
-      "docked": 1669486842,
-      "docking_port": "Harmony zenith",
-      "launch_mass": 9525,
-      "payload_mass": null,
-      "launch_vehicle": "Falcon 9",
-      "mission_type": "Cargo",
-      "crew": null,
-      "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/3/33/SpaceX_CRS-26_Patch.png",
-      "url": "https://en.wikipedia.org/wiki/SpaceX_CRS-26",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/SpaceX_Cargo_dragon_C211.jpg"
     }
   ]
 }
