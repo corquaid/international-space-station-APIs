@@ -1,16 +1,18 @@
 # International Space Station APIs
 
-APIs packed with information regarding all ongoing spaceflights and spacecraft operations at the International Space Station.
+APIs packed with information regarding all ongoing spaceflights and spacecraft operations at the International Space Station and the Chinese Space Station (Tiangong).
 
 The inspiration for this project came from various space-related APIs, including [Open Notify](http://open-notify.org/) by Nathan Bergey and the excellent [Where The ISS At](https://wheretheiss.at/w/developer) resource, which I called upon when creating my own [ISS Tracker app](https://corquaid.github.io/react-iss-tracker/).
 
-It's my goal to keep these APIs up to date depending on rocket launch schedules and spacecraft docking and departures from the ISS.
+It's my goal to keep these APIs up to date depending on rocket launch schedules and spacecraft docking and departures from the ISS and CSS.
 
 I hope the level of detail in these APIs is useful for your own projects.
 
 Please let me know if there is any information that you would like to have added to either API, just open an issue, or go ahead and create a PR!
 
 Ad Astra!
+
+`Please note that I won't be updating for sub-orbital spaceflights (New Shepard, Virgin Galactic and the like), only orbital flights.`
 
 ## APIs
 
@@ -33,19 +35,19 @@ Here's an example of the returned JSON:
 >  expedition_image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Expedition_67_crew_portrait.jpg",
 >  people: [
 >     {
->  id: 1,
->  name: "Raja Chari",
->  country: "United States",
->  flag_code: "us",
->  agency: "NASA",
->  position: "Flight Engineer",
->  spacecraft: "Crew-3 Dragon",
->  launched: 1636592611,
->  iss: true,
->  days_in_space: 0,
->  url: "https://en.wikipedia.org/wiki/Raja_Chari",
->  image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SpaceX_Crew-3_Commander_Raja_Chari_%28cropped%29.jpg/> 1558px-SpaceX_Crew-3_Commander_Raja_Chari_%28cropped%29.jpg"
->     },
+        "id": 3,
+        "name": "Frank Rubio",
+        "country": "United States",
+        "flag_code": "us",
+        "agency": "NASA",
+        "position": "Flight Engineer",
+        "spacecraft": "Soyuz MS-22",
+        "launched": 1663761240,
+        "iss": true,
+        "days_in_space": 0,
+        "url": "https://en.wikipedia.org/wiki/Francisco_Rubio_(astronaut)",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Francisco_Rubio_portrait.jpg"
+      },
 >  ]
 > }
 > ```
