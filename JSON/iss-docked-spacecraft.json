@@ -1,5 +1,5 @@
 {
-  "number": 4,
+  "number": 5,
   "spacecraft": [
     {
       "id": 1,
@@ -84,6 +84,27 @@
       "mission_patch": null,
       "url": "https://en.wikipedia.org/wiki/Progress_MS-22",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2023/02/blog_iss068e019673.jpg"
+    },
+     {
+      "id": 5,
+      "name": "Soyuz MS-23",
+      "country": "Russia",
+      "flag_code": "ru",
+      "operator": "Roscosmos",
+      "manufacturer": "Energia",
+      "launched": 1677194689,
+      "launch_site": "Site 31/6, Baikonur",
+      "iss": true,
+      "docked": 1677369480,
+      "docking_port": "Poisk zenith",
+      "launch_mass": null,
+      "payload_mass": null,
+      "launch_vehicle": "Soyuz 2.1a",
+      "mission_type": "Crew",
+      "crew": [],
+      "mission_patch": null,
+      "url": "https://en.wikipedia.org/wiki/Soyuz_MS-23",
+      "image": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/02/Soyuz-MS-23-Docking_blog.png"
     }
   ]
 }
