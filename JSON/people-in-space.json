@@ -144,6 +144,62 @@
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Zhang_Lu_(taikonaut)",
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Zhang_Lu_%28cropped%29.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Stephen Bowen",
+      "country": "United States",
+      "flag_code": "us",
+      "agency": "NASA",
+      "position": "Flight Engineer",
+      "spacecraft": "Crew-6 Dragon",
+      "launched": 1677731640,
+      "iss": true,
+      "days_in_space": 40,
+      "url": "https://en.wikipedia.org/wiki/Stephen_Bowen_(astronaut)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Stephenbowenv2.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Warren Hoburgh",
+      "country": "United States",
+      "flag_code": "us",
+      "agency": "NASA",
+      "position": "Flight Engineer",
+      "spacecraft": "Crew-6 Dragon",
+      "launched": 1677731640,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Warren_Hoburg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Warren_Hoburg_portrait.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Sultan Al Neyadi",
+      "country": "United Arab Emirates",
+      "flag_code": "ae",
+      "agency": "MBRSC",
+      "position": "Flight Engineer",
+      "spacecraft": "Crew-6 Dragon",
+      "launched": 1677731640,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Sultan_Al_Neyadi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/SpaceX-Crew-6_Sultan-Alneyadi-MBRSC-scaled.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Andrey Fedyaev",
+      "country": "Russia",
+      "flag_code": "ru",
+      "agency": "Roscosmos",
+      "position": "Flight Engineer",
+      "spacecraft": "Crew-6 Dragon",
+      "launched": 1677731640,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Andrey_Fedyaev",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Andrey_Fedyaev.jpg"
     }
   ]
 }
