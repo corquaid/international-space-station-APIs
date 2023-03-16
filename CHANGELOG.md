@@ -1,3 +1,12 @@
+## [1.29.1](https://github.com/corquaid/international-space-station-APIs/compare/v0.1.0...v1.29.1) (2023-03-16)
+
+
+### Bug Fixes
+
+* fixing package.json for github actions ([5d4a946](https://github.com/corquaid/international-space-station-APIs/commit/5d4a946ad64fa4a137006807d6ec5dd1317f4cc0))
+
+
+
 # [0.1.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.29.0...v0.1.0) (2023-03-16)
 
 
@@ -16,10 +25,6 @@
 
 
 # [1.27.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.26.0...v1.27.0) (2022-10-21)
-
-
-
-# [1.26.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.25.0...v1.26.0) (2022-08-20)
 
 
 
