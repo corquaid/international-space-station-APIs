@@ -1,3 +1,12 @@
+# [1.30.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.29.1...v1.30.0) (2023-03-16)
+
+
+### Features
+
+* **json:** update for docking of CRS-27 spacecraft ([7217309](https://github.com/corquaid/international-space-station-APIs/commit/7217309c384ee1e2bf84d41b274999779d61c127))
+
+
+
 ## [1.29.1](https://github.com/corquaid/international-space-station-APIs/compare/v0.1.0...v1.29.1) (2023-03-16)
 
 
@@ -21,10 +30,6 @@
 
 
 # [1.28.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.27.0...v1.28.0) (2022-10-24)
-
-
-
-# [1.27.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.26.0...v1.27.0) (2022-10-21)
 
 
 
