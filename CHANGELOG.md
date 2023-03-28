@@ -1,3 +1,12 @@
+# [1.31.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.30.0...v1.31.0) (2023-03-28)
+
+
+### Features
+
+* **json:** update for undocking of Soyuz MS-22 spacecraft ([1c668f4](https://github.com/corquaid/international-space-station-APIs/commit/1c668f42121137adab559c03011791042b3aa0fd))
+
+
+
 # [1.30.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.29.1...v1.30.0) (2023-03-16)
 
 
@@ -26,10 +35,6 @@
 
 
 # [1.29.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.28.0...v1.29.0) (2022-10-30)
-
-
-
-# [1.28.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.27.0...v1.28.0) (2022-10-24)
 
 
 
