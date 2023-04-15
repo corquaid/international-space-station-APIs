@@ -1,3 +1,12 @@
+# [1.34.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.33.0...v1.34.0) (2023-04-15)
+
+
+### Features
+
+* adding crew portrait for expedition 69 ([e645895](https://github.com/corquaid/international-space-station-APIs/commit/e64589525194cbb552b5ce24214b19ecc3cd409b))
+
+
+
 # [1.33.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.32.0...v1.33.0) (2023-04-15)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * **json:** update for docking of CRS-27 spacecraft ([7217309](https://github.com/corquaid/international-space-station-APIs/commit/7217309c384ee1e2bf84d41b274999779d61c127))
-
-
-
-## [1.29.1](https://github.com/corquaid/international-space-station-APIs/compare/v0.1.0...v1.29.1) (2023-03-16)
-
-
-### Bug Fixes
-
-* fixing package.json for github actions ([5d4a946](https://github.com/corquaid/international-space-station-APIs/commit/5d4a946ad64fa4a137006807d6ec5dd1317f4cc0))
 
 
 
