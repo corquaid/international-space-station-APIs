@@ -1,3 +1,12 @@
+# [1.33.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.32.0...v1.33.0) (2023-04-15)
+
+
+### Features
+
+* **json:** update for undocking of CRS-27 Dragon spacecraft ([7be0962](https://github.com/corquaid/international-space-station-APIs/commit/7be09620d6a4844ace015da46a139b216449240a))
+
+
+
 # [1.32.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.31.0...v1.32.0) (2023-03-30)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * fixing package.json for github actions ([5d4a946](https://github.com/corquaid/international-space-station-APIs/commit/5d4a946ad64fa4a137006807d6ec5dd1317f4cc0))
-
-
-
-# [0.1.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.29.0...v0.1.0) (2023-03-16)
-
-
-### Features
-
-* adding github actions ([52a750b](https://github.com/corquaid/international-space-station-APIs/commit/52a750b80e1f8e094143b2b2dc71ce162f34fca3))
 
 
 
