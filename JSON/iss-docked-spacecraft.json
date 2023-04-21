@@ -1,29 +1,8 @@
 {
-  "number": 4,
+  "number": 3,
   "spacecraft": [
     {
       "id": 1,
-      "name": "Cygnus NG-18",
-      "country": "United States",
-      "flag_code": "us",
-      "operator": "Northrop Grumman",
-      "manufacturer": "Northrop Grumman",
-      "launched": 1667813552,
-      "launch_site": "Wallops, Pad 0A",
-      "iss": true,
-      "docked": 1667995500,
-      "docking_port": "Unity nadir",
-      "launch_mass": 6000,
-      "payload_mass": 3700,
-      "launch_vehicle": "Antares 230+",
-      "mission_type": "Cargo",
-      "crew": null,
-      "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cygnus_NG-18_Patch.png",
-      "url": "https://en.wikipedia.org/wiki/Cygnus_NG-18",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Blog_cygnus_capture_110922.jpg"
-    },
-    {
-      "id": 2,
       "name": "Progress MS-22",
       "country": "Russia",
       "flag_code": "ru",
@@ -44,7 +23,7 @@
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2023/02/blog_iss068e019673.jpg"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Soyuz MS-23",
       "country": "Russia",
       "flag_code": "ru",
@@ -65,7 +44,7 @@
       "image": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/02/Soyuz-MS-23-Docking_blog.png"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Crew-6 Dragon",
       "country": "United States",
       "flag_code": "us",
