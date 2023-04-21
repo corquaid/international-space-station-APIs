@@ -1,3 +1,12 @@
+# [1.35.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.34.0...v1.35.0) (2023-04-21)
+
+
+### Features
+
+* **json:** update for departure of Cygnus NG-18 spacecraft ([13a314a](https://github.com/corquaid/international-space-station-APIs/commit/13a314ace1a23b55580d90210ec5b9dc1c4cc6f5))
+
+
+
 # [1.34.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.33.0...v1.34.0) (2023-04-15)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * **json:** update for undocking of Soyuz MS-22 spacecraft ([1c668f4](https://github.com/corquaid/international-space-station-APIs/commit/1c668f42121137adab559c03011791042b3aa0fd))
-
-
-
-# [1.30.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.29.1...v1.30.0) (2023-03-16)
-
-
-### Features
-
-* **json:** update for docking of CRS-27 spacecraft ([7217309](https://github.com/corquaid/international-space-station-APIs/commit/7217309c384ee1e2bf84d41b274999779d61c127))
 
 
 
