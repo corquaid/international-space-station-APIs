@@ -1,5 +1,5 @@
 {
-  "number": 10,
+  "number": 14,
   "iss_expedition": 69,
   "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/a/a1/ISS_Expedition_69_Patch.png",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_69",
@@ -144,6 +144,62 @@
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Andrey_Fedyaev",
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Andrey_Fedyaev.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Peggy Whitson",
+      "country": "United States",
+      "flag_code": "us",
+      "agency": "Axiom",
+      "position": "Private astronaut",
+      "spacecraft": "Ax-2 Dragon",
+      "launched": 1684697820,
+      "iss": true,
+      "days_in_space": 665,
+      "url": "https://en.wikipedia.org/wiki/Peggy_Whitson",
+      "image": "https://images.squarespace-cdn.com/content/v1/5f9c4976896349619c5b3d7b/2fcb59a6-14e4-4d11-ae6b-26b985369c63/Commander.jpg?format=1000w"
+    },
+    {
+      "id": 12,
+      "name": "John Shoffner",
+      "country": "United States",
+      "flag_code": "us",
+      "agency": "Axiom",
+      "position": "Private astronaut",
+      "spacecraft": "Ax-2 Dragon",
+      "launched": 1684697820,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/John_Shoffner",
+      "image": "https://images.squarespace-cdn.com/content/v1/5f9c4976896349619c5b3d7b/08764021-7fea-49e7-a88e-9d6e32ea9560/Pilot.jpg?format=1000w"
+    },
+    {
+      "id": 13,
+      "name": "Ali AlQarni",
+      "country": "Saudi Arabia",
+      "flag_code": "sa",
+      "agency": "Axiom",
+      "position": "Private astronaut",
+      "spacecraft": "Ax-2 Dragon",
+      "launched": 1684697820,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Ali_AlQarni",
+      "image": "https://images.squarespace-cdn.com/content/v1/5f9c4976896349619c5b3d7b/61fe4808-291b-4d25-bc96-bc50d748fe42/MS+1.jpg?format=1000w"
+    },
+    {
+      "id": 14,
+      "name": "Rayyanah Barnawi",
+      "country": "Saudi Arabia",
+      "flag_code": "sa",
+      "agency": "Axiom",
+      "position": "Private astronaut",
+      "spacecraft": "Ax-2 Dragon",
+      "launched": 1684697820,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Rayyanah_Barnawi",
+      "image": "https://images.squarespace-cdn.com/content/v1/5f9c4976896349619c5b3d7b/921822d5-5e68-4338-a74a-922d40682ef0/MS+2.jpg?format=1000w"
     }
   ]
 }
