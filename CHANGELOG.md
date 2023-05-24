@@ -1,3 +1,12 @@
+# [1.36.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.35.0...v1.36.0) (2023-05-24)
+
+
+### Features
+
+* **json:** update for docking of Ax-2 Dragon spacecraft ([5c75aeb](https://github.com/corquaid/international-space-station-APIs/commit/5c75aebcddba4715c7fdf4b392c8c2d60176354f))
+
+
+
 # [1.35.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.34.0...v1.35.0) (2023-04-21)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * **json:** update for changeover to expedition 69 ([7f865c0](https://github.com/corquaid/international-space-station-APIs/commit/7f865c0c9c6bfd2c57d9b796d5c3a75da0ee748e))
-
-
-
-# [1.31.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.30.0...v1.31.0) (2023-03-28)
-
-
-### Features
-
-* **json:** update for undocking of Soyuz MS-22 spacecraft ([1c668f4](https://github.com/corquaid/international-space-station-APIs/commit/1c668f42121137adab559c03011791042b3aa0fd))
 
 
 
