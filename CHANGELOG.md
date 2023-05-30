@@ -1,3 +1,12 @@
+# [1.38.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.37.0...v1.38.0) (2023-05-30)
+
+
+### Features
+
+* **json:** update for undocking of Ax-2 Crew Dragon and launch of Shenzhou 16 mission ([52c1b0f](https://github.com/corquaid/international-space-station-APIs/commit/52c1b0fa173b06b03839d95b1c7a073110b793d7))
+
+
+
 # [1.37.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.35.0...v1.37.0) (2023-05-24)
 
 
@@ -33,15 +42,6 @@
 ### Features
 
 * **json:** update for undocking of CRS-27 Dragon spacecraft ([7be0962](https://github.com/corquaid/international-space-station-APIs/commit/7be09620d6a4844ace015da46a139b216449240a))
-
-
-
-# [1.32.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.31.0...v1.32.0) (2023-03-30)
-
-
-### Features
-
-* **json:** update for changeover to expedition 69 ([7f865c0](https://github.com/corquaid/international-space-station-APIs/commit/7f865c0c9c6bfd2c57d9b796d5c3a75da0ee748e))
 
 
 
