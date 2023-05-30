@@ -1,5 +1,5 @@
 {
-  "number": 5,
+  "number": 4,
   "spacecraft": [
     {
       "id": 1,
@@ -71,32 +71,6 @@
     },
     {
       "id": 4,
-      "name": "Ax-2 Dragon",
-      "country": "United States",
-      "flag_code": "us",
-      "operator": "SpaceX",
-      "manufacturer": "SpaceX",
-      "launched": 1684697820,
-      "launch_site": "KSC, LC-39A",
-      "iss": true,
-      "docked": 1684764720,
-      "docking_port": "Harmony zenith",
-      "launch_mass": 12519,
-      "payload_mass": null,
-      "launch_vehicle": "Falcon 9",
-      "mission_type": "Crew",
-      "crew": [
-        "Peggy Whitson",
-        "John Shoffner",
-        "Ali AlQarni",
-        "Rayyanah Barnawi"
-      ],
-      "mission_patch": "https://upload.wikimedia.org/wikipedia/en/9/9d/Axiom_Mission_2_Patch.png",
-      "url": "https://en.wikipedia.org/wiki/Axiom_Mission_2",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/05/axiom-2_crew_in_the_columbus_mock-up_at_eac/24890206-1-eng-GB/Axiom-2_crew_in_the_Columbus_mock-up_at_EAC_pillars.jpg"
-    },
-    {
-      "id": 5,
       "name": "Progress MS-23",
       "country": "Russia",
       "flag_code": "ru",
