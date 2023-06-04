@@ -1,3 +1,12 @@
+# [1.39.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.38.0...v1.39.0) (2023-06-04)
+
+
+### Features
+
+* **json:** update for end of Shenzhou-15 mission ([e207cec](https://github.com/corquaid/international-space-station-APIs/commit/e207cec9233c0142713399e98caa929ea09f7dbd))
+
+
+
 # [1.38.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.37.0...v1.38.0) (2023-05-30)
 
 
@@ -33,15 +42,6 @@
 ### Features
 
 * adding crew portrait for expedition 69 ([e645895](https://github.com/corquaid/international-space-station-APIs/commit/e64589525194cbb552b5ce24214b19ecc3cd409b))
-
-
-
-# [1.33.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.32.0...v1.33.0) (2023-04-15)
-
-
-### Features
-
-* **json:** update for undocking of CRS-27 Dragon spacecraft ([7be0962](https://github.com/corquaid/international-space-station-APIs/commit/7be09620d6a4844ace015da46a139b216449240a))
 
 
 
