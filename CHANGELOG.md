@@ -1,3 +1,12 @@
+# [1.40.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.39.0...v1.40.0) (2023-06-06)
+
+
+### Features
+
+* **json:** update for docking of CRS-28 Dragon spacecraft ([e01503a](https://github.com/corquaid/international-space-station-APIs/commit/e01503a9ffb904840a0c2ca587b60bbc09f4fdda))
+
+
+
 # [1.39.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.38.0...v1.39.0) (2023-06-04)
 
 
@@ -33,15 +42,6 @@
 ### Features
 
 * **json:** update for departure of Cygnus NG-18 spacecraft ([13a314a](https://github.com/corquaid/international-space-station-APIs/commit/13a314ace1a23b55580d90210ec5b9dc1c4cc6f5))
-
-
-
-# [1.34.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.33.0...v1.34.0) (2023-04-15)
-
-
-### Features
-
-* adding crew portrait for expedition 69 ([e645895](https://github.com/corquaid/international-space-station-APIs/commit/e64589525194cbb552b5ce24214b19ecc3cd409b))
 
 
 
