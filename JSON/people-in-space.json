@@ -1,5 +1,5 @@
 {
-  "number": 10,
+  "number": 14,
   "iss_expedition": 69,
   "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/a/a1/ISS_Expedition_69_Patch.png",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_69",
@@ -144,6 +144,62 @@
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Gui_Haichao",
       "image": "https://en.wikipedia.org/wiki/Gui_Haichao#/media/File:Gui_Haichao_Shenzhou_16_%E6%A1%82%E6%B5%B7%E6%BD%AE_20230530_02.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Jasmin Moghbeli",
+      "country": "United States",
+      "flag_code": "us",
+      "agency": "NASA",
+      "position": "Flight Engineer",
+      "spacecraft": "Crew-7 Dragon",
+      "launched": 1693027620,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Jasmin_Moghbeli",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Jasmin_Moghbeli_official_portrait.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Andreas Mogensen",
+      "country": "Denmark",
+      "flag_code": "dk",
+      "agency": "ESA",
+      "position": "Flight Engineer",
+      "spacecraft": "Crew-7 Dragon",
+      "launched": 1693027620,
+      "iss": true,
+      "days_in_space": 10,
+      "url": "https://en.wikipedia.org/wiki/Andreas_Mogensen",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Andreas_Mogensen_official_portrait.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Satoshi Furukawa",
+      "country": "Japan",
+      "flag_code": "jp",
+      "agency": "JAXA",
+      "position": "Flight Engineer",
+      "spacecraft": "Crew-7 Dragon",
+      "launched": 1693027620,
+      "iss": true,
+      "days_in_space": 167,
+      "url": "https://en.wikipedia.org/wiki/Satoshi_Furukawa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Satoshi_Furukawa_%28cropped%29.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Konstantin Borisov",
+      "country": "Russia",
+      "flag_code": "ru",
+      "agency": "Roscosmos",
+      "position": "Flight Engineer",
+      "spacecraft": "Crew-7 Dragon",
+      "launched": 1693027620,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Konstantin_Borisov",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Konstantin_Borisov.jpg"
     }
   ]
 }
