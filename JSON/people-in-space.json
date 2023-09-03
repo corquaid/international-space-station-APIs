@@ -1,5 +1,5 @@
 {
-  "number": 14,
+  "number": 10,
   "iss_expedition": 69,
   "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/a/a1/ISS_Expedition_69_Patch.png",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_69",
@@ -49,62 +49,6 @@
     },
     {
       "id": 4,
-      "name": "Stephen Bowen",
-      "country": "United States",
-      "flag_code": "us",
-      "agency": "NASA",
-      "position": "Flight Engineer",
-      "spacecraft": "Crew-6 Dragon",
-      "launched": 1677731640,
-      "iss": true,
-      "days_in_space": 40,
-      "url": "https://en.wikipedia.org/wiki/Stephen_Bowen_(astronaut)",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Stephenbowenv2.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Warren Hoburgh",
-      "country": "United States",
-      "flag_code": "us",
-      "agency": "NASA",
-      "position": "Flight Engineer",
-      "spacecraft": "Crew-6 Dragon",
-      "launched": 1677731640,
-      "iss": true,
-      "days_in_space": 0,
-      "url": "https://en.wikipedia.org/wiki/Warren_Hoburg",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Warren_Hoburg_portrait.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Sultan Al Neyadi",
-      "country": "United Arab Emirates",
-      "flag_code": "ae",
-      "agency": "MBRSC",
-      "position": "Flight Engineer",
-      "spacecraft": "Crew-6 Dragon",
-      "launched": 1677731640,
-      "iss": true,
-      "days_in_space": 0,
-      "url": "https://en.wikipedia.org/wiki/Sultan_Al_Neyadi",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/SpaceX-Crew-6_Sultan-Alneyadi-MBRSC-scaled.jpg"
-    },
-    {
-      "id": 7,
-      "name": "Andrey Fedyaev",
-      "country": "Russia",
-      "flag_code": "ru",
-      "agency": "Roscosmos",
-      "position": "Flight Engineer",
-      "spacecraft": "Crew-6 Dragon",
-      "launched": 1677731640,
-      "iss": true,
-      "days_in_space": 0,
-      "url": "https://en.wikipedia.org/wiki/Andrey_Fedyaev",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/SpaceX_crew_6_image_5.png"
-    },
-    {
-      "id": 8,
       "name": "Jing Haipeng",
       "country": "China",
       "flag_code": "cn",
@@ -118,7 +62,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Jing_Haipeng.JPG"
     },
     {
-      "id": 9,
+      "id": 5,
       "name": "Zhu Yangzhu",
       "country": "China",
       "flag_code": "cn",
@@ -132,7 +76,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zhu_Yangzhu_Shenzhou_16_%E6%9C%B1%E6%9D%A8%E6%9F%B1_20230530_01.jpg"
     },
     {
-      "id": 10,
+      "id": 6,
       "name": "Gui Haichao",
       "country": "China",
       "flag_code": "cn",
@@ -146,7 +90,7 @@
       "image": "https://en.wikipedia.org/wiki/Gui_Haichao#/media/File:Gui_Haichao_Shenzhou_16_%E6%A1%82%E6%B5%B7%E6%BD%AE_20230530_02.jpg"
     },
     {
-      "id": 11,
+      "id": 7,
       "name": "Jasmin Moghbeli",
       "country": "United States",
       "flag_code": "us",
@@ -160,7 +104,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Jasmin_Moghbeli_official_portrait.jpg"
     },
     {
-      "id": 12,
+      "id": 8,
       "name": "Andreas Mogensen",
       "country": "Denmark",
       "flag_code": "dk",
@@ -174,7 +118,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Andreas_Mogensen_official_portrait.jpg"
     },
     {
-      "id": 13,
+      "id": 9,
       "name": "Satoshi Furukawa",
       "country": "Japan",
       "flag_code": "jp",
@@ -188,7 +132,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Satoshi_Furukawa_%28cropped%29.jpg"
     },
     {
-      "id": 14,
+      "id": 10,
       "name": "Konstantin Borisov",
       "country": "Russia",
       "flag_code": "ru",
