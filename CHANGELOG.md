@@ -1,3 +1,12 @@
+## [1.40.3](https://github.com/corquaid/international-space-station-APIs/compare/v1.40.2...v1.40.3) (2023-09-15)
+
+
+### Bug Fixes
+
+* ms-24 mission patch url ([0fdc680](https://github.com/corquaid/international-space-station-APIs/commit/0fdc680668b471613eee568deec4d222697a1130))
+
+
+
 ## [1.40.2](https://github.com/corquaid/international-space-station-APIs/compare/v1.40.1...v1.40.2) (2023-09-15)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * **json:** update for end of Shenzhou-15 mission ([e207cec](https://github.com/corquaid/international-space-station-APIs/commit/e207cec9233c0142713399e98caa929ea09f7dbd))
-
-
-
-# [1.38.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.37.0...v1.38.0) (2023-05-30)
-
-
-### Features
-
-* **json:** update for undocking of Ax-2 Crew Dragon and launch of Shenzhou 16 mission ([52c1b0f](https://github.com/corquaid/international-space-station-APIs/commit/52c1b0fa173b06b03839d95b1c7a073110b793d7))
 
 
 
