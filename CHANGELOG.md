@@ -1,3 +1,12 @@
+## [1.40.4](https://github.com/corquaid/international-space-station-APIs/compare/v1.40.3...v1.40.4) (2023-09-15)
+
+
+### Bug Fixes
+
+* replace deleted image ([81893df](https://github.com/corquaid/international-space-station-APIs/commit/81893dfae815d4877b0621cb94f517067b8e1840))
+
+
+
 ## [1.40.3](https://github.com/corquaid/international-space-station-APIs/compare/v1.40.2...v1.40.3) (2023-09-15)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * **json:** update for docking of CRS-28 Dragon spacecraft ([e01503a](https://github.com/corquaid/international-space-station-APIs/commit/e01503a9ffb904840a0c2ca587b60bbc09f4fdda))
-
-
-
-# [1.39.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.38.0...v1.39.0) (2023-06-04)
-
-
-### Features
-
-* **json:** update for end of Shenzhou-15 mission ([e207cec](https://github.com/corquaid/international-space-station-APIs/commit/e207cec9233c0142713399e98caa929ea09f7dbd))
 
 
 
