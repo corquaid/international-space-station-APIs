@@ -1,5 +1,5 @@
 {
-  "number": 5,
+  "number": 6,
   "spacecraft": [
     {
       "id": 1,
@@ -110,6 +110,27 @@
       "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/b/b3/SpaceX_Crew-7_logo.png",
       "url": "https://en.wikipedia.org/wiki/SpaceX_Crew-7",
       "image": "https://pbs.twimg.com/media/F4WMwLEaEAADi9_?format=jpg&name=4096x4096"
+    },
+    {
+      "id": 6,
+      "name": "Soyuz MS-24",
+      "country": "Russia",
+      "flag_code": "ru",
+      "operator": "Roscosmos",
+      "manufacturer": "Energia",
+      "launched": 1694785440,
+      "launch_site": "Site 31/6, Baikonur",
+      "iss": true,
+      "docked": 1694796780,
+      "docking_port": "Rassvet nadir",
+      "launch_mass": null,
+      "payload_mass": null,
+      "launch_vehicle": "Soyuz 2.1a",
+      "mission_type": "Crew",
+      "crew": ["Oleg Kononenko", "Nikolai Chub", "Loral O'Hara"],
+      "mission_patch": "http://www.collectspace.com/review/soyuz_ms24_patch01-lg.jpg",
+      "url": "https://en.wikipedia.org/wiki/Soyuz_MS-24",
+      "image": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/09/blog_soyuzms24_approach.jpg"
     }
   ]
 }
