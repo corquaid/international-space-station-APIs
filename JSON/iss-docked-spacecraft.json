@@ -128,7 +128,7 @@
       "launch_vehicle": "Soyuz 2.1a",
       "mission_type": "Crew",
       "crew": ["Oleg Kononenko", "Nikolai Chub", "Loral O'Hara"],
-      "mission_patch": "http://www.collectspace.com/review/soyuz_ms24_patch01-lg.jpg",
+      "mission_patch": "https://i.ibb.co/SB63sQB/soyuz-ms24-patch01-lg.jpg",
       "url": "https://en.wikipedia.org/wiki/Soyuz_MS-24",
       "image": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/09/blog_soyuzms24_approach.jpg"
     }
