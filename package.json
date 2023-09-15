@@ -4,7 +4,7 @@
   "description": "JSON files for ISS information",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepare": "husky install"
   },
   "husky": {
     "hooks": {
@@ -22,6 +22,6 @@
   "devDependencies": {
     "@commitlint/cli": "^17.7.1",
     "@commitlint/config-conventional": "^17.7.0",
-    "husky": "^8.0.3"
+    "husky": "^8.0.0"
   }
 }
