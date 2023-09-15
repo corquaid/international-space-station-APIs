@@ -1,3 +1,12 @@
+## [1.40.1](https://github.com/corquaid/international-space-station-APIs/compare/v1.40.0...v1.40.1) (2023-09-15)
+
+
+### Bug Fixes
+
+* add broken images as local files ([7141f23](https://github.com/corquaid/international-space-station-APIs/commit/7141f238572393085340ed4ba7666cbeb82d0f35))
+
+
+
 # [1.40.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.39.0...v1.40.0) (2023-06-06)
 
 
@@ -33,15 +42,6 @@
 * **json:** update for docking of Ax-2 Dragon spacecraft ([5c75aeb](https://github.com/corquaid/international-space-station-APIs/commit/5c75aebcddba4715c7fdf4b392c8c2d60176354f))
 * **json:** update for docking of Progress MS-23 spacecraft ([4a586bc](https://github.com/corquaid/international-space-station-APIs/commit/4a586bcda85077f7f38e6d830111bcacdbeeb7c2))
 * **json:** update for docking of Progress MS-23 spacecraft ([994aabd](https://github.com/corquaid/international-space-station-APIs/commit/994aabdcb149b593a0e80b44a66ea9ed8b62962c))
-
-
-
-# [1.35.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.34.0...v1.35.0) (2023-04-21)
-
-
-### Features
-
-* **json:** update for departure of Cygnus NG-18 spacecraft ([13a314a](https://github.com/corquaid/international-space-station-APIs/commit/13a314ace1a23b55580d90210ec5b9dc1c4cc6f5))
 
 
 

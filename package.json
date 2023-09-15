@@ -1,6 +1,6 @@
 {
   "name": "iss_json_project",
-  "version": "1.40.0",
+  "version": "1.40.1",
   "description": "JSON files for ISS information",
   "main": "index.js",
   "scripts": {
