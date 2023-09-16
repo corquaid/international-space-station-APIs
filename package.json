@@ -4,7 +4,8 @@
   "description": "JSON files for ISS information",
   "main": "index.js",
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "commitlint": "commitlint --edit"
   },
   "husky": {
     "hooks": {
@@ -22,6 +23,6 @@
   "devDependencies": {
     "@commitlint/cli": "^17.7.1",
     "@commitlint/config-conventional": "^17.7.0",
-    "husky": "^8.0.0"
+    "husky": "^8.0.3"
   }
 }
