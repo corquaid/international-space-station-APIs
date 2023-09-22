@@ -17,7 +17,10 @@
       "iss": true,
       "days_in_space": 197,
       "url": "https://en.wikipedia.org/wiki/Sergey_Prokopyev_(cosmonaut)",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sergey_Prokopyev_-_NASA_portrait.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sergey_Prokopyev_-_NASA_portrait.jpg",
+      "instagram": "",
+      "twitter": "",
+      "facebook": "https://www.instagram.com/prokopyev_iss/"
     },
     {
       "id": 2,
@@ -31,7 +34,10 @@
       "iss": true,
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Dmitry_Petelin",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dmitry_Petelin_%28cropped%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dmitry_Petelin_%28cropped%29.jpg",
+      "instagram": "",
+      "twitter": "",
+      "facebook": ""
     },
     {
       "id": 3,
@@ -45,7 +51,10 @@
       "iss": true,
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Francisco_Rubio_(astronaut)",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Frank_Rubio_official_portrait_%28cropped%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Frank_Rubio_official_portrait_%28cropped%29.jpg",
+      "instagram": "https://www.instagram.com/astro_frankrubio/",
+      "twitter": "",
+      "facebook": "https://www.facebook.com/AstroFrankRubio/"
     },
     {
       "id": 4,
@@ -59,7 +68,10 @@
       "iss": false,
       "days_in_space": 47,
       "url": "https://en.wikipedia.org/wiki/Jing_Haipeng",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Jing_Haipeng.JPG"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Jing_Haipeng.JPG",
+      "instagram": "",
+      "twitter": "",
+      "facebook": ""
     },
     {
       "id": 5,
@@ -73,7 +85,10 @@
       "iss": false,
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Zhu_Yangzhu",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zhu_Yangzhu_Shenzhou_16_%E6%9C%B1%E6%9D%A8%E6%9F%B1_20230530_01.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zhu_Yangzhu_Shenzhou_16_%E6%9C%B1%E6%9D%A8%E6%9F%B1_20230530_01.jpg",
+      "instagram": "",
+      "twitter": "",
+      "facebook": ""
     },
     {
       "id": 6,
@@ -87,7 +102,10 @@
       "iss": false,
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Gui_Haichao",
-      "image": "https://en.wikipedia.org/wiki/Gui_Haichao#/media/File:Gui_Haichao_Shenzhou_16_%E6%A1%82%E6%B5%B7%E6%BD%AE_20230530_02.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gui_Haichao_2023_Space_Station.jpg/440px-Gui_Haichao_2023_Space_Station.jpg",
+      "instagram": "",
+      "twitter": "",
+      "facebook": ""
     },
     {
       "id": 7,
@@ -101,7 +119,10 @@
       "iss": true,
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Jasmin_Moghbeli",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Jasmin_Moghbeli_official_portrait.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Jasmin_Moghbeli_official_portrait.jpg",
+      "instagram": "https://www.instagram.com/astrojaws/",
+      "twitter": "https://twitter.com/AstroJaws",
+      "facebook": "https://www.facebook.com/AstroJaws/"
     },
     {
       "id": 8,
@@ -115,7 +136,10 @@
       "iss": true,
       "days_in_space": 10,
       "url": "https://en.wikipedia.org/wiki/Andreas_Mogensen",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Andreas_Mogensen_official_portrait.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Andreas_Mogensen_official_portrait.jpg",
+      "instagram": "https://www.instagram.com/astro_andreas/",
+      "twitter": "https://twitter.com/Astro_Andreas",
+      "facebook": "https://www.facebook.com/ESAAndreasMogensen/"
     },
     {
       "id": 9,
@@ -129,7 +153,10 @@
       "iss": true,
       "days_in_space": 167,
       "url": "https://en.wikipedia.org/wiki/Satoshi_Furukawa",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Satoshi_Furukawa_%28cropped%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Satoshi_Furukawa_%28cropped%29.jpg",
+      "instagram": "",
+      "twitter": "https://twitter.com/Astro_Satoshi",
+      "facebook": ""
     },
     {
       "id": 10,
@@ -143,7 +170,10 @@
       "iss": true,
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Konstantin_Borisov",
-      "image": "https://i.ibb.co/sJmHCKF/This-is-Konstantin-Borisov.jpg"
+      "image": "https://i.ibb.co/sJmHCKF/This-is-Konstantin-Borisov.jpg",
+      "instagram": "",
+      "twitter": "",
+      "facebook": ""
     },
     {
       "id": 11,
@@ -157,7 +187,10 @@
       "iss": true,
       "days_in_space": 736,
       "url": "https://en.wikipedia.org/wiki/Oleg_Kononenko",
-      "image": "https://www.nasa.gov/sites/default/files/jsc2014e088156.jpg"
+      "image": "https://www.nasa.gov/sites/default/files/jsc2014e088156.jpg",
+      "instagram": "",
+      "twitter": "",
+      "facebook": ""
     },
     {
       "id": 12,
@@ -171,7 +204,10 @@
       "iss": true,
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Nikolai_Chub",
-      "image": "https://blogs.esa.int/caves/files/2019/09/Chub-official-portrait_GCTC.jpg"
+      "image": "https://blogs.esa.int/caves/files/2019/09/Chub-official-portrait_GCTC.jpg",
+      "instagram": "",
+      "twitter": "",
+      "facebook": ""
     },
     {
       "id": 13,
@@ -185,7 +221,10 @@
       "iss": true,
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Loral_O%27Hara",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Loral_O%27Hara_portrait_%28cropped%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Loral_O%27Hara_portrait_%28cropped%29.jpg",
+      "instagram": "",
+      "twitter": "https://twitter.com/lunarloral",
+      "facebook": ""
     }
   ]
 }
