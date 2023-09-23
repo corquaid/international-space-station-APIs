@@ -1,3 +1,12 @@
+# [1.41.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.40.6...v1.41.0) (2023-09-23)
+
+
+### Features
+
+* add astronaut social media links from contribution, update README with recent examples ([04fee2d](https://github.com/corquaid/international-space-station-APIs/commit/04fee2df0e724eb4955094aef773046bcc76dc73))
+
+
+
 ## [1.40.6](https://github.com/corquaid/international-space-station-APIs/compare/v1.40.5...v1.40.6) (2023-09-16)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * ms-24 mission patch url ([0fdc680](https://github.com/corquaid/international-space-station-APIs/commit/0fdc680668b471613eee568deec4d222697a1130))
-
-
-
-## [1.40.2](https://github.com/corquaid/international-space-station-APIs/compare/v1.40.1...v1.40.2) (2023-09-15)
-
-
-### Bug Fixes
-
-* revert to image urls ([113ebd1](https://github.com/corquaid/international-space-station-APIs/commit/113ebd177437fa77d09efa68ba7e5b31009f7ca6))
 
 
 
