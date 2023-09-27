@@ -3,7 +3,7 @@
   "iss_expedition": 70,
   "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/6/65/ISS_Expedition_70_Patch.png",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_70",
-  "expedition_image": "https://i.ibb.co/1zsfH1y/iss70-crewportrait01.jpg",
+  "expedition_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/iss070-s-002.jpg",
   "people": [
     {
       "id": 1,
@@ -79,7 +79,7 @@
       "country": "Denmark",
       "flag_code": "dk",
       "agency": "ESA",
-      "position": "Flight Engineer",
+      "position": "Commander",
       "spacecraft": "Crew-7 Dragon",
       "launched": 1693027620,
       "iss": true,
