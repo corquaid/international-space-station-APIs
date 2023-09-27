@@ -1,3 +1,13 @@
+# [1.42.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.41.0...v1.42.0) (2023-09-27)
+
+
+### Features
+
+* update andreas mogensen position, expedition 70 crew portrait ([4062523](https://github.com/corquaid/international-space-station-APIs/commit/4062523bb2818742d3664cdb7f0a34d2d872dc94))
+* update for undocking of soyuz ms-23 spacecraft, transition to expedition 70 ([ac8110a](https://github.com/corquaid/international-space-station-APIs/commit/ac8110aff410e9e0b0cb93feea3e182b81bf0f06))
+
+
+
 # [1.41.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.40.6...v1.41.0) (2023-09-23)
 
 
@@ -31,15 +41,6 @@
 ### Bug Fixes
 
 * replace deleted image ([81893df](https://github.com/corquaid/international-space-station-APIs/commit/81893dfae815d4877b0621cb94f517067b8e1840))
-
-
-
-## [1.40.3](https://github.com/corquaid/international-space-station-APIs/compare/v1.40.2...v1.40.3) (2023-09-15)
-
-
-### Bug Fixes
-
-* ms-24 mission patch url ([0fdc680](https://github.com/corquaid/international-space-station-APIs/commit/0fdc680668b471613eee568deec4d222697a1130))
 
 
 
