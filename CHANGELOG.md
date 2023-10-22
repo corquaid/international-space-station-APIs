@@ -1,3 +1,12 @@
+## [1.42.1](https://github.com/corquaid/international-space-station-APIs/compare/v1.42.0...v1.42.1) (2023-10-22)
+
+
+### Bug Fixes
+
+* **json:** fixing broken image links ([0686f0a](https://github.com/corquaid/international-space-station-APIs/commit/0686f0a8d27143d7c4c9885e0cc758a4ff1d61af))
+
+
+
 # [1.42.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.41.0...v1.42.0) (2023-09-27)
 
 
@@ -32,15 +41,6 @@
 ### Bug Fixes
 
 * fixing husky setup ([962703d](https://github.com/corquaid/international-space-station-APIs/commit/962703d465b2520990a743eb4af34ff565364ece))
-
-
-
-## [1.40.4](https://github.com/corquaid/international-space-station-APIs/compare/v1.40.3...v1.40.4) (2023-09-15)
-
-
-### Bug Fixes
-
-* replace deleted image ([81893df](https://github.com/corquaid/international-space-station-APIs/commit/81893dfae815d4877b0621cb94f517067b8e1840))
 
 
 
