@@ -3,7 +3,7 @@
   "iss_expedition": 70,
   "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/6/65/ISS_Expedition_70_Patch.png",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_70",
-  "expedition_image": "https://www.nasa.gov/sites/default/files/thumbnails/image/iss070-s-002.jpg",
+  "expedition_image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Iss070-s-002.jpg",
   "people": [
     {
       "id": 1,
@@ -136,7 +136,7 @@
       "iss": true,
       "days_in_space": 736,
       "url": "https://en.wikipedia.org/wiki/Oleg_Kononenko",
-      "image": "https://www.nasa.gov/sites/default/files/jsc2014e088156.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/%27A_Beautiful_Planet%27_World_Premiere_%28NHQ201604160010%29.jpg",
       "instagram": "",
       "twitter": "",
       "facebook": ""
