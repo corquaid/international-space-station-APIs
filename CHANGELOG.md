@@ -1,3 +1,12 @@
+## [1.43.1](https://github.com/corquaid/international-space-station-APIs/compare/v1.43.0...v1.43.1) (2023-10-26)
+
+
+### Bug Fixes
+
+* correct total number of astronauts ([e747d39](https://github.com/corquaid/international-space-station-APIs/commit/e747d39d099c5be0689f7bf6f8373517c976b638))
+
+
+
 # [1.43.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.42.1...v1.43.0) (2023-10-26)
 
 
@@ -32,15 +41,6 @@
 ### Features
 
 * add astronaut social media links from contribution, update README with recent examples ([04fee2d](https://github.com/corquaid/international-space-station-APIs/commit/04fee2df0e724eb4955094aef773046bcc76dc73))
-
-
-
-## [1.40.6](https://github.com/corquaid/international-space-station-APIs/compare/v1.40.5...v1.40.6) (2023-09-16)
-
-
-### Bug Fixes
-
-* final commitlint and husky testing ([b9ee408](https://github.com/corquaid/international-space-station-APIs/commit/b9ee408358e5c082bbc649e8c54da741a5363330))
 
 
 
