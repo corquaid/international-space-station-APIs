@@ -1,3 +1,12 @@
+# [1.44.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.43.1...v1.44.0) (2023-10-31)
+
+
+### Features
+
+* update for end of Shenzhou-16 mission ([351403d](https://github.com/corquaid/international-space-station-APIs/commit/351403d36119a6e818df18500f2f161efd50ba6b))
+
+
+
 ## [1.43.1](https://github.com/corquaid/international-space-station-APIs/compare/v1.43.0...v1.43.1) (2023-10-26)
 
 
@@ -32,15 +41,6 @@
 
 * update andreas mogensen position, expedition 70 crew portrait ([4062523](https://github.com/corquaid/international-space-station-APIs/commit/4062523bb2818742d3664cdb7f0a34d2d872dc94))
 * update for undocking of soyuz ms-23 spacecraft, transition to expedition 70 ([ac8110a](https://github.com/corquaid/international-space-station-APIs/commit/ac8110aff410e9e0b0cb93feea3e182b81bf0f06))
-
-
-
-# [1.41.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.40.6...v1.41.0) (2023-09-23)
-
-
-### Features
-
-* add astronaut social media links from contribution, update README with recent examples ([04fee2d](https://github.com/corquaid/international-space-station-APIs/commit/04fee2df0e724eb4955094aef773046bcc76dc73))
 
 
 
