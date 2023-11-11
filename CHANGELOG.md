@@ -1,3 +1,13 @@
+# [1.45.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.44.0...v1.45.0) (2023-11-11)
+
+
+### Features
+
+* add docking time to CRS-29 mission ([8dd4da5](https://github.com/corquaid/international-space-station-APIs/commit/8dd4da50abd7789c46b79587652aadf7005fb958))
+* update for docking of CRS-29 Dragon spacecraft ([fec52b8](https://github.com/corquaid/international-space-station-APIs/commit/fec52b8a1b45c92035c3239f1a3f903eb73376fb))
+
+
+
 # [1.44.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.43.1...v1.44.0) (2023-10-31)
 
 
@@ -31,16 +41,6 @@
 ### Bug Fixes
 
 * **json:** fixing broken image links ([0686f0a](https://github.com/corquaid/international-space-station-APIs/commit/0686f0a8d27143d7c4c9885e0cc758a4ff1d61af))
-
-
-
-# [1.42.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.41.0...v1.42.0) (2023-09-27)
-
-
-### Features
-
-* update andreas mogensen position, expedition 70 crew portrait ([4062523](https://github.com/corquaid/international-space-station-APIs/commit/4062523bb2818742d3664cdb7f0a34d2d872dc94))
-* update for undocking of soyuz ms-23 spacecraft, transition to expedition 70 ([ac8110a](https://github.com/corquaid/international-space-station-APIs/commit/ac8110aff410e9e0b0cb93feea3e182b81bf0f06))
 
 
 
