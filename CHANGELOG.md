@@ -1,3 +1,12 @@
+# [1.46.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.45.0...v1.46.0) (2023-11-18)
+
+
+### Features
+
+* added expedition start and end dates ([12377be](https://github.com/corquaid/international-space-station-APIs/commit/12377be11380db76fcce927310b7d1c1dcc80819))
+
+
+
 # [1.45.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.44.0...v1.45.0) (2023-11-11)
 
 
@@ -32,15 +41,6 @@
 ### Features
 
 * update for launch of shenzhou 17 mission ([fc3a946](https://github.com/corquaid/international-space-station-APIs/commit/fc3a9466a3b6ce17ff06ac9f9273505fc3a75d0e))
-
-
-
-## [1.42.1](https://github.com/corquaid/international-space-station-APIs/compare/v1.42.0...v1.42.1) (2023-10-22)
-
-
-### Bug Fixes
-
-* **json:** fixing broken image links ([0686f0a](https://github.com/corquaid/international-space-station-APIs/commit/0686f0a8d27143d7c4c9885e0cc758a4ff1d61af))
 
 
 
