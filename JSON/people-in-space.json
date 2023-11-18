@@ -4,6 +4,8 @@
   "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/6/65/ISS_Expedition_70_Patch.png",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_70",
   "expedition_image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Iss070-s-002.jpg",
+  "expedition_start_date": 1695772800,
+  "expedition_end_date": 1711411199,
   "people": [
     {
       "id": 1,
