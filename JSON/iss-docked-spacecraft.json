@@ -1,29 +1,8 @@
 {
-  "number": 6,
+  "number": 5,
   "spacecraft": [
     {
       "id": 1,
-      "name": "Progress MS-23",
-      "country": "Russia",
-      "flag_code": "ru",
-      "operator": "Roscosmos",
-      "manufacturer": "KSC Energia",
-      "launched": 1684925760,
-      "launch_site": "Site 31, Baikonur",
-      "iss": true,
-      "docked": 1684937940,
-      "docking_port": "Poisk zenith",
-      "launch_mass": 7000,
-      "payload_mass": 2500,
-      "launch_vehicle": "Soyuz 2.1a",
-      "mission_type": "Cargo",
-      "crew": null,
-      "mission_patch": null,
-      "url": "https://en.wikipedia.org/wiki/Progress_MS-23",
-      "image": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/05/Progress-84-approaches-station-4-1.png"
-    },
-    {
-      "id": 2,
       "name": "Cygnus NG-19",
       "country": "United States",
       "flag_code": "us",
@@ -44,7 +23,7 @@
       "image": "https://cdn.mos.cms.futurecdn.net/M69riWX3E4Np8XSpnVGUKD-1200-80.jpg"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Progress MS-24",
       "country": "Russia",
       "flag_code": "ru",
@@ -65,7 +44,7 @@
       "image": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/08/blog_progress85_docks_082423.jpg"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Crew-7 Dragon",
       "country": "United States",
       "flag_code": "us",
@@ -91,7 +70,7 @@
       "image": "https://pbs.twimg.com/media/F4WMwLEaEAADi9_?format=jpg&name=4096x4096"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Soyuz MS-24",
       "country": "Russia",
       "flag_code": "ru",
@@ -112,7 +91,7 @@
       "image": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/09/blog_soyuzms24_approach.jpg"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "CRS-29 Dragon",
       "country": "United States",
       "flag_code": "us",
