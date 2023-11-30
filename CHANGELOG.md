@@ -1,3 +1,12 @@
+# [1.47.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.46.0...v1.47.0) (2023-11-30)
+
+
+### Features
+
+* undocking of Progress MS-23 spacecraft ([9d95ed3](https://github.com/corquaid/international-space-station-APIs/commit/9d95ed36293c097eb4d3f4799e9b7f8928048174))
+
+
+
 # [1.46.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.45.0...v1.46.0) (2023-11-18)
 
 
@@ -32,15 +41,6 @@
 ### Bug Fixes
 
 * correct total number of astronauts ([e747d39](https://github.com/corquaid/international-space-station-APIs/commit/e747d39d099c5be0689f7bf6f8373517c976b638))
-
-
-
-# [1.43.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.42.1...v1.43.0) (2023-10-26)
-
-
-### Features
-
-* update for launch of shenzhou 17 mission ([fc3a946](https://github.com/corquaid/international-space-station-APIs/commit/fc3a9466a3b6ce17ff06ac9f9273505fc3a75d0e))
 
 
 
