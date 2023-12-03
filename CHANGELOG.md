@@ -1,3 +1,13 @@
+# [1.48.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.47.0...v1.48.0) (2023-12-03)
+
+
+### Features
+
+* add docking date for Progress MS-25 ([30b9fd0](https://github.com/corquaid/international-space-station-APIs/commit/30b9fd0e4182e586ae2f50514818f769d1ac31ef))
+* update for docking of Progress MS-25 spacecraft ([96a0cd7](https://github.com/corquaid/international-space-station-APIs/commit/96a0cd73f0bec170ad3106a983f5ae61e147da63))
+
+
+
 # [1.47.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.46.0...v1.47.0) (2023-11-30)
 
 
@@ -32,15 +42,6 @@
 ### Features
 
 * update for end of Shenzhou-16 mission ([351403d](https://github.com/corquaid/international-space-station-APIs/commit/351403d36119a6e818df18500f2f161efd50ba6b))
-
-
-
-## [1.43.1](https://github.com/corquaid/international-space-station-APIs/compare/v1.43.0...v1.43.1) (2023-10-26)
-
-
-### Bug Fixes
-
-* correct total number of astronauts ([e747d39](https://github.com/corquaid/international-space-station-APIs/commit/e747d39d099c5be0689f7bf6f8373517c976b638))
 
 
 
