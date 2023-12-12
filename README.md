@@ -28,12 +28,12 @@ Here's an example of the returned JSON:
 
 ```json
 {
-  number: 11,
-  iss_expedition: 67,
-  expedition_patch: "https://upload.wikimedia.org/wikipedia/commons/d/d3/ISS_Expedition_67_Patch.png",
-  expedition_url: "https://en.wikipedia.org/wiki/Expedition_67",
-  expedition_image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Expedition_67_crew_portrait.jpg",
-  people: [
+  "number": 11,
+  "iss_expedition": 67,
+  "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/d/d3/ISS_Expedition_67_Patch.png",
+  "expedition_url": "https://en.wikipedia.org/wiki/Expedition_67",
+  "expedition_image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Expedition_67_crew_portrait.jpg",
+  "people": [
     {
       "id": 8,
       "name": "Andreas Mogensen",
@@ -74,7 +74,7 @@ If you want to know all about the spacecraft currently docked at the Internation
 
 Here's an example of the returned JSON:
 
-```
+```json
 {
   "id": 5,
   "name": "Crew-7 Dragon",
