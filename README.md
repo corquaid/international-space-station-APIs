@@ -26,17 +26,15 @@ Calling this API will return lots of information about the only humans not curre
 
 Here's an example of the returned JSON:
 
-> ```
-> {
->  number: 11,
->  iss_expedition: 67,
->  expedition_patch: "https://upload.wikimedia.org/wikipedia/commons/d/d3/ISS_Expedition_67_Patch.png",
->  expedition_url: "https://en.wikipedia.org/wiki/Expedition_67",
->  expedition_image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Expedition_67_crew_portrait.jpg",
->  people: [
->     {
-> ```
-
+```json
+{
+  number: 11,
+  iss_expedition: 67,
+  expedition_patch: "https://upload.wikimedia.org/wikipedia/commons/d/d3/ISS_Expedition_67_Patch.png",
+  expedition_url: "https://en.wikipedia.org/wiki/Expedition_67",
+  expedition_image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Expedition_67_crew_portrait.jpg",
+  people: [
+    {
       "id": 8,
       "name": "Andreas Mogensen",
       "country": "Denmark",
@@ -51,15 +49,12 @@ Here's an example of the returned JSON:
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Andreas_Mogensen_official_portrait.jpg",
       "instagram": "https://www.instagram.com/astro_andreas/",
       "twitter": "https://twitter.com/Astro_Andreas",
-       "facebook": "https://www.facebook.com/ESAAndreasMogensen/"
-      },
-
-> ]
-> }
->
-> ```
->
-> ```
+      "facebook": "https://www.facebook.com/ESAAndreasMogensen/"
+    },
+    ...
+  ]
+}
+```
 
 `"flag_code"` can be used with resources like [countryflags.io](www.countryflags.io) to add national flags to your app.
 
@@ -79,40 +74,34 @@ If you want to know all about the spacecraft currently docked at the Internation
 
 Here's an example of the returned JSON:
 
-> ```
-> {
->    "id": 5,
-> ```
-
-      "name": "Crew-7 Dragon",
-      "country": "United States",
-      "flag_code": "us",
-      "operator": "SpaceX",
-      "manufacturer": "SpaceX",
-      "launched": 1693027620,
-      "launch_site": "KSC, LC-39A",
-      "iss": true,
-      "docked": 1693134960,
-      "docking_port": "Harmony zenith",
-      "launch_mass": 12519,
-      "payload_mass": null,
-      "launch_vehicle": "Falcon 9",
-      "mission_type": "Crew",
-      "crew": [
-        "Jasmin Moghbeli",
-        "Andreas Mogensen",
-        "Satoshi Furukawa",
-        "Konstantin Borisov"
-      ],
-      "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/b/b3/SpaceX_Crew-7_logo.png",
-      "url": "https://en.wikipedia.org/wiki/SpaceX_Crew-7",
-      "image": "https://pbs.twimg.com/media/F4WMwLEaEAADi9_?format=jpg&name=4096x4096"
-
-> }
->
-> ```
->
-> ```
+```
+{
+  "id": 5,
+  "name": "Crew-7 Dragon",
+  "country": "United States",
+  "flag_code": "us",
+  "operator": "SpaceX",
+  "manufacturer": "SpaceX",
+  "launched": 1693027620,
+  "launch_site": "KSC, LC-39A",
+  "iss": true,
+  "docked": 1693134960,
+  "docking_port": "Harmony zenith",
+  "launch_mass": 12519,
+  "payload_mass": null,
+  "launch_vehicle": "Falcon 9",
+  "mission_type": "Crew",
+  "crew": [
+    "Jasmin Moghbeli",
+    "Andreas Mogensen",
+    "Satoshi Furukawa",
+    "Konstantin Borisov"
+  ],
+  "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/b/b3/SpaceX_Crew-7_logo.png",
+  "url": "https://en.wikipedia.org/wiki/SpaceX_Crew-7",
+  "image": "https://pbs.twimg.com/media/F4WMwLEaEAADi9_?format=jpg&name=4096x4096"
+}
+```
 
 The same calculation can be performed here where you use the `"docked"` UNIX timestamp and your current `Date()` timestamp to return the total time each spacecraft has been docked at the ISS.
 
