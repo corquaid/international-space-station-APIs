@@ -12,7 +12,7 @@ Please let me know if there is any information that you would like to have added
 
 Ad Astra!
 
-`Please note that I won't be updating for sub-orbital spaceflights (New Shepard, Virgin Galactic and the like), only orbital flights.`
+(Please note that I won't be updating for sub-orbital spaceflights (New Shepard, Virgin Galactic and the like), only orbital flights.)
 
 ## APIs
 
@@ -28,19 +28,21 @@ Here's an example of the returned JSON:
 
 ```json
 {
-  "number": 11,
-  "iss_expedition": 67,
-  "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/d/d3/ISS_Expedition_67_Patch.png",
-  "expedition_url": "https://en.wikipedia.org/wiki/Expedition_67",
-  "expedition_image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Expedition_67_crew_portrait.jpg",
+  "number": 10,
+  "iss_expedition": 70,
+  "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/6/65/ISS_Expedition_70_Patch.png",
+  "expedition_url": "https://en.wikipedia.org/wiki/Expedition_70",
+  "expedition_image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Iss070-s-002.jpg",
+  "expedition_start_date": 1695772800,
+  "expedition_end_date": 1711411199,
   "people": [
     {
-      "id": 8,
+      "id": 2,
       "name": "Andreas Mogensen",
       "country": "Denmark",
       "flag_code": "dk",
       "agency": "ESA",
-      "position": "Flight Engineer",
+      "position": "Commander",
       "spacecraft": "Crew-7 Dragon",
       "launched": 1693027620,
       "iss": true,
