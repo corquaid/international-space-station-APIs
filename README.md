@@ -2,7 +2,7 @@
 
 APIs packed with information regarding all ongoing spaceflights and spacecraft operations at the International Space Station and the Chinese Space Station (Tiangong).
 
-The inspiration for this project came from various space-related APIs, including [Open Notify](http://open-notify.org/) by Nathan Bergey and the excellent [Where The ISS At](https://wheretheiss.at/w/developer) resource, which I called upon when creating my own [ISS Tracker app](https://corquaid.github.io/react-iss-tracker/).
+The inspiration for this project came from various space-related APIs, including [Open Notify](http://open-notify.org/) by Nathan Bergey and the excellent [Where The ISS At](https://wheretheiss.at/w/developer) resource.
 
 It's my goal to keep these APIs up to date depending on rocket launch schedules and spacecraft docking and departures from the ISS and CSS.
 
