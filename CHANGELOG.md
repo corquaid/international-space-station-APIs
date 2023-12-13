@@ -1,3 +1,12 @@
+## [1.48.2](https://github.com/corquaid/international-space-station-APIs/compare/v1.48.1...v1.48.2) (2023-12-13)
+
+
+### Bug Fixes
+
+* update readme content and formatting ([e03e5c8](https://github.com/corquaid/international-space-station-APIs/commit/e03e5c889a00087f2f1cb36a8a8ec07bf0860734))
+
+
+
 ## [1.48.1](https://github.com/corquaid/international-space-station-APIs/compare/v1.48.0...v1.48.1) (2023-12-12)
 
 
@@ -32,16 +41,6 @@
 ### Features
 
 * added expedition start and end dates ([12377be](https://github.com/corquaid/international-space-station-APIs/commit/12377be11380db76fcce927310b7d1c1dcc80819))
-
-
-
-# [1.45.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.44.0...v1.45.0) (2023-11-11)
-
-
-### Features
-
-* add docking time to CRS-29 mission ([8dd4da5](https://github.com/corquaid/international-space-station-APIs/commit/8dd4da50abd7789c46b79587652aadf7005fb958))
-* update for docking of CRS-29 Dragon spacecraft ([fec52b8](https://github.com/corquaid/international-space-station-APIs/commit/fec52b8a1b45c92035c3239f1a3f903eb73376fb))
 
 
 
