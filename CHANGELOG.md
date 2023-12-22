@@ -1,3 +1,12 @@
+# [1.49.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.48.3...v1.49.0) (2023-12-22)
+
+
+### Features
+
+* undocking of CRS-29 Dragon spacecraft, add photo for Progress MS-25 spacecraft ([56eb607](https://github.com/corquaid/international-space-station-APIs/commit/56eb607df5e21a971c210c0485156d290f5d9dea))
+
+
+
 ## [1.48.3](https://github.com/corquaid/international-space-station-APIs/compare/v1.48.2...v1.48.3) (2023-12-13)
 
 
@@ -32,15 +41,6 @@
 
 * add docking date for Progress MS-25 ([30b9fd0](https://github.com/corquaid/international-space-station-APIs/commit/30b9fd0e4182e586ae2f50514818f769d1ac31ef))
 * update for docking of Progress MS-25 spacecraft ([96a0cd7](https://github.com/corquaid/international-space-station-APIs/commit/96a0cd73f0bec170ad3106a983f5ae61e147da63))
-
-
-
-# [1.47.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.46.0...v1.47.0) (2023-11-30)
-
-
-### Features
-
-* undocking of Progress MS-23 spacecraft ([9d95ed3](https://github.com/corquaid/international-space-station-APIs/commit/9d95ed36293c097eb4d3f4799e9b7f8928048174))
 
 
 
