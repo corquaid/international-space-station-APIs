@@ -1,3 +1,15 @@
+# [1.51.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.50.0...v1.51.0) (2024-01-20)
+
+
+### Features
+
+* add new field spacecraft_name ([281b6f6](https://github.com/corquaid/international-space-station-APIs/commit/281b6f6f3e6ff280b3e48eb59c4fa74517a6ed35))
+* added Axiom 3 docking time ([52e52df](https://github.com/corquaid/international-space-station-APIs/commit/52e52dff93e2c1f9b2051a9e59df07de10cb7d9b))
+* update for docking of Axiom-3 spacecraft ([d755782](https://github.com/corquaid/international-space-station-APIs/commit/d755782d59d31869a56de5ae7c9fd452c8614885))
+* update people-in-space for Axiom-3 mission ([0d95b0e](https://github.com/corquaid/international-space-station-APIs/commit/0d95b0efd2a465f8e8a35f5ccd8a72d80833c248))
+
+
+
 # [1.50.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.49.0...v1.50.0) (2023-12-22)
 
 
@@ -31,15 +43,6 @@
 ### Bug Fixes
 
 * update readme content and formatting ([e03e5c8](https://github.com/corquaid/international-space-station-APIs/commit/e03e5c889a00087f2f1cb36a8a8ec07bf0860734))
-
-
-
-## [1.48.1](https://github.com/corquaid/international-space-station-APIs/compare/v1.48.0...v1.48.1) (2023-12-12)
-
-
-### Bug Fixes
-
-* update readme structure ([72d93a2](https://github.com/corquaid/international-space-station-APIs/commit/72d93a211869842e10c34cfc499e7f25aa756628))
 
 
 
