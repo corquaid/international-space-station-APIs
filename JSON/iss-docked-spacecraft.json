@@ -105,7 +105,7 @@
       "launched": 1705610940,
       "launch_site": "KSC, LC-39A",
       "iss": true,
-      "docked": ,
+      "docked": 1705743720,
       "docking_port": "Harmony forward",
       "launch_mass": 12519,
       "payload_mass": null,
@@ -118,8 +118,8 @@
         "Marcus Wandt"
       ],
       "mission_patch": "https://upload.wikimedia.org/wikipedia/en/7/78/Axiom_3_mission_patch.png",
-      "url": "https://i.ibb.co/yBXrZwT/ax3-liftoff2.webp",
-      "image": "https://pbs.twimg.com/media/F4WMwLEaEAADi9_?format=jpg&name=4096x4096"
+      "url": "https://en.wikipedia.org/wiki/Axiom_Mission_3",
+      "image": "https://i.ibb.co/yBXrZwT/ax3-liftoff2.webp"
     }
   ]
 }
