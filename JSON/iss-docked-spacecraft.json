@@ -1,5 +1,5 @@
 {
-  "number": 5,
+  "number": 6,
   "spacecraft": [
     {
       "id": 1,
@@ -16,7 +16,8 @@
       "docking_port": "Zvezda aft",
       "launch_mass": 7000,
       "payload_mass": 2500,
-      "launch_vehicle": "Soyuz 2.1a",
+      "launch_vehicle": "Soyuz 2.1a",      
+      "launch_vehicle_name": null,
       "mission_type": "Cargo",
       "crew": null,
       "mission_patch": null,
@@ -39,6 +40,7 @@
       "launch_mass": 12519,
       "payload_mass": null,
       "launch_vehicle": "Falcon 9",
+      "launch_vehicle_name": "B1081.1",
       "mission_type": "Crew",
       "crew": [
         "Jasmin Moghbeli",
@@ -66,6 +68,7 @@
       "launch_mass": null,
       "payload_mass": null,
       "launch_vehicle": "Soyuz 2.1a",
+      "launch_vehicle_name": null,
       "mission_type": "Crew",
       "crew": ["Oleg Kononenko", "Nikolai Chub", "Loral O'Hara"],
       "mission_patch": "https://i.ibb.co/SB63sQB/soyuz-ms24-patch01-lg.jpg",
@@ -88,6 +91,7 @@
       "launch_mass": 7000,
       "payload_mass": 2495,
       "launch_vehicle": "Soyuz 2.1a",
+      "launch_vehicle_name": null,
       "mission_type": "Cargo",
       "crew": null,
       "mission_patch": null,
@@ -110,6 +114,7 @@
       "launch_mass": 12519,
       "payload_mass": null,
       "launch_vehicle": "Falcon 9",
+      "launch_vehicle_name": "B1080.5",
       "mission_type": "Crew",
       "crew": [
         "Michael López-Alegría",
@@ -120,6 +125,29 @@
       "mission_patch": "https://upload.wikimedia.org/wikipedia/en/7/78/Axiom_3_mission_patch.png",
       "url": "https://en.wikipedia.org/wiki/Axiom_Mission_3",
       "image": "https://i.ibb.co/yBXrZwT/ax3-liftoff2.webp"
+    },
+    {
+      "id": 6,
+      "name": "Cygnus NG-20",
+      "country": "United States",
+      "flag_code": "us",
+      "operator": "Northrop Grumman",
+      "manufacturer": "Northrop Grumman",
+      "spacecraft_name": "S.S. Patricia “Patty” Hilliard Robertson",
+      "launched": 1706630835,
+      "launch_site": "CCSFS, SLC-40",
+      "iss": true,
+      "docked": 1706777940,
+      "docking_port": "Unity nadir",
+      "launch_mass": 12519,
+      "payload_mass": 3750,
+      "launch_vehicle": "Falcon 9",
+      "launch_vehicle_name": "B1077.10",
+      "mission_type": "Cargo",
+      "crew": null,
+      "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cygnus_NG-20_Patch.png",
+      "url": "https://en.wikipedia.org/wiki/Cygnus_NG-20",
+      "image": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2024/01/ng20capture.png"
     }
   ]
 }
