@@ -1,3 +1,12 @@
+# [1.52.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.51.0...v1.52.0) (2024-02-01)
+
+
+### Features
+
+* docking of Cygnus NG-20 spacecraft ([267cd0c](https://github.com/corquaid/international-space-station-APIs/commit/267cd0cce87056b4d8c057798e8f99fc30e03fe0))
+
+
+
 # [1.51.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.50.0...v1.51.0) (2024-01-20)
 
 
@@ -34,15 +43,6 @@
 ### Bug Fixes
 
 * remove iss-tracker app link from readme ([cf78ca9](https://github.com/corquaid/international-space-station-APIs/commit/cf78ca9619daa864c997c277a3ba801a99479a0a))
-
-
-
-## [1.48.2](https://github.com/corquaid/international-space-station-APIs/compare/v1.48.1...v1.48.2) (2023-12-13)
-
-
-### Bug Fixes
-
-* update readme content and formatting ([e03e5c8](https://github.com/corquaid/international-space-station-APIs/commit/e03e5c889a00087f2f1cb36a8a8ec07bf0860734))
 
 
 
