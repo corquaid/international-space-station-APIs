@@ -1,3 +1,12 @@
+# [1.53.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.52.0...v1.53.0) (2024-02-07)
+
+
+### Features
+
+* undocking of Axiom-3 Dragon spacecraft ([6dd04a5](https://github.com/corquaid/international-space-station-APIs/commit/6dd04a52bc617dc32454b37c0569f927c2c7eefa))
+
+
+
 # [1.52.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.51.0...v1.52.0) (2024-02-01)
 
 
@@ -34,15 +43,6 @@
 ### Features
 
 * undocking of CRS-29 Dragon spacecraft, add photo for Progress MS-25 spacecraft ([56eb607](https://github.com/corquaid/international-space-station-APIs/commit/56eb607df5e21a971c210c0485156d290f5d9dea))
-
-
-
-## [1.48.3](https://github.com/corquaid/international-space-station-APIs/compare/v1.48.2...v1.48.3) (2023-12-13)
-
-
-### Bug Fixes
-
-* remove iss-tracker app link from readme ([cf78ca9](https://github.com/corquaid/international-space-station-APIs/commit/cf78ca9619daa864c997c277a3ba801a99479a0a))
 
 
 
