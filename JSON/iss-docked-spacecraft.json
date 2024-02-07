@@ -1,5 +1,5 @@
 {
-  "number": 6,
+  "number": 5,
   "spacecraft": [
     {
       "id": 1,
@@ -16,7 +16,7 @@
       "docking_port": "Zvezda aft",
       "launch_mass": 7000,
       "payload_mass": 2500,
-      "launch_vehicle": "Soyuz 2.1a",      
+      "launch_vehicle": "Soyuz 2.1a",
       "launch_vehicle_name": null,
       "mission_type": "Cargo",
       "crew": null,
@@ -100,34 +100,6 @@
     },
     {
       "id": 5,
-      "name": "Axiom-3 Dragon",
-      "country": "United States",
-      "flag_code": "us",
-      "operator": "SpaceX",
-      "manufacturer": "SpaceX",
-      "spacecraft_name": "Freedom",
-      "launched": 1705610940,
-      "launch_site": "KSC, LC-39A",
-      "iss": true,
-      "docked": 1705743720,
-      "docking_port": "Harmony forward",
-      "launch_mass": 12519,
-      "payload_mass": null,
-      "launch_vehicle": "Falcon 9",
-      "launch_vehicle_name": "B1080.5",
-      "mission_type": "Crew",
-      "crew": [
-        "Michael López-Alegría",
-        "Walter Villadei",
-        "Alper Gezeravcı",
-        "Marcus Wandt"
-      ],
-      "mission_patch": "https://upload.wikimedia.org/wikipedia/en/7/78/Axiom_3_mission_patch.png",
-      "url": "https://en.wikipedia.org/wiki/Axiom_Mission_3",
-      "image": "https://i.ibb.co/yBXrZwT/ax3-liftoff2.webp"
-    },
-    {
-      "id": 6,
       "name": "Cygnus NG-20",
       "country": "United States",
       "flag_code": "us",
