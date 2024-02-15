@@ -1,13 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>International Space Station APIs</title>
-</head>
-<body>
-  <h1>International Space Station APIs</h1>
-  <a href="https://corquaid.github.io/international-space-station-APIs/JSON/people-in-space.json">People In Space (JSON)</a>
-  <a href="https://corquaid.github.io/international-space-station-APIs/JSON/iss-docked-spacecraft.json">Spacecraft at the ISS</a>
-</body>
-</html>-m
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>International Space Station APIs</title>
+  </head>
+  <body>
+    <header>
+      <h1>International Space Station APIs</h1>
+      <a
+        href="https://github.com/corquaid/international-space-station-APIs#readme"
+        target="_blank"
+      >
+        <img src="assets/github-mark-white.svg" alt="GitHub Icon" />
+      </a>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a
+            href="https://corquaid.github.io/international-space-station-APIs/JSON/people-in-space.json"
+            >People In Space (JSON)</a
+          >
+        </li>
+        <li>
+          <a
+            href="https://corquaid.github.io/international-space-station-APIs/JSON/iss-docked-spacecraft.json"
+            >Spacecraft at the ISS</a
+          >
+        </li>
+      </ul>
+    </nav>
+    <footer>
+      <p>&copy; 2021-<span id="currentYear"></span> corquaid</p>
+    </footer>
+  </body>
+</html>
+
+<script>
+  var currentYear = new Date().getFullYear()
+  document.getElementById('currentYear').innerText = currentYear
+</script>
