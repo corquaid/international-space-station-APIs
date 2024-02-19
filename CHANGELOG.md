@@ -1,3 +1,13 @@
+# [1.55.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.54.0...v1.55.0) (2024-02-19)
+
+
+### Features
+
+* update for docking of Progress MS-26 spacecraft ([04bcd48](https://github.com/corquaid/international-space-station-APIs/commit/04bcd48874b9b270c89c1600ff02c87c86e47189))
+* update index.html ([04f6fcf](https://github.com/corquaid/international-space-station-APIs/commit/04f6fcfc4176d0e1e6d20beef54b11d8048eca65))
+
+
+
 # [1.54.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.53.0...v1.54.0) (2024-02-14)
 
 
@@ -34,15 +44,6 @@
 * added Axiom 3 docking time ([52e52df](https://github.com/corquaid/international-space-station-APIs/commit/52e52dff93e2c1f9b2051a9e59df07de10cb7d9b))
 * update for docking of Axiom-3 spacecraft ([d755782](https://github.com/corquaid/international-space-station-APIs/commit/d755782d59d31869a56de5ae7c9fd452c8614885))
 * update people-in-space for Axiom-3 mission ([0d95b0e](https://github.com/corquaid/international-space-station-APIs/commit/0d95b0efd2a465f8e8a35f5ccd8a72d80833c248))
-
-
-
-# [1.50.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.49.0...v1.50.0) (2023-12-22)
-
-
-### Features
-
-* undocking of Cygnus NG-19 spacecraft ([ebae63c](https://github.com/corquaid/international-space-station-APIs/commit/ebae63c95840521870544af2790551f9040d2a34))
 
 
 
