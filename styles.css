@@ -1,0 +1,95 @@
+body,
+h1,
+h2,
+ul,
+li,
+a {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Helvetica', Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f8f8f8;
+  margin: 0;
+  height: 100vh; /* Full height of the viewport */
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  background-color: #333;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  font-family: 'Helvetica', sans-serif; /* Use Helvetica font */
+  color: #fff;
+}
+
+header a {
+  color: #333;
+  text-decoration: none; /* Remove underline */
+  display: flex; /* Use flexbox for positioning */
+  align-items: center; /* Center the content vertically */
+}
+
+header img {
+  width: 30px;
+  height: 30px;
+  margin-top: -8px;
+  margin-left: 5px;
+  transition: transform 0.3s ease;
+}
+
+header img:hover {
+  transform: scale(1.2);
+}
+
+nav {
+  margin: 60px;
+  height: 100%;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  padding: 8px 12px;
+  border: 2px solid #333;
+  display: inline-block;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+footer {
+  padding: 10px;
+  text-align: left;
+}
+
+footer p {
+  color: #333;
+  font-size: 0.8em;
+  font-weight: bold;
+  margin: 0;
+}
