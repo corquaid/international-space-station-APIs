@@ -1,5 +1,5 @@
 {
-  "number": 5,
+  "number": 6,
   "spacecraft": [
     {
       "id": 1,
@@ -120,6 +120,34 @@
       "mission_patch": null,
       "url": "https://en.wikipedia.org/wiki/Progress_MS-26",
       "image": "https://i.ibb.co/rwd7VjK/Tb7c2ah5-Vx4-Jn-ZZJpmdyw-E-1200-80-jpg.webp"
+    },
+    {
+      "id": 6,
+      "name": "Crew-8 Dragon",
+      "country": "United States",
+      "flag_code": "us",
+      "operator": "SpaceX",
+      "manufacturer": "SpaceX",
+      "spacecraft_name": "Endeavour",
+      "launched": 1709435760,
+      "launch_site": "KSC, LC-39A",
+      "iss": true,
+      "docked": ,
+      "docking_port": "Harmony forward",
+      "launch_mass": 12519,
+      "payload_mass": null,
+      "launch_vehicle": "Falcon 9",
+      "launch_vehicle_name": "B1083.1",
+      "mission_type": "Crew",
+      "crew": [
+        "Matthew Dominick",
+        "Michael Barratt",
+        "Jeanette Epps",
+        "Alexander Grebenkin"
+      ],
+      "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/a/a0/SpaceX_Crew-8_logo.png",
+      "url": "https://en.wikipedia.org/wiki/SpaceX_Crew-8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Jsc2023e070781.jpg"
     }
   ]
 }
