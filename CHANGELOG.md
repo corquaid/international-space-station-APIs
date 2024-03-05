@@ -1,3 +1,14 @@
+# [1.56.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.55.0...v1.56.0) (2024-03-05)
+
+
+### Features
+
+* add launch and docking time for SpaceX Crew-8 mission ([9dc68da](https://github.com/corquaid/international-space-station-APIs/commit/9dc68da71889698f7c420261ebc176e2800e6c98))
+* update Crew-8 Dragon docking time ([73c5a3a](https://github.com/corquaid/international-space-station-APIs/commit/73c5a3a1eef86ccc87fa3f8826ad46e1849cf4e1))
+* update for Crew-8 Dragon spacecraft and crew ([bc0d188](https://github.com/corquaid/international-space-station-APIs/commit/bc0d1888c78f4db01ef3e76590975fe5251c82d6))
+
+
+
 # [1.55.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.54.0...v1.55.0) (2024-02-19)
 
 
@@ -32,18 +43,6 @@
 ### Features
 
 * docking of Cygnus NG-20 spacecraft ([267cd0c](https://github.com/corquaid/international-space-station-APIs/commit/267cd0cce87056b4d8c057798e8f99fc30e03fe0))
-
-
-
-# [1.51.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.50.0...v1.51.0) (2024-01-20)
-
-
-### Features
-
-* add new field spacecraft_name ([281b6f6](https://github.com/corquaid/international-space-station-APIs/commit/281b6f6f3e6ff280b3e48eb59c4fa74517a6ed35))
-* added Axiom 3 docking time ([52e52df](https://github.com/corquaid/international-space-station-APIs/commit/52e52dff93e2c1f9b2051a9e59df07de10cb7d9b))
-* update for docking of Axiom-3 spacecraft ([d755782](https://github.com/corquaid/international-space-station-APIs/commit/d755782d59d31869a56de5ae7c9fd452c8614885))
-* update people-in-space for Axiom-3 mission ([0d95b0e](https://github.com/corquaid/international-space-station-APIs/commit/0d95b0efd2a465f8e8a35f5ccd8a72d80833c248))
 
 
 
