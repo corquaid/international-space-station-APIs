@@ -109,7 +109,7 @@ The same calculation can be performed here where you use the `"docked"` UNIX tim
 
 This NASA resource is also useful with a nice visualisation of the docked spacecraft:
 
-[ISS Visiting Vehicles (NASA site)](https://www.nasa.gov/feature/visiting-vehicle-launches-arrivals-and-departures)
+[ISS Visiting Vehicles (NASA site)](https://www.nasa.gov/international-space-station/space-station-visiting-vehicles/)
 
 # References
 
