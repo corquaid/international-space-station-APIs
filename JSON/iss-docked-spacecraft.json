@@ -1,5 +1,5 @@
 {
-  "number": 6,
+  "number": 7,
   "spacecraft": [
     {
       "id": 1,
@@ -143,6 +143,29 @@
       "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/f/f3/SpaceX_CRS-30_Patch.png",
       "url": "https://en.wikipedia.org/wiki/SpaceX_CRS-30",
       "image": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2024/03/dragon-docked.png"
+    },
+    {
+      "id": 7,
+      "name": "Soyuz MS-25",
+      "country": "Russia",
+      "flag_code": "ru",
+      "operator": "Roscosmos",
+      "manufacturer": "Energia",
+      "spacecraft_name": null,
+      "launched": 1711193760,
+      "launch_site": "Site 31/6, Baikonur",
+      "iss": true,
+      "docked": 1711375380,
+      "docking_port": "Prichal nadir",
+      "launch_mass": null,
+      "payload_mass": null,
+      "launch_vehicle": "Soyuz 2.1a",
+      "launch_vehicle_name": null,
+      "mission_type": "Crew",
+      "crew": ["Oleg Novitsky", "Marina Vasilevskaya", "Tracy Caldwell-Dyson"],
+      "mission_patch": "https://i.ibb.co/5czhYB9/soyuz-ms25-patch01-lg.jpg",
+      "url": "https://en.wikipedia.org/wiki/Soyuz_MS-25",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Expedition_71_Press_Conference_%28NHQ202403200036%29.jpg"
     }
   ]
 }
