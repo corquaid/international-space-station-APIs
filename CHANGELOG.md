@@ -1,3 +1,12 @@
+# [1.62.0](https://github.com/corquaid/international-space-station-iss-apis/compare/v1.61.0...v1.62.0) (2024-04-28)
+
+
+### Features
+
+* undocking of CRS-30 spacecraft ([dde3564](https://github.com/corquaid/international-space-station-iss-apis/commit/dde356408adde670f12facb4c2a242fa53bacb63))
+
+
+
 # [1.61.0](https://github.com/corquaid/international-space-station-iss-apis/compare/v1.60.0...v1.61.0) (2024-04-26)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * update for docking of Dragon CRS-30 spacecraft ([1803f72](https://github.com/corquaid/international-space-station-iss-apis/commit/1803f72466fa02b43280ad81e310574970b32a55))
-
-
-
-# [1.57.0](https://github.com/corquaid/international-space-station-iss-apis/compare/v1.56.0...v1.57.0) (2024-03-11)
-
-
-### Features
-
-* undocking of SpaceX Crew-7 Dragon spacecraft ([46e8785](https://github.com/corquaid/international-space-station-iss-apis/commit/46e8785eacb2d72ee99ab64e985322bda3d53dc6))
 
 
 
