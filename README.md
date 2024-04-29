@@ -18,7 +18,7 @@ Ad Astra!
 
 ### People In Space :woman_astronaut:
 
-[People In Space](https://corquaid.github.io/international-space-station-APIs/JSON/people-in-space.json) (JSON)
+[People In Space](https://corquaid.github.io/international-space-station-iss-apis/JSON/people-in-space.json) (JSON)
 
 `https://corquaid.github.io/international-space-station-APIs/JSON/people-in-space.json`
 
@@ -68,7 +68,7 @@ Using `"launched"` and `"days_in_space"` together, you can calculate the up-to-d
 
 ### Spacecraft at the ISS :rocket:
 
-[ISS Docked Spacecraft](https://corquaid.github.io/international-space-station-APIs/JSON/iss-docked-spacecraft.json) (JSON)
+[ISS Docked Spacecraft](https://corquaid.github.io/international-space-station-iss-apis/JSON/iss-docked-spacecraft.json) (JSON)
 
 `https://corquaid.github.io/international-space-station-APIs/JSON/iss-docked-spacecraft.json`
 
