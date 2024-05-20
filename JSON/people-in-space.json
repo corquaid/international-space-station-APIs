@@ -1,5 +1,5 @@
 {
-  "number": 13,
+  "number": 10,
   "iss_expedition": 71,
   "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/b/b4/ISS_Expedition_71_Patch.png",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_71",
@@ -43,57 +43,6 @@
     },
     {
       "id": 3,
-      "name": "Tang Hongbo",
-      "country": "China",
-      "flag_code": "cn",
-      "agency": "CMSA",
-      "position": "Commander",
-      "spacecraft": "Shenzhou 17",
-      "launched": 1698282840,
-      "iss": false,
-      "days_in_space": 92,
-      "url": "https://en.wikipedia.org/wiki/Tang_Hongbo",
-      "image": "https://i.ibb.co/hLsy6Xs/1310011235-16238340233811n.jpg",
-      "instagram": "",
-      "twitter": "",
-      "facebook": ""
-    },
-    {
-      "id": 4,
-      "name": "Tang Shengjie",
-      "country": "China",
-      "flag_code": "cn",
-      "agency": "CMSA",
-      "position": "Operator",
-      "spacecraft": "Shenzhou 17",
-      "launched": 1698282840,
-      "iss": false,
-      "days_in_space": 0,
-      "url": "",
-      "image": "https://i.ibb.co/5XZH4vB/20231026d451f4600c524b38ba513bcf3ec1c1f4-e341604dea344ca4a7bb64d474fd4216.jpg",
-      "instagram": "",
-      "twitter": "",
-      "facebook": ""
-    },
-    {
-      "id": 5,
-      "name": "Jiang Xinlin",
-      "country": "China",
-      "flag_code": "cn",
-      "agency": "CMSA",
-      "position": "Systems Operator",
-      "spacecraft": "Shenzhou 17",
-      "launched": 1698282840,
-      "iss": false,
-      "days_in_space": 0,
-      "url": "",
-      "image": "https://i.ibb.co/2qbTtdm/20231025a0ccdeb9d207464eb6b31af11513e429-04e1dfc7237642ee879d9c04e616b600.jpg",
-      "instagram": "",
-      "twitter": "",
-      "facebook": ""
-    },
-    {
-      "id": 6,
       "name": "Matthew Dominick",
       "country": "United States",
       "flag_code": "us",
@@ -110,7 +59,7 @@
       "facebook": "https://www.facebook.com/astro.matthew.dominick"
     },
     {
-      "id": 7,
+      "id": 4,
       "name": "Michael Barratt",
       "country": "United States",
       "flag_code": "us",
@@ -127,7 +76,7 @@
       "facebook": ""
     },
     {
-      "id": 8,
+      "id": 5,
       "name": "Jeanette Epps",
       "country": "United States",
       "flag_code": "us",
@@ -144,7 +93,7 @@
       "facebook": "https://www.facebook.com/people/Jeanette-Epps/pfbid02qGv6poB5B37XjuzkrTaH9a8UjsPF9MrxRYnJVPe2hFYodgqq5VEoCuEG9CznMJjEl/"
     },
     {
-      "id": 9,
+      "id": 6,
       "name": "Alexander Grebenkin",
       "country": "Russia",
       "flag_code": "ru",
@@ -161,7 +110,7 @@
       "facebook": ""
     },
     {
-      "id": 10,
+      "id": 7,
       "name": "Tracy Caldwell-Dyson",
       "country": "United States",
       "flag_code": "us",
@@ -178,7 +127,7 @@
       "facebook": ""
     },
     {
-      "id": 11,
+      "id": 8,
       "name": "Ye Guangfu",
       "country": "China",
       "flag_code": "cn",
@@ -195,7 +144,7 @@
       "facebook": ""
     },
     {
-      "id": 12,
+      "id": 9,
       "name": "Li Cong",
       "country": "China",
       "flag_code": "cn",
@@ -212,7 +161,7 @@
       "facebook": ""
     },
     {
-      "id": 13,
+      "id": 10,
       "name": "Li Guangsu",
       "country": "China",
       "flag_code": "cn",
