@@ -1,3 +1,12 @@
+# [1.65.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.64.0...v1.65.0) (2024-06-03)
+
+
+### Features
+
+* docking of Progress MS-27 spacecraft ([4397c9a](https://github.com/corquaid/international-space-station-APIs/commit/4397c9a387a3fbe247f63bd292452bc12bf2642e))
+
+
+
 # [1.64.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.63.0...v1.64.0) (2024-05-31)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * update for launch of Shenzhou 18 mission ([a743eeb](https://github.com/corquaid/international-space-station-APIs/commit/a743eebb35383e3d075bf465da69174bf28a5a80))
-
-
-
-# [1.60.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.59.0...v1.60.0) (2024-04-06)
-
-
-### Features
-
-* update for undocking of Soyuz MS-24 and start of ISS Expedition 71 ([6b52125](https://github.com/corquaid/international-space-station-APIs/commit/6b52125d45dd32f5f032cbb4d2c58590d60a0e15))
 
 
 
