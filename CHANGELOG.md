@@ -1,3 +1,12 @@
+# [1.66.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.65.0...v1.66.0) (2024-06-06)
+
+
+### Features
+
+* docking of Boeing Starliner CFT spacecraft ([a55c1bf](https://github.com/corquaid/international-space-station-APIs/commit/a55c1bff8062661a24356c208af32aa7fc8a0404))
+
+
+
 # [1.65.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.64.0...v1.65.0) (2024-06-03)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * undocking of CRS-30 spacecraft ([dde3564](https://github.com/corquaid/international-space-station-APIs/commit/dde356408adde670f12facb4c2a242fa53bacb63))
-
-
-
-# [1.61.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.60.0...v1.61.0) (2024-04-26)
-
-
-### Features
-
-* update for launch of Shenzhou 18 mission ([a743eeb](https://github.com/corquaid/international-space-station-APIs/commit/a743eebb35383e3d075bf465da69174bf28a5a80))
 
 
 
