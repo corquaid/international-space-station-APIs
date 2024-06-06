@@ -1,5 +1,5 @@
 {
-  "number": 5,
+  "number": 6,
   "spacecraft": [
     {
       "id": 1,
@@ -120,6 +120,32 @@
       "mission_patch": null,
       "url": "https://en.wikipedia.org/wiki/Progress_MS-27",
       "image": "https://i.ibb.co/Fz3n84W/SGoi-CLH5-Qer-Ui9xs-ARj5-C3-1200-80-png.webp"
+    },
+    {
+      "id": 6,
+      "name": "Boeing CFT Starliner",
+      "country": "United States",
+      "flag_code": "us",
+      "operator": "Boeing",
+      "manufacturer": "Boeing",
+      "spacecraft_name": null,
+      "launched": 1717591942,
+      "launch_site": "CCSFS, SLC-41",
+      "iss": true,
+      "docked": 1717688040,
+      "docking_port": "Harmony forward",
+      "launch_mass": 12519,
+      "payload_mass": null,
+      "launch_vehicle": "Atlas V N22",
+      "launch_vehicle_name": null,
+      "mission_type": "Crew",
+      "crew": [
+        "Butch Wilmore",
+        "Suni Williams"
+      ],
+      "mission_patch": "https://i.ibb.co/VByBzf0/cft-lg.jpg",
+      "url": "https://en.wikipedia.org/wiki/Boeing_Crewed_Flight_Test",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Boeing_CFT_Crew_Portrait-Sunita_Williams_and_Barry_Wilmore_%28KSC-20240404-PH-NAS01_0001%29.jpg"
     }
   ]
 }
