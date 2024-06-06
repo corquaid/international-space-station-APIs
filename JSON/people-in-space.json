@@ -1,5 +1,5 @@
 {
-  "number": 10,
+  "number": 12,
   "iss_expedition": 71,
   "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/b/b4/ISS_Expedition_71_Patch.png",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_71",
@@ -176,6 +176,40 @@
       "instagram": "",
       "twitter": "",
       "facebook": ""
+    },
+    {
+      "id": 11,
+      "name": "Butch Wilmore",
+      "country": "United States",
+      "flag_code": "us",
+      "agency": "NASA",
+      "position": "Spacecraft Commander",
+      "spacecraft": "Boeing CFT Starliner",
+      "launched": 1717591942,
+      "iss": true,
+      "days_in_space": 177,
+      "url": "https://en.wikipedia.org/wiki/Barry_E._Wilmore",
+      "image": "https://i.ibb.co/Y8fXcR0/53556895127-9c3ff28e26-h.jpg",
+      "instagram": "https://www.instagram.com/astro_butch/",
+      "twitter": "",
+      "facebook": ""
+    },
+    {
+      "id": 12,
+      "name": "Suni Williams",
+      "country": "United States",
+      "flag_code": "us",
+      "agency": "NASA",
+      "position": "Pilot",
+      "spacecraft": "Boeing CFT Starliner",
+      "launched": 1717591942,
+      "iss": true,
+      "days_in_space": 322,
+      "url": "https://en.wikipedia.org/wiki/Sunita_Williams",
+      "image": "https://i.ibb.co/KGtM6P1/t5id3eu-sunita-williams-625x300-07-May-24.webp",
+      "instagram": "",
+      "twitter": "https://x.com/Astro_Suni",
+      "facebook": "https://www.facebook.com/AstronautSunitaWilliams/"
     }
   ]
 }
