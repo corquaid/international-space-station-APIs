@@ -1,3 +1,12 @@
+# [1.67.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.66.0...v1.67.0) (2024-07-15)
+
+
+### Features
+
+* undocking of NG-20 Cygnus spacecraft ([c628a6c](https://github.com/corquaid/international-space-station-APIs/commit/c628a6cf31cf1857b2dc9854f5996e3f2d9d9014))
+
+
+
 # [1.66.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.65.0...v1.66.0) (2024-06-06)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * end of Shenzhou-17 mission ([33b0d23](https://github.com/corquaid/international-space-station-APIs/commit/33b0d23c3c2b7c15d4be5a1a0f312ee442e7f165))
-
-
-
-# [1.62.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.61.0...v1.62.0) (2024-04-28)
-
-
-### Features
-
-* undocking of CRS-30 spacecraft ([dde3564](https://github.com/corquaid/international-space-station-APIs/commit/dde356408adde670f12facb4c2a242fa53bacb63))
 
 
 
