@@ -1,3 +1,12 @@
+# [1.68.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.67.0...v1.68.0) (2024-08-08)
+
+
+### Features
+
+* docking of Cygnus NG-21 cargo spacecraft ([cee3ad7](https://github.com/corquaid/international-space-station-APIs/commit/cee3ad7d037e55b2801d06dca44e4b4d6582bfd2))
+
+
+
 # [1.67.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.66.0...v1.67.0) (2024-07-15)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * undocking of Progress MS-25 spacecraft ([068ce7a](https://github.com/corquaid/international-space-station-APIs/commit/068ce7a16f43fd9e63655435532e082f69300b96))
-
-
-
-# [1.63.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.62.0...v1.63.0) (2024-05-20)
-
-
-### Features
-
-* end of Shenzhou-17 mission ([33b0d23](https://github.com/corquaid/international-space-station-APIs/commit/33b0d23c3c2b7c15d4be5a1a0f312ee442e7f165))
 
 
 
