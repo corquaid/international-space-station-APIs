@@ -1,3 +1,12 @@
+# [1.69.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.68.0...v1.69.0) (2024-08-14)
+
+
+### Features
+
+* undocking of Progress MS-26 spacecraft ([46164ea](https://github.com/corquaid/international-space-station-APIs/commit/46164eac1f1d3d2d36bfc1d0a48402bdaf315fc8))
+
+
+
 # [1.68.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.67.0...v1.68.0) (2024-08-08)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * docking of Progress MS-27 spacecraft ([4397c9a](https://github.com/corquaid/international-space-station-APIs/commit/4397c9a387a3fbe247f63bd292452bc12bf2642e))
-
-
-
-# [1.64.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.63.0...v1.64.0) (2024-05-31)
-
-
-### Features
-
-* undocking of Progress MS-25 spacecraft ([068ce7a](https://github.com/corquaid/international-space-station-APIs/commit/068ce7a16f43fd9e63655435532e082f69300b96))
 
 
 
