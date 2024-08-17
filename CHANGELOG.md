@@ -1,3 +1,12 @@
+# [1.70.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.69.0...v1.70.0) (2024-08-17)
+
+
+### Features
+
+* docking of Progress MS-28 spacecraft ([09dda46](https://github.com/corquaid/international-space-station-APIs/commit/09dda46707716d7a998166e61abcace2cc7abc40))
+
+
+
 # [1.69.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.68.0...v1.69.0) (2024-08-14)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * docking of Boeing Starliner CFT spacecraft ([a55c1bf](https://github.com/corquaid/international-space-station-APIs/commit/a55c1bff8062661a24356c208af32aa7fc8a0404))
-
-
-
-# [1.65.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.64.0...v1.65.0) (2024-06-03)
-
-
-### Features
-
-* docking of Progress MS-27 spacecraft ([4397c9a](https://github.com/corquaid/international-space-station-APIs/commit/4397c9a387a3fbe247f63bd292452bc12bf2642e))
 
 
 
