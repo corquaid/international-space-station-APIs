@@ -1,3 +1,12 @@
+# [1.71.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.70.0...v1.71.0) (2024-09-07)
+
+
+### Features
+
+* undocking of Boeing CFT Starliner ([5284b81](https://github.com/corquaid/international-space-station-APIs/commit/5284b81fccb9f5447d04c116ff11ecfd58a0feea))
+
+
+
 # [1.70.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.69.0...v1.70.0) (2024-08-17)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * undocking of NG-20 Cygnus spacecraft ([c628a6c](https://github.com/corquaid/international-space-station-APIs/commit/c628a6cf31cf1857b2dc9854f5996e3f2d9d9014))
-
-
-
-# [1.66.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.65.0...v1.66.0) (2024-06-06)
-
-
-### Features
-
-* docking of Boeing Starliner CFT spacecraft ([a55c1bf](https://github.com/corquaid/international-space-station-APIs/commit/a55c1bff8062661a24356c208af32aa7fc8a0404))
 
 
 
