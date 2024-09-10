@@ -1,3 +1,12 @@
+# [1.72.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.71.0...v1.72.0) (2024-09-10)
+
+
+### Features
+
+* update for launch of Polaris Dawn mission ([b03b839](https://github.com/corquaid/international-space-station-APIs/commit/b03b839bd6dce8cee5997834754d43eafd91daa7))
+
+
+
 # [1.71.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.70.0...v1.71.0) (2024-09-07)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * docking of Cygnus NG-21 cargo spacecraft ([cee3ad7](https://github.com/corquaid/international-space-station-APIs/commit/cee3ad7d037e55b2801d06dca44e4b4d6582bfd2))
-
-
-
-# [1.67.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.66.0...v1.67.0) (2024-07-15)
-
-
-### Features
-
-* undocking of NG-20 Cygnus spacecraft ([c628a6c](https://github.com/corquaid/international-space-station-APIs/commit/c628a6cf31cf1857b2dc9854f5996e3f2d9d9014))
 
 
 
