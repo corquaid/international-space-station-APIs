@@ -1,5 +1,5 @@
 {
-  "number": 5,
+  "number": 6,
   "spacecraft": [
     {
       "id": 1,
@@ -120,6 +120,29 @@
       "mission_patch": null,
       "url": "https://en.wikipedia.org/wiki/Progress_MS-28",
       "image": "https://i.ibb.co/Q6LLCbN/progress-ms28-zem-351772-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Soyuz MS-26",
+      "country": "Russia",
+      "flag_code": "ru",
+      "operator": "Roscosmos",
+      "manufacturer": "Energia",
+      "spacecraft_name": null,
+      "launched": 1726150992,
+      "launch_site": "Site 31/6, Baikonur",
+      "iss": true,
+      "docked": 1726162320,
+      "docking_port": "Rassvet nadir",
+      "launch_mass": null,
+      "payload_mass": null,
+      "launch_vehicle": "Soyuz 2.1a",
+      "launch_vehicle_name": null,
+      "mission_type": "Crew",
+      "crew": ["Aleksey Ovchinin", "Ivan Wagner", "Donald Pettit"],
+      "mission_patch": "https://i.ibb.co/2FCdns3/soyuz-ms26-patch01-lg.jpg",
+      "url": "https://en.wikipedia.org/wiki/Soyuz_MS-26",
+      "image": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2024/09/Soyuz-Approaches-Station-Sept-2024.png"
     }
   ]
 }
