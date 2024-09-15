@@ -28,30 +28,31 @@ Here's an example of the returned JSON:
 
 ```json
 {
-  "number": 10,
-  "iss_expedition": 70,
-  "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/6/65/ISS_Expedition_70_Patch.png",
-  "expedition_url": "https://en.wikipedia.org/wiki/Expedition_70",
-  "expedition_image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Iss070-s-002.jpg",
-  "expedition_start_date": 1695772800,
-  "expedition_end_date": 1711411199,
+  "number": 15,
+  "iss_expedition": 71,
+  "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/b/b4/ISS_Expedition_71_Patch.png",
+  "expedition_url": "https://en.wikipedia.org/wiki/Expedition_71",
+  "expedition_image": "https://upload.wikimedia.org/wikipedia/commons/8/81/The_official_Expedition_71_crew_portrait.jpg",
+  "expedition_start_date": 1712354400,
+  "expedition_end_date": 1727128800,
   "people": [
+    ...
     {
-      "id": 2,
-      "name": "Andreas Mogensen",
-      "country": "Denmark",
-      "flag_code": "dk",
-      "agency": "ESA",
-      "position": "Commander",
-      "spacecraft": "Crew-7 Dragon",
-      "launched": 1693027620,
+      "id": 15,
+      "name": "Don Pettit",
+      "country": "United States",
+      "flag_code": "us",
+      "agency": "NASA",
+      "position": "Flight Engineer",
+      "spacecraft": "Soyuz MS-26",
+      "launched": 1726150992,
       "iss": true,
-      "days_in_space": 10,
-      "url": "https://en.wikipedia.org/wiki/Andreas_Mogensen",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Andreas_Mogensen_official_portrait.jpg",
-      "instagram": "https://www.instagram.com/astro_andreas/",
-      "twitter": "https://twitter.com/Astro_Andreas",
-      "facebook": "https://www.facebook.com/ESAAndreasMogensen/"
+      "days_in_space": 369,
+      "url": "https://en.wikipedia.org/wiki/Donald_Pettit",
+      "image": "https://i.ibb.co/cgvcwqN/NASA-astronaut-Don-Pettit-pillars.jpg",
+      "instagram": "https://www.instagram.com/astro_pettit/",
+      "twitter": "https://x.com/astro_Pettit",
+      "facebook": ""
     },
     ...
   ]
@@ -78,31 +79,40 @@ Here's an example of the returned JSON:
 
 ```json
 {
-  "id": 5,
-  "name": "Crew-7 Dragon",
-  "country": "United States",
-  "flag_code": "us",
-  "operator": "SpaceX",
-  "manufacturer": "SpaceX",
-  "launched": 1693027620,
-  "launch_site": "KSC, LC-39A",
-  "iss": true,
-  "docked": 1693134960,
-  "docking_port": "Harmony zenith",
-  "launch_mass": 12519,
-  "payload_mass": null,
-  "launch_vehicle": "Falcon 9",
-  "mission_type": "Crew",
-  "crew": [
-    "Jasmin Moghbeli",
-    "Andreas Mogensen",
-    "Satoshi Furukawa",
-    "Konstantin Borisov"
-  ],
-  "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/b/b3/SpaceX_Crew-7_logo.png",
-  "url": "https://en.wikipedia.org/wiki/SpaceX_Crew-7",
-  "image": "https://pbs.twimg.com/media/F4WMwLEaEAADi9_?format=jpg&name=4096x4096"
+  "number": 6,
+  "spacecraft": [
+    {
+      "id": 1,
+      "name": "Crew-8 Dragon",
+      "country": "United States",
+      "flag_code": "us",
+      "operator": "SpaceX",
+      "manufacturer": "SpaceX",
+      "spacecraft_name": "Endeavour",
+      "launched": 1709520840,
+      "launch_site": "KSC, LC-39A",
+      "iss": true,
+      "docked": 1709620080,
+      "docking_port": "Harmony forward",
+      "launch_mass": 12519,
+      "payload_mass": null,
+      "launch_vehicle": "Falcon 9",
+      "launch_vehicle_name": "B1083.1",
+      "mission_type": "Crew",
+      "crew": [
+        "Matthew Dominick",
+        "Michael Barratt",
+        "Jeanette Epps",
+        "Alexander Grebenkin"
+      ],
+      "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/a/a0/SpaceX_Crew-8_logo.png",
+      "url": "https://en.wikipedia.org/wiki/SpaceX_Crew-8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Jsc2023e070781.jpg"
+    },
+    ...
+  ]
 }
+
 ```
 
 The same calculation can be performed here where you use the `"docked"` UNIX timestamp and your current `Date()` timestamp to return the total time each spacecraft has been docked at the ISS.
@@ -115,6 +125,6 @@ This NASA resource is also useful with a nice visualisation of the docked spacec
 
 [Open Notify](http://open-notify.org/) by [Nathan Bergey](http://t.co/jIv30xdyTZ?amp=1).
 
-[Where The ISS At?](https://wheretheiss.at/) by Bill Shupp.
+[Where The ISS At?](https://wheretheiss.at/) by [Bill Shupp](https://about.me/shupp).
 
 >
