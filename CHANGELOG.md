@@ -1,3 +1,12 @@
+# [1.74.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.73.0...v1.74.0) (2024-09-15)
+
+
+### Features
+
+* update for end of Polaris Dawn mission ([de26693](https://github.com/corquaid/international-space-station-APIs/commit/de266938dcba528c72e2441a39e16573b545c8f4))
+
+
+
 # [1.73.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.72.0...v1.73.0) (2024-09-12)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * docking of Progress MS-28 spacecraft ([09dda46](https://github.com/corquaid/international-space-station-APIs/commit/09dda46707716d7a998166e61abcace2cc7abc40))
-
-
-
-# [1.69.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.68.0...v1.69.0) (2024-08-14)
-
-
-### Features
-
-* undocking of Progress MS-26 spacecraft ([46164ea](https://github.com/corquaid/international-space-station-APIs/commit/46164eac1f1d3d2d36bfc1d0a48402bdaf315fc8))
 
 
 
