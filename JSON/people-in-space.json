@@ -1,48 +1,14 @@
 {
-  "number": 15,
-  "iss_expedition": 71,
-  "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/b/b4/ISS_Expedition_71_Patch.png",
-  "expedition_url": "https://en.wikipedia.org/wiki/Expedition_71",
-  "expedition_image": "https://upload.wikimedia.org/wikipedia/commons/8/81/The_official_Expedition_71_crew_portrait.jpg",
-  "expedition_start_date": 1712354400,
-  "expedition_end_date": 1727128800,
+  "number": 12,
+  "iss_expedition": 72,
+  "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/c/c4/ISS_Expedition_72_Patch.png",
+  "expedition_url": "https://en.wikipedia.org/wiki/Expedition_72",
+  "expedition_image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Iss072-s-002.jpg",
+  "expedition_start_date": 1727042400,
+  "expedition_end_date": 1711148400,
   "people": [
     {
       "id": 1,
-      "name": "Oleg Kononenko",
-      "country": "Russia",
-      "flag_code": "ru",
-      "agency": "Roscosmos",
-      "position": "Commander",
-      "spacecraft": "Soyuz MS-24",
-      "launched": 1694785440,
-      "iss": true,
-      "days_in_space": 736,
-      "url": "https://en.wikipedia.org/wiki/Oleg_Kononenko",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/%27A_Beautiful_Planet%27_World_Premiere_%28NHQ201604160010%29.jpg",
-      "instagram": "",
-      "twitter": "",
-      "facebook": ""
-    },
-    {
-      "id": 2,
-      "name": "Nikolai Chub",
-      "country": "Russia",
-      "flag_code": "ru",
-      "agency": "Roscosmos",
-      "position": "Flight Engineer",
-      "spacecraft": "Soyuz MS-24",
-      "launched": 1694785440,
-      "iss": true,
-      "days_in_space": 0,
-      "url": "https://en.wikipedia.org/wiki/Nikolai_Chub",
-      "image": "https://blogs.esa.int/caves/files/2019/09/Chub-official-portrait_GCTC.jpg",
-      "instagram": "",
-      "twitter": "",
-      "facebook": ""
-    },
-    {
-      "id": 3,
       "name": "Matthew Dominick",
       "country": "United States",
       "flag_code": "us",
@@ -59,7 +25,7 @@
       "facebook": "https://www.facebook.com/astro.matthew.dominick"
     },
     {
-      "id": 4,
+      "id": 2,
       "name": "Michael Barratt",
       "country": "United States",
       "flag_code": "us",
@@ -76,7 +42,7 @@
       "facebook": ""
     },
     {
-      "id": 5,
+      "id": 3,
       "name": "Jeanette Epps",
       "country": "United States",
       "flag_code": "us",
@@ -93,7 +59,7 @@
       "facebook": "https://www.facebook.com/people/Jeanette-Epps/pfbid02qGv6poB5B37XjuzkrTaH9a8UjsPF9MrxRYnJVPe2hFYodgqq5VEoCuEG9CznMJjEl/"
     },
     {
-      "id": 6,
+      "id": 4,
       "name": "Alexander Grebenkin",
       "country": "Russia",
       "flag_code": "ru",
@@ -110,24 +76,7 @@
       "facebook": ""
     },
     {
-      "id": 7,
-      "name": "Tracy Caldwell-Dyson",
-      "country": "United States",
-      "flag_code": "us",
-      "agency": "NASA",
-      "position": "Flight Engineer",
-      "spacecraft": "Soyuz MS-25",
-      "launched": 1711193760,
-      "iss": true,
-      "days_in_space": 189,
-      "url": "https://en.wikipedia.org/wiki/Tracy_Caldwell_Dyson",
-      "image": "https://i.ibb.co/rZxWP3b/47742281421-395f06c22c-k.webp",
-      "instagram": "https://www.instagram.com/astro_tdyson/",
-      "twitter": "https://twitter.com/Astro_tracycald",
-      "facebook": ""
-    },
-    {
-      "id": 8,
+      "id": 5,
       "name": "Ye Guangfu",
       "country": "China",
       "flag_code": "cn",
@@ -144,7 +93,7 @@
       "facebook": ""
     },
     {
-      "id": 9,
+      "id": 6,
       "name": "Li Cong",
       "country": "China",
       "flag_code": "cn",
@@ -161,7 +110,7 @@
       "facebook": ""
     },
     {
-      "id": 10,
+      "id": 7,
       "name": "Li Guangsu",
       "country": "China",
       "flag_code": "cn",
@@ -178,7 +127,7 @@
       "facebook": ""
     },
     {
-      "id": 11,
+      "id": 8,
       "name": "Butch Wilmore",
       "country": "United States",
       "flag_code": "us",
@@ -195,12 +144,12 @@
       "facebook": ""
     },
     {
-      "id": 12,
+      "id": 9,
       "name": "Suni Williams",
       "country": "United States",
       "flag_code": "us",
       "agency": "NASA",
-      "position": "Flight Engineer",
+      "position": "Commander",
       "spacecraft": "Crew-9 Dragon",
       "launched": 1717591942,
       "iss": true,
@@ -212,12 +161,12 @@
       "facebook": "https://www.facebook.com/AstronautSunitaWilliams/"
     },
     {
-      "id": 13,
+      "id": 10,
       "name": "Aleksey Ovchinin",
       "country": "Russia",
       "flag_code": "ru",
       "agency": "Roscosmos",
-      "position": "Commander",
+      "position": "Flight Engineer",
       "spacecraft": "Soyuz MS-26",
       "launched": 1726150992,
       "iss": true,
@@ -229,7 +178,7 @@
       "facebook": ""
     },
     {
-      "id": 14,
+      "id": 11,
       "name": "Ivan Wagner",
       "country": "Russia",
       "flag_code": "ru",
@@ -246,7 +195,7 @@
       "facebook": ""
     },
     {
-      "id": 15,
+      "id": 12,
       "name": "Don Pettit",
       "country": "United States",
       "flag_code": "us",
