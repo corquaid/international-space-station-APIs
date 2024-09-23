@@ -1,5 +1,5 @@
 {
-  "number": 6,
+  "number": 5,
   "spacecraft": [
     {
       "id": 1,
@@ -31,29 +31,6 @@
     },
     {
       "id": 2,
-      "name": "Soyuz MS-25",
-      "country": "Russia",
-      "flag_code": "ru",
-      "operator": "Roscosmos",
-      "manufacturer": "Energia",
-      "spacecraft_name": null,
-      "launched": 1711193760,
-      "launch_site": "Site 31/6, Baikonur",
-      "iss": true,
-      "docked": 1711375380,
-      "docking_port": "Prichal nadir",
-      "launch_mass": null,
-      "payload_mass": null,
-      "launch_vehicle": "Soyuz 2.1a",
-      "launch_vehicle_name": null,
-      "mission_type": "Crew",
-      "crew": ["Oleg Kononenko", "Nikolai Chub", "Tracy Caldwell-Dyson"],
-      "mission_patch": "https://i.ibb.co/5czhYB9/soyuz-ms25-patch01-lg.jpg",
-      "url": "https://en.wikipedia.org/wiki/Soyuz_MS-25",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Expedition_71_Press_Conference_%28NHQ202403200036%29.jpg"
-    },
-    {
-      "id": 3,
       "name": "Progress MS-27",
       "country": "Russia",
       "flag_code": "ru",
@@ -76,7 +53,7 @@
       "image": "https://i.ibb.co/Fz3n84W/SGoi-CLH5-Qer-Ui9xs-ARj5-C3-1200-80-png.webp"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Cygnus NG-21",
       "country": "United States",
       "flag_code": "us",
@@ -99,7 +76,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/CRS_NG-21_Approach.jpg"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Progress MS-28",
       "country": "Russia",
       "flag_code": "ru",
@@ -122,7 +99,7 @@
       "image": "https://i.ibb.co/Q6LLCbN/progress-ms28-zem-351772-1.jpg"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Soyuz MS-26",
       "country": "Russia",
       "flag_code": "ru",
