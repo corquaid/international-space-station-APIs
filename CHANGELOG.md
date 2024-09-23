@@ -1,3 +1,12 @@
+# [1.75.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.74.0...v1.75.0) (2024-09-23)
+
+
+### Features
+
+* update for departure of Soyuz MS-25 and transition to ISS Expedition 72 ([7382e64](https://github.com/corquaid/international-space-station-APIs/commit/7382e644a5f146c66d4ad063307a0c113482f35d))
+
+
+
 # [1.74.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.73.0...v1.74.0) (2024-09-15)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * undocking of Boeing CFT Starliner ([5284b81](https://github.com/corquaid/international-space-station-APIs/commit/5284b81fccb9f5447d04c116ff11ecfd58a0feea))
-
-
-
-# [1.70.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.69.0...v1.70.0) (2024-08-17)
-
-
-### Features
-
-* docking of Progress MS-28 spacecraft ([09dda46](https://github.com/corquaid/international-space-station-APIs/commit/09dda46707716d7a998166e61abcace2cc7abc40))
 
 
 
