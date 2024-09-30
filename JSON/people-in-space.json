@@ -1,5 +1,5 @@
 {
-  "number": 12,
+  "number": 14,
   "iss_expedition": 72,
   "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/c/c4/ISS_Expedition_72_Patch.png",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_72",
@@ -209,6 +209,40 @@
       "image": "https://i.ibb.co/cgvcwqN/NASA-astronaut-Don-Pettit-pillars.jpg",
       "instagram": "https://www.instagram.com/astro_pettit/",
       "twitter": "https://x.com/astro_Pettit",
+      "facebook": ""
+    },
+    {
+      "id": 13,
+      "name": "Nick Hague",
+      "country": "United States",
+      "flag_code": "us",
+      "agency": "NASA",
+      "position": "Flight Engineer",
+      "spacecraft": "Crew-9 Dragon",
+      "launched": 1727536641,
+      "iss": true,
+      "days_in_space": 202,
+      "url": "https://en.wikipedia.org/wiki/Nick_Hague",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Col_Tyler_N._Hague.jpg",
+      "instagram": "https://www.instagram.com/astrohague/",
+      "twitter": "https://x.com/astrohague",
+      "facebook": "https://www.facebook.com/astrohague/"
+    },
+    {
+      "id": 14,
+      "name": "Aleksandr Gorbunov",
+      "country": "Russia",
+      "flag_code": "ru",
+      "agency": "Roscosmos",
+      "position": "Flight Engineer",
+      "spacecraft": "Crew-9 Dragon",
+      "launched": 1727536641,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Aleksandr_Gorbunov",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Aleksandr_Gorbunov_Portrait_%28Cropped%29.jpg",
+      "instagram": "",
+      "twitter": "",
       "facebook": ""
     }
   ]
