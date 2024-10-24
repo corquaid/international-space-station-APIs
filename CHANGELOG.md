@@ -1,3 +1,12 @@
+# [1.77.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.76.0...v1.77.0) (2024-10-24)
+
+
+### Features
+
+* undocking of SpaceX Crew-8 Dragon spacecraft ([018a07a](https://github.com/corquaid/international-space-station-APIs/commit/018a07aff31e5cb2932a046675721770a85f746a))
+
+
+
 # [1.76.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.75.0...v1.76.0) (2024-09-30)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * update for docking of Soyuz MS-26 spacecraft ([5f0bfb9](https://github.com/corquaid/international-space-station-APIs/commit/5f0bfb9d23207b8c6df2da610b8a60fca2486db3))
-
-
-
-# [1.72.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.71.0...v1.72.0) (2024-09-10)
-
-
-### Features
-
-* update for launch of Polaris Dawn mission ([b03b839](https://github.com/corquaid/international-space-station-APIs/commit/b03b839bd6dce8cee5997834754d43eafd91daa7))
 
 
 
