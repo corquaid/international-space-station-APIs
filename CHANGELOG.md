@@ -1,3 +1,12 @@
+# [1.78.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.77.0...v1.78.0) (2024-11-04)
+
+
+### Features
+
+* end of Shenzhou 18 mission and launch of Shenzhou 19 mission ([0c42b46](https://github.com/corquaid/international-space-station-APIs/commit/0c42b46102547d262e2fafe0d002d2c2142301d9))
+
+
+
 # [1.77.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.76.0...v1.77.0) (2024-10-24)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * update for end of Polaris Dawn mission ([de26693](https://github.com/corquaid/international-space-station-APIs/commit/de266938dcba528c72e2441a39e16573b545c8f4))
-
-
-
-# [1.73.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.72.0...v1.73.0) (2024-09-12)
-
-
-### Features
-
-* update for docking of Soyuz MS-26 spacecraft ([5f0bfb9](https://github.com/corquaid/international-space-station-APIs/commit/5f0bfb9d23207b8c6df2da610b8a60fca2486db3))
 
 
 
