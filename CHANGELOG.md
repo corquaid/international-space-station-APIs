@@ -1,3 +1,12 @@
+# [1.80.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.79.0...v1.80.0) (2024-11-29)
+
+
+### Features
+
+* update for end of Progress MS-27 spacecraft and docking of Progress MS-29 spacecraft ([d79df13](https://github.com/corquaid/international-space-station-APIs/commit/d79df1344f94c9aff4b0de299297d4135f8d7854))
+
+
+
 # [1.79.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.78.0...v1.79.0) (2024-11-05)
 
 
@@ -36,15 +45,6 @@
 ### Features
 
 * docking of SpaceX Crew-9 Dragon spacecraft ([19248e1](https://github.com/corquaid/international-space-station-APIs/commit/19248e1178285c1ee1efdfd5a9fdd29434d4cb46))
-
-
-
-# [1.75.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.74.0...v1.75.0) (2024-09-23)
-
-
-### Features
-
-* update for departure of Soyuz MS-25 and transition to ISS Expedition 72 ([7382e64](https://github.com/corquaid/international-space-station-APIs/commit/7382e644a5f146c66d4ad063307a0c113482f35d))
 
 
 
