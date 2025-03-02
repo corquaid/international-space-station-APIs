@@ -1,3 +1,12 @@
+## [1.82.1](https://github.com/corquaid/international-space-station-APIs/compare/v1.82.0...v1.82.1) (2025-03-02)
+
+
+### Bug Fixes
+
+* replace Progress MS-30 image ([72dfa71](https://github.com/corquaid/international-space-station-APIs/commit/72dfa71921467afa969a01598e5894abb370640b))
+
+
+
 # [1.82.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.81.0...v1.82.0) (2025-03-02)
 
 
@@ -36,15 +45,6 @@
 ### Features
 
 * launch of SpaceX CRS-31 Cargo Dragon spacecraft ([3b8383a](https://github.com/corquaid/international-space-station-APIs/commit/3b8383a84d34da87e5b755eb24494236518260b2))
-
-
-
-# [1.78.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.77.0...v1.78.0) (2024-11-04)
-
-
-### Features
-
-* end of Shenzhou 18 mission and launch of Shenzhou 19 mission ([0c42b46](https://github.com/corquaid/international-space-station-APIs/commit/0c42b46102547d262e2fafe0d002d2c2142301d9))
 
 
 
