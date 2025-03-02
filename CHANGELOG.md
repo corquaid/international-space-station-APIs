@@ -1,3 +1,12 @@
+# [1.82.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.81.0...v1.82.0) (2025-03-02)
+
+
+### Features
+
+* undocking of Progress MS-28 and docking of Progress MS-30 spacecraft ([733969f](https://github.com/corquaid/international-space-station-APIs/commit/733969ff74272936b11fc433617fa3aaf4649cdf))
+
+
+
 # [1.81.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.80.0...v1.81.0) (2025-02-05)
 
 
@@ -36,15 +45,6 @@
 ### Features
 
 * end of Shenzhou 18 mission and launch of Shenzhou 19 mission ([0c42b46](https://github.com/corquaid/international-space-station-APIs/commit/0c42b46102547d262e2fafe0d002d2c2142301d9))
-
-
-
-# [1.77.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.76.0...v1.77.0) (2024-10-24)
-
-
-### Features
-
-* undocking of SpaceX Crew-8 Dragon spacecraft ([018a07a](https://github.com/corquaid/international-space-station-APIs/commit/018a07aff31e5cb2932a046675721770a85f746a))
 
 
 
