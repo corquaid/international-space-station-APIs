@@ -1,3 +1,12 @@
+# [1.83.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.82.1...v1.83.0) (2025-03-16)
+
+
+### Features
+
+* docking of SpaceX Crew-10 Dragon spacecraft ([6fe06a9](https://github.com/corquaid/international-space-station-APIs/commit/6fe06a9ef825ee208319eb0d254ad7cc87ceb773))
+
+
+
 ## [1.82.1](https://github.com/corquaid/international-space-station-APIs/compare/v1.82.0...v1.82.1) (2025-03-02)
 
 
@@ -31,20 +40,6 @@
 ### Features
 
 * update for end of Progress MS-27 spacecraft and docking of Progress MS-29 spacecraft ([d79df13](https://github.com/corquaid/international-space-station-APIs/commit/d79df1344f94c9aff4b0de299297d4135f8d7854))
-
-
-
-# [1.79.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.78.0...v1.79.0) (2024-11-05)
-
-
-### Bug Fixes
-
-* add docking time to CRS-31 mission ([42b2603](https://github.com/corquaid/international-space-station-APIs/commit/42b26038d19151e46cbc752d41caff1509ae8e52))
-
-
-### Features
-
-* launch of SpaceX CRS-31 Cargo Dragon spacecraft ([3b8383a](https://github.com/corquaid/international-space-station-APIs/commit/3b8383a84d34da87e5b755eb24494236518260b2))
 
 
 
