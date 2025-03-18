@@ -1,3 +1,12 @@
+# [1.84.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.83.0...v1.84.0) (2025-03-18)
+
+
+### Features
+
+* undocking of Crew-9 Dragon spacecraft ([2ccf90f](https://github.com/corquaid/international-space-station-APIs/commit/2ccf90f25cfdbf05a3ebe8469fbbf2f96697aac7))
+
+
+
 # [1.83.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.82.1...v1.83.0) (2025-03-16)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * undocking of CRS-31 Dragon spacecraft ([c9b483d](https://github.com/corquaid/international-space-station-APIs/commit/c9b483d37aa56c08538091756bf067a8c80dbf44))
-
-
-
-# [1.80.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.79.0...v1.80.0) (2024-11-29)
-
-
-### Features
-
-* update for end of Progress MS-27 spacecraft and docking of Progress MS-29 spacecraft ([d79df13](https://github.com/corquaid/international-space-station-APIs/commit/d79df1344f94c9aff4b0de299297d4135f8d7854))
 
 
 
