@@ -1,3 +1,12 @@
+# [1.86.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.85.0...v1.86.0) (2025-04-05)
+
+
+### Features
+
+* end of Fram-2 mission ([f54fa35](https://github.com/corquaid/international-space-station-APIs/commit/f54fa35e6b3994e469e6d316ee2555103fcd88cb))
+
+
+
 # [1.85.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.84.0...v1.85.0) (2025-04-01)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * replace Progress MS-30 image ([72dfa71](https://github.com/corquaid/international-space-station-APIs/commit/72dfa71921467afa969a01598e5894abb370640b))
-
-
-
-# [1.82.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.81.0...v1.82.0) (2025-03-02)
-
-
-### Features
-
-* undocking of Progress MS-28 and docking of Progress MS-30 spacecraft ([733969f](https://github.com/corquaid/international-space-station-APIs/commit/733969ff74272936b11fc433617fa3aaf4649cdf))
 
 
 
