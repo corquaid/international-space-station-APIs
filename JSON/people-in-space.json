@@ -1,5 +1,5 @@
 {
-  "number": 10,
+  "number": 13,
   "iss_expedition": 72,
   "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/c/c4/ISS_Expedition_72_Patch.png",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_72",
@@ -176,6 +176,57 @@
       "instagram": "",
       "twitter": "",
       "facebook": ""
+    },
+    {
+      "id": 11,
+      "name": "Sergey Ryzhikov",
+      "country": "Russia",
+      "flag_code": "ru",
+      "agency": "Roscosmos",
+      "position": "Flight Engineer",
+      "spacecraft": "Soyuz MS-27",
+      "launched": 1744084035,
+      "iss": true,
+      "days_in_space": 358,
+      "url": "https://en.wikipedia.org/wiki/Sergey_Ryzhikov_(cosmonaut)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sergey_Ryzhikov_at_the_Gagarin_Cosmonaut_Training_Center_in_Star_City.jpg",
+      "instagram": "",
+      "twitter": "",
+      "facebook": ""
+    },
+    {
+      "id": 12,
+      "name": "Alexey Zubritsky",
+      "country": "Russia",
+      "flag_code": "ru",
+      "agency": "Roscosmos",
+      "position": "Flight Engineer",
+      "spacecraft": "Soyuz MS-27",
+      "launched": 1744084035,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Alexey_Zubritsky",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Alexey_Zubritsky.png",
+      "instagram": "",
+      "twitter": "",
+      "facebook": ""
+    },
+    {
+      "id": 13,
+      "name": "Jonny Kim",
+      "country": "United States",
+      "flag_code": "us",
+      "agency": "NASA",
+      "position": "Flight Engineer",
+      "spacecraft": "Soyuz MS-27",
+      "launched": 1744084035,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Jonny_Kim",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Jonny_Kim_official_portrait.jpg",
+      "instagram": "https://www.instagram.com/jonnykimusa/#",
+      "twitter": "https://twitter.com/JonnyKimUSA/",
+      "facebook": "https://www.facebook.com/JonnyKimUSA/"
     }
   ]
 }
