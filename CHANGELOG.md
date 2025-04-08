@@ -1,3 +1,17 @@
+# [1.87.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.86.0...v1.87.0) (2025-04-08)
+
+
+### Bug Fixes
+
+* update number of people in space ([8344e60](https://github.com/corquaid/international-space-station-APIs/commit/8344e6089f47a6cb9a48168c0ebd58e7627b0aa7))
+
+
+### Features
+
+* docking of Soyuz MS-27 spacecraft, undocking of Cygnus NG-21 spacecraft ([3f518d0](https://github.com/corquaid/international-space-station-APIs/commit/3f518d0121f687b305c2a3bc38242c79a9a7f0dc))
+
+
+
 # [1.86.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.85.0...v1.86.0) (2025-04-05)
 
 
@@ -31,15 +45,6 @@
 ### Features
 
 * docking of SpaceX Crew-10 Dragon spacecraft ([6fe06a9](https://github.com/corquaid/international-space-station-APIs/commit/6fe06a9ef825ee208319eb0d254ad7cc87ceb773))
-
-
-
-## [1.82.1](https://github.com/corquaid/international-space-station-APIs/compare/v1.82.0...v1.82.1) (2025-03-02)
-
-
-### Bug Fixes
-
-* replace Progress MS-30 image ([72dfa71](https://github.com/corquaid/international-space-station-APIs/commit/72dfa71921467afa969a01598e5894abb370640b))
 
 
 
