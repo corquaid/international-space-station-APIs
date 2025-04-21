@@ -1,65 +1,14 @@
 {
-  "number": 13,
-  "iss_expedition": 72,
-  "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/c/c4/ISS_Expedition_72_Patch.png",
-  "expedition_url": "https://en.wikipedia.org/wiki/Expedition_72",
-  "expedition_image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Iss072-s-002.jpg",
-  "expedition_start_date": 1727042400,
-  "expedition_end_date": 1711148400,
+  "number": 10,
+  "iss_expedition": 73,
+  "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/a/a4/ISS_Expedition_73_Patch.png",
+  "expedition_url": "https://en.wikipedia.org/wiki/Expedition_73",
+  "expedition_image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/The_official_portrait_of_the_Expedition_73_crew_%28iss073-s-002%29.jpg",
+  "expedition_start_date": 1745013600,
+  "expedition_end_date": 1765148400,
   "people": [
     {
       "id": 1,
-      "name": "Aleksey Ovchinin",
-      "country": "Russia",
-      "flag_code": "ru",
-      "agency": "Roscosmos",
-      "position": "Commander",
-      "spacecraft": "Soyuz MS-26",
-      "launched": 1726150992,
-      "iss": true,
-      "days_in_space": 375,
-      "url": "https://en.wikipedia.org/wiki/Aleksey_Ovchinin",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Aleksey_Ovchinin_during_ISS_Habitat_Equalization_%26_Process_22105_training_%28Jsc2014e084151%29.jpg",
-      "instagram": "",
-      "twitter": "",
-      "facebook": ""
-    },
-    {
-      "id": 2,
-      "name": "Ivan Wagner",
-      "country": "Russia",
-      "flag_code": "ru",
-      "agency": "Roscosmos",
-      "position": "Flight Engineer",
-      "spacecraft": "Soyuz MS-26",
-      "launched": 1726150992,
-      "iss": true,
-      "days_in_space": 195,
-      "url": "https://en.wikipedia.org/wiki/Ivan_Vagner",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Expedition_63_Crew_Waves_Farewell_-_Ivan_Vagner.jpg",
-      "instagram": "",
-      "twitter": "",
-      "facebook": ""
-    },
-    {
-      "id": 3,
-      "name": "Don Pettit",
-      "country": "United States",
-      "flag_code": "us",
-      "agency": "NASA",
-      "position": "Flight Engineer",
-      "spacecraft": "Soyuz MS-26",
-      "launched": 1726150992,
-      "iss": true,
-      "days_in_space": 369,
-      "url": "https://en.wikipedia.org/wiki/Donald_Pettit",
-      "image": "https://i.ibb.co/cgvcwqN/NASA-astronaut-Don-Pettit-pillars.jpg",
-      "instagram": "https://www.instagram.com/astro_pettit/",
-      "twitter": "https://x.com/astro_Pettit",
-      "facebook": ""
-    },
-    {
-      "id": 4,
       "name": "Cai Xuzhe",
       "country": "China",
       "flag_code": "cn",
@@ -76,7 +25,7 @@
       "facebook": ""
     },
     {
-      "id": 5,
+      "id": 2,
       "name": "Song Lingdong",
       "country": "China",
       "flag_code": "cn",
@@ -93,7 +42,7 @@
       "facebook": ""
     },
     {
-      "id": 6,
+      "id": 3,
       "name": "Wang Haoze",
       "country": "China",
       "flag_code": "cn",
@@ -110,7 +59,7 @@
       "facebook": ""
     },
     {
-      "id": 7,
+      "id": 4,
       "name": "Anne McClain",
       "country": "United States",
       "flag_code": "us",
@@ -127,7 +76,7 @@
       "facebook": "https://www.facebook.com/AstroAnnimal"
     },
     {
-      "id": 8,
+      "id": 5,
       "name": "Nichole Ayers",
       "country": "United States",
       "flag_code": "us",
@@ -144,12 +93,12 @@
       "facebook": "https://www.facebook.com/astroNicholeayers"
     },
     {
-      "id": 9,
+      "id": 6,
       "name": "Takuya Onishi",
       "country": "Japan",
       "flag_code": "jp",
       "agency": "JAXA",
-      "position": "Flight Engineer",
+      "position": "Commander",
       "spacecraft": "Crew-10 Dragon",
       "launched": 1741989828,
       "iss": true,
@@ -161,7 +110,7 @@
       "facebook": "https://www.facebook.com/people/Takuya-Onishi/61564266126317/"
     },
     {
-      "id": 10,
+      "id": 7,
       "name": "Kirill Peskov",
       "country": "Russia",
       "flag_code": "ru",
@@ -178,7 +127,7 @@
       "facebook": ""
     },
     {
-      "id": 11,
+      "id": 8,
       "name": "Sergey Ryzhikov",
       "country": "Russia",
       "flag_code": "ru",
@@ -195,7 +144,7 @@
       "facebook": ""
     },
     {
-      "id": 12,
+      "id": 9,
       "name": "Alexey Zubritsky",
       "country": "Russia",
       "flag_code": "ru",
@@ -212,7 +161,7 @@
       "facebook": ""
     },
     {
-      "id": 13,
+      "id": 10,
       "name": "Jonny Kim",
       "country": "United States",
       "flag_code": "us",
