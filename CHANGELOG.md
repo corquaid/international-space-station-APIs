@@ -1,3 +1,12 @@
+# [1.90.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.89.0...v1.90.0) (2025-05-05)
+
+
+### Features
+
+* end of Shenzhou-19 mission and launch of Shenzhou-20 mission ([3f53c40](https://github.com/corquaid/international-space-station-APIs/commit/3f53c408b14993caa70d04e171c43f56ac6259b9))
+
+
+
 # [1.89.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.88.0...v1.89.0) (2025-04-22)
 
 
@@ -36,15 +45,6 @@
 ### Features
 
 * end of Fram-2 mission ([f54fa35](https://github.com/corquaid/international-space-station-APIs/commit/f54fa35e6b3994e469e6d316ee2555103fcd88cb))
-
-
-
-# [1.85.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.84.0...v1.85.0) (2025-04-01)
-
-
-### Features
-
-* update for launch of Fram-2 Crew Dragon mission ([85f82e1](https://github.com/corquaid/international-space-station-APIs/commit/85f82e121687807b73f211ee3d72bdb4e284468a))
 
 
 
