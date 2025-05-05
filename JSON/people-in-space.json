@@ -9,57 +9,6 @@
   "people": [
     {
       "id": 1,
-      "name": "Cai Xuzhe",
-      "country": "China",
-      "flag_code": "cn",
-      "agency": "CMSA",
-      "position": "Commander",
-      "spacecraft": "Shenzhou 19",
-      "launched": 1730230020,
-      "iss": false,
-      "days_in_space": 182,
-      "url": "https://en.wikipedia.org/wiki/Cai_Xuzhe",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/%E8%88%AA%E5%A4%A9%E5%91%98%E8%94%A1%E6%97%AD%E5%93%B2_Cai_Xuzhe.jpg",
-      "instagram": "",
-      "twitter": "",
-      "facebook": ""
-    },
-    {
-      "id": 2,
-      "name": "Song Lingdong",
-      "country": "China",
-      "flag_code": "cn",
-      "agency": "CMSA",
-      "position": "Operator",
-      "spacecraft": "Shenzhou 19",
-      "launched": 1730230020,
-      "iss": false,
-      "days_in_space": 0,
-      "url": "https://en.wikipedia.org/wiki/Song_Lingdong",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Song_Lingdong.jpg",
-      "instagram": "",
-      "twitter": "",
-      "facebook": ""
-    },
-    {
-      "id": 3,
-      "name": "Wang Haoze",
-      "country": "China",
-      "flag_code": "cn",
-      "agency": "CMSA",
-      "position": "Flight Engineer",
-      "spacecraft": "Shenzhou 19",
-      "launched": 1730230020,
-      "iss": false,
-      "days_in_space": 0,
-      "url": "https://en.wikipedia.org/wiki/Wang_Haoze",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Wang_Haoze_at_Shenzhou-19_press_conference.png",
-      "instagram": "",
-      "twitter": "",
-      "facebook": ""
-    },
-    {
-      "id": 4,
       "name": "Anne McClain",
       "country": "United States",
       "flag_code": "us",
@@ -76,7 +25,7 @@
       "facebook": "https://www.facebook.com/AstroAnnimal"
     },
     {
-      "id": 5,
+      "id": 2,
       "name": "Nichole Ayers",
       "country": "United States",
       "flag_code": "us",
@@ -93,7 +42,7 @@
       "facebook": "https://www.facebook.com/astroNicholeayers"
     },
     {
-      "id": 6,
+      "id": 3,
       "name": "Takuya Onishi",
       "country": "Japan",
       "flag_code": "jp",
@@ -110,7 +59,7 @@
       "facebook": "https://www.facebook.com/people/Takuya-Onishi/61564266126317/"
     },
     {
-      "id": 7,
+      "id": 4,
       "name": "Kirill Peskov",
       "country": "Russia",
       "flag_code": "ru",
@@ -127,7 +76,7 @@
       "facebook": ""
     },
     {
-      "id": 8,
+      "id": 5,
       "name": "Sergey Ryzhikov",
       "country": "Russia",
       "flag_code": "ru",
@@ -144,7 +93,7 @@
       "facebook": ""
     },
     {
-      "id": 9,
+      "id": 6,
       "name": "Alexey Zubritsky",
       "country": "Russia",
       "flag_code": "ru",
@@ -161,7 +110,7 @@
       "facebook": ""
     },
     {
-      "id": 10,
+      "id": 7,
       "name": "Jonny Kim",
       "country": "United States",
       "flag_code": "us",
@@ -176,6 +125,57 @@
       "instagram": "https://www.instagram.com/jonnykimusa/#",
       "twitter": "https://twitter.com/JonnyKimUSA/",
       "facebook": "https://www.facebook.com/JonnyKimUSA/"
+    },
+    {
+      "id": 8,
+      "name": "Chen Dong",
+      "country": "China",
+      "flag_code": "cn",
+      "agency": "CMSA",
+      "position": "Commander",
+      "spacecraft": "Shenzhou 20",
+      "launched": 1745479020,
+      "iss": false,
+      "days_in_space": 220,
+      "url": "https://en.wikipedia.org/wiki/Chen_Dong_(taikonaut)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/%E8%88%AA%E5%A4%A9%E5%91%98%E9%99%88%E5%86%AC_Chen_Dong.jpg",
+      "instagram": "",
+      "twitter": "",
+      "facebook": ""
+    },
+    {
+      "id": 9,
+      "name": "Chen Zhongrui",
+      "country": "China",
+      "flag_code": "cn",
+      "agency": "CMSA",
+      "position": "Operator",
+      "spacecraft": "Shenzhou 20",
+      "launched": 1745479020,
+      "iss": false,
+      "days_in_space": 0,
+      "url": "",
+      "image": "https://i.ibb.co/CpnDWtTf/202504245da97640504f4201855a396065d5a1e4-124443fc1e874efe8060b34be3b752f6.jpg",
+      "instagram": "",
+      "twitter": "",
+      "facebook": ""
+    },
+    {
+      "id": 10,
+      "name": "Chen Dong",
+      "country": "China",
+      "flag_code": "cn",
+      "agency": "CMSA",
+      "position": "Science Operator",
+      "spacecraft": "Shenzhou 20",
+      "launched": 1745479020,
+      "iss": false,
+      "days_in_space": 0,
+      "url": "",
+      "image": "https://i.ibb.co/cXCkt2gB/2025042443f2ce755cbd430baa98419894af7352-01a220c68e124e21a2d1a6d71ceb4e7a.jpg",
+      "instagram": "",
+      "twitter": "",
+      "facebook": ""
     }
   ]
 }
