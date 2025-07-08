@@ -1,3 +1,12 @@
+# [1.94.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.93.0...v1.94.0) (2025-07-08)
+
+
+### Features
+
+* docking of Progress MS-31 spacecraft ([9e91f77](https://github.com/corquaid/international-space-station-APIs/commit/9e91f77bc16a7dbd0839626b2a48fd2381a1c693))
+
+
+
 # [1.93.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.92.0...v1.93.0) (2025-07-02)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * end of Shenzhou-19 mission and launch of Shenzhou-20 mission ([3f53c40](https://github.com/corquaid/international-space-station-APIs/commit/3f53c408b14993caa70d04e171c43f56ac6259b9))
-
-
-
-# [1.89.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.88.0...v1.89.0) (2025-04-22)
-
-
-### Features
-
-* update for docking of CRS-32 Cargo Dragon spacecraft ([2a7ebe3](https://github.com/corquaid/international-space-station-APIs/commit/2a7ebe31860aad217be7970105ac9638bf7960f1))
 
 
 
