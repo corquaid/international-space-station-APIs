@@ -75,36 +75,8 @@
       "url": "https://en.wikipedia.org/wiki/Soyuz_MS-27",
       "image": "https://i.ibb.co/ymmMSFFt/54438326293-96bcf94614-o-scaled.jpg"
     },
-     {
+    {
       "id": 4,
-      "name": "Axiom-4 Dragon",
-      "country": "United States",
-      "flag_code": "us",
-      "operator": "Axiom/SpaceX",
-      "manufacturer": "SpaceX",
-      "spacecraft_name": "Grace",
-      "launched": 1750825860,
-      "launch_site": "KSC, LC-39A",
-      "iss": true,
-      "docked": 1750926660,
-      "docking_port": "Harmony zenith",
-      "launch_mass": null,
-      "payload_mass": null,
-      "launch_vehicle": "Falcon 9",
-      "launch_vehicle_name": "B1094.2",
-      "mission_type": "Crew",
-      "crew": [
-       "Peggy Whitson",
-       "Shubanshu Shukla",
-       "Sławosz Uznański-Wiśniewski",
-       "Tipor Kapu"
-      ],
-      "mission_patch": "https://upload.wikimedia.org/wikipedia/en/9/9f/Ax-4_Mission_Patch.png",
-      "url": "https://en.wikipedia.org/wiki/Axiom_Mission_4",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Axiom_Mission_4_Crew.png"
-    },
-     {
-      "id": 5,
       "name": "Progress MS-31",
       "country": "Russia",
       "flag_code": "ru",
@@ -115,7 +87,7 @@
       "launch_site": "Site 31, Baikonur",
       "iss": true,
       "docked": 1751743500,
-      "docking_port": "Poisk zenith", 
+      "docking_port": "Poisk zenith",
       "launch_mass": 7280,
       "payload_mass": 2625,
       "launch_vehicle": "Soyuz 2.1a",
