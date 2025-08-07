@@ -1,3 +1,12 @@
+# [1.96.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.95.0...v1.96.0) (2025-08-07)
+
+
+### Features
+
+* docking of Crew-11 Dragon ([b413f5d](https://github.com/corquaid/international-space-station-APIs/commit/b413f5d3dc37bced1891b39b6d91d3a740d0d639))
+
+
+
 # [1.95.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.94.0...v1.95.0) (2025-07-14)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * update for docking of Axiom-4 Dragon spacecraft ([2ca27ce](https://github.com/corquaid/international-space-station-APIs/commit/2ca27ce6ca3c7ee0a727789df78df691fb97ca32))
-
-
-
-# [1.91.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.90.0...v1.91.0) (2025-05-25)
-
-
-### Features
-
-* update for undocking of CRS-32 Dragon spacecraft, fix typo in Shenzhou-20 crew members ([c99e8c0](https://github.com/corquaid/international-space-station-APIs/commit/c99e8c05d10ae3c8a353bab5fb1c3597aceb0837))
 
 
 
