@@ -1,3 +1,12 @@
+# [1.99.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.98.0...v1.99.0) (2025-09-16)
+
+
+### Features
+
+* undocking of Progress MS-30 and docking of Progress MS-32 spacecraft ([f8272f6](https://github.com/corquaid/international-space-station-APIs/commit/f8272f69e04b2682c8929c806e7d28a0f4e3be36))
+
+
+
 # [1.98.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.97.0...v1.98.0) (2025-08-29)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * undocking of Axiom-4 Dragon spacecraft ([cdfb7fe](https://github.com/corquaid/international-space-station-APIs/commit/cdfb7fe0546588634f046b5862100ad1f0d96e8b))
-
-
-
-# [1.94.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.93.0...v1.94.0) (2025-07-08)
-
-
-### Features
-
-* docking of Progress MS-31 spacecraft ([9e91f77](https://github.com/corquaid/international-space-station-APIs/commit/9e91f77bc16a7dbd0839626b2a48fd2381a1c693))
 
 
 
