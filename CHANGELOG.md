@@ -1,3 +1,12 @@
+# [1.101.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.100.0...v1.101.0) (2025-11-16)
+
+
+### Features
+
+* update for landing of Shenzhou-21 spacecraft carrying Shenzhou-20 taikonauts ([d480249](https://github.com/corquaid/international-space-station-APIs/commit/d48024953eec1c47a143b3038f507409bd20e1bf))
+
+
+
 # [1.100.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.99.0...v1.100.0) (2025-11-03)
 
 
@@ -32,15 +41,6 @@
 ### Features
 
 * undocking of Crew-10 Dragon spacecraft ([60bd6b6](https://github.com/corquaid/international-space-station-APIs/commit/60bd6b6722b6d5888604ec1dc3eb345ab85ca876))
-
-
-
-# [1.96.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.95.0...v1.96.0) (2025-08-07)
-
-
-### Features
-
-* docking of Crew-11 Dragon ([b413f5d](https://github.com/corquaid/international-space-station-APIs/commit/b413f5d3dc37bced1891b39b6d91d3a740d0d639))
 
 
 
