@@ -1,5 +1,5 @@
 {
-  "number": 6,
+  "number": 7,
   "spacecraft": [
     {
       "id": 1,
@@ -150,6 +150,31 @@
       "mission_patch_3": null,
       "url": "https://en.wikipedia.org/wiki/Cygnus_NG-23",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Northrop_Grumman%27s_Cygnus_XL_cargo_craft_approaches_the_International_Space_Station_%28ISS073E0703405%29_%28cropped%29.jpg"
+    },
+    {
+      "id": 7,
+      "name": "HTV-X1",
+      "country": "Japan",
+      "flag_code": "jp",
+      "operator": "JAXA",
+      "manufacturer": "Mitsubishi Heavy Industries",
+      "spacecraft_name": "",
+      "launched": 1761429615,
+      "launch_site": "Tanegashima, LA-Y2",
+      "iss": true,
+      "docked": 1761819000,
+      "docking_port": "Harmony nadir",
+      "launch_mass": 14500,
+      "payload_mass": 4250,
+      "launch_vehicle": "H3-24W",
+      "launch_vehicle_name": "",
+      "mission_type": "Cargo",
+      "crew": null,
+      "mission_patch": "https://upload.wikimedia.org/wikipedia/en/9/90/HTV-X1_mission_insignia.png",
+      "mission_patch_2": "",
+      "mission_patch_3": null,
+      "url": "https://en.wikipedia.org/wiki/HTV-X1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/The_new_HTV-X1_in_the_grips_of_the_Canadarm2_%28iss073e1046014%29.jpg"
     }
   ]
 }
