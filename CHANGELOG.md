@@ -1,3 +1,12 @@
+# [1.102.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.101.0...v1.102.0) (2025-11-17)
+
+
+### Features
+
+* update for docking of HTV-X1 spacecraft ([4356fef](https://github.com/corquaid/international-space-station-APIs/commit/4356fefaa462f0a5725aa182136e81ae758cfd1a))
+
+
+
 # [1.101.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.100.0...v1.101.0) (2025-11-16)
 
 
@@ -32,15 +41,6 @@
 ### Features
 
 * docking of CRS-33 Dragon spacecraft ([0497df1](https://github.com/corquaid/international-space-station-APIs/commit/0497df1da29a8ddccfba73cbcd7963f4f2595a8b))
-
-
-
-# [1.97.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.96.0...v1.97.0) (2025-08-11)
-
-
-### Features
-
-* undocking of Crew-10 Dragon spacecraft ([60bd6b6](https://github.com/corquaid/international-space-station-APIs/commit/60bd6b6722b6d5888604ec1dc3eb345ab85ca876))
 
 
 
