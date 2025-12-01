@@ -1,3 +1,12 @@
+# [1.103.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.102.0...v1.103.0) (2025-12-01)
+
+
+### Features
+
+* docking of Soyuz MS-28 spacecraft ([edc6f8b](https://github.com/corquaid/international-space-station-APIs/commit/edc6f8bbb9452905dea857081458b0d5e4f2417c))
+
+
+
 # [1.102.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.101.0...v1.102.0) (2025-11-17)
 
 
@@ -32,15 +41,6 @@
 ### Features
 
 * undocking of Progress MS-30 and docking of Progress MS-32 spacecraft ([f8272f6](https://github.com/corquaid/international-space-station-APIs/commit/f8272f69e04b2682c8929c806e7d28a0f4e3be36))
-
-
-
-# [1.98.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.97.0...v1.98.0) (2025-08-29)
-
-
-### Features
-
-* docking of CRS-33 Dragon spacecraft ([0497df1](https://github.com/corquaid/international-space-station-APIs/commit/0497df1da29a8ddccfba73cbcd7963f4f2595a8b))
 
 
 
