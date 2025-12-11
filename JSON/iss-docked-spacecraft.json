@@ -1,33 +1,8 @@
 {
-  "number": 8,
+  "number": 7,
   "spacecraft": [
     {
       "id": 1,
-      "name": "Soyuz MS-27",
-      "country": "Russia",
-      "flag_code": "ru",
-      "operator": "Roscosmos",
-      "manufacturer": "Energia",
-      "spacecraft_name": null,
-      "launched": 1744084035,
-      "launch_site": "Site 31/6, Baikonur",
-      "iss": true,
-      "docked": 1744095463,
-      "docking_port": "Prichal nadir",
-      "launch_mass": null,
-      "payload_mass": null,
-      "launch_vehicle": "Soyuz 2.1a",
-      "launch_vehicle_name": null,
-      "mission_type": "Crew",
-      "crew": ["Sergey Ryzhikov", "Alexey Zubritsky", "Jonny Kim"],
-      "mission_patch": "https://upload.wikimedia.org/wikipedia/en/4/46/Soyuz_MS-27_mission_patch.png",
-      "mission_patch_2": null,
-      "mission_patch_3": null,
-      "url": "https://en.wikipedia.org/wiki/Soyuz_MS-27",
-      "image": "https://i.ibb.co/ymmMSFFt/54438326293-96bcf94614-o-scaled.jpg"
-    },
-    {
-      "id": 2,
       "name": "Progress MS-31",
       "country": "Russia",
       "flag_code": "ru",
@@ -52,7 +27,7 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2025/07/blog-p92-approach-070525.jpg"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Crew-11 Dragon",
       "country": "United States",
       "flag_code": "us",
@@ -77,7 +52,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Crew-11_official_portrait.jpg"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "CRS-33 Dragon",
       "country": "United States",
       "flag_code": "us",
@@ -102,7 +77,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Iss073e0545547-cropped.jpg"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Progress MS-32",
       "country": "Russia",
       "flag_code": "ru",
@@ -127,7 +102,7 @@
       "image": "https://images-assets.nasa.gov/image/iss073e0284397/iss073e0284397~large.jpg?w=1920&h=1078&fit=clip&crop=faces%2Cfocalpoint"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Cygnus NG-23",
       "country": "United States",
       "flag_code": "us",
@@ -152,7 +127,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Northrop_Grumman%27s_Cygnus_XL_cargo_craft_approaches_the_International_Space_Station_%28ISS073E0703405%29_%28cropped%29.jpg"
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "HTV-X1",
       "country": "Japan",
       "flag_code": "jp",
@@ -176,8 +151,8 @@
       "url": "https://en.wikipedia.org/wiki/HTV-X1",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/The_new_HTV-X1_in_the_grips_of_the_Canadarm2_%28iss073e1046014%29.jpg"
     },
-     {
-      "id": 8,
+    {
+      "id": 7,
       "name": "Soyuz MS-28",
       "country": "Russia",
       "flag_code": "ru",
