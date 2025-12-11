@@ -28,13 +28,12 @@ Here's an example of the returned JSON:
 
 ```json
 {
-  "number": 15,
+  "number": 10,
   "iss_expedition": 71,
   "expedition_patch": "https://upload.wikimedia.org/wikipedia/commons/b/b4/ISS_Expedition_71_Patch.png",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_71",
   "expedition_image": "https://upload.wikimedia.org/wikipedia/commons/8/81/The_official_Expedition_71_crew_portrait.jpg",
   "expedition_start_date": 1712354400,
-  "expedition_end_date": 1727128800,
   "people": [
     ...
     {
