@@ -1,5 +1,5 @@
 {
-  "number": 10,
+  "number": 6,
   "iss_expedition": 74,
   "expedition_patch": "https://images-assets.nasa.gov/image/iss074-s-001/iss074-s-001~large.jpg",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_74",
@@ -8,74 +8,6 @@
   "people": [
     {
       "id": 1,
-      "name": "Zena Cardman",
-      "country": "United States",
-      "flag_code": "us",
-      "agency": "NASA",
-      "position": "Flight Engineer",
-      "spacecraft": "Crew-11 Dragon",
-      "launched": 1754055822,
-      "iss": true,
-      "days_in_space": 0,
-      "url": "https://en.wikipedia.org/wiki/Zena_Cardman",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Zena_Cardman_2023_%28portrait_crop%29.jpg",
-      "instagram": "https://www.instagram.com/zenanaut",
-      "twitter": "https://x.com/zenanaut",
-      "facebook": "https://www.facebook.com/zenanaut"
-    },
-    {
-      "id": 2,
-      "name": "Michael Fincke",
-      "country": "United States",
-      "flag_code": "us",
-      "agency": "NASA",
-      "position": "Commander",
-      "spacecraft": "Crew-11 Dragon",
-      "launched": 1754055822,
-      "iss": true,
-      "days_in_space": 382,
-      "url": "https://en.wikipedia.org/wiki/Michael_Fincke",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/NASA_astronaut_and_SpaceX_Crew-11_Pilot_Mike_Fincke_%28jsc2025e012001_alt%29.jpg",
-      "instagram": "https://www.instagram.com/astroironmike",
-      "twitter": "https://x.com/astroironmike",
-      "facebook": "https://www.facebook.com/Astormikefincke"
-    },
-    {
-      "id": 3,
-      "name": "Kimiya Yui",
-      "country": "Japan",
-      "flag_code": "jp",
-      "agency": "JAXA",
-      "position": "Flight Engineer",
-      "spacecraft": "Crew-11 Dragon",
-      "launched": 1754055822,
-      "iss": true,
-      "days_in_space": 141,
-      "url": "https://en.wikipedia.org/wiki/Kimiya_Yui",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/JAXA_astronaut_and_SpaceX_Crew-11_Mission_Specialist_Kimiya_Yui_%28jsc2025e011983_alt%29.jpg",
-      "instagram": "https://www.instagram.com/astro_kimiya",
-      "twitter": "https://x.com/astro_kimiya?lang=en",
-      "facebook": "https://www.facebook.com/profile.php?id=61579121103911"
-    },
-    {
-      "id": 4,
-      "name": "Oleg Platonov",
-      "country": "Russia",
-      "flag_code": "ru",
-      "agency": "Roscosmos",
-      "position": "Flight Engineer",
-      "spacecraft": "Crew-11 Dragon",
-      "launched": 1754055822,
-      "iss": true,
-      "days_in_space": 0,
-      "url": "https://en.wikipedia.org/wiki/Oleg_Platonov_(cosmonaut)",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Roscosmos_cosmonaut_and_SpaceX_Crew-11_Mission_Specialist_Oleg_Platonov_%28jsc2025e012017_alt%29.jpg",
-      "instagram": "",
-      "twitter": "",
-      "facebook": ""
-    },
-    {
-      "id": 5,
       "name": "Zhang Lu",
       "country": "China",
       "flag_code": "cn",
@@ -92,7 +24,7 @@
       "facebook": ""
     },
     {
-      "id": 6,
+      "id": 2,
       "name": "Wu Fei",
       "country": "China",
       "flag_code": "cn",
@@ -109,7 +41,7 @@
       "facebook": ""
     },
     {
-      "id": 7,
+      "id": 3,
       "name": "Zhang Hongzhang",
       "country": "China",
       "flag_code": "cn",
@@ -126,12 +58,12 @@
       "facebook": ""
     },
     {
-      "id": 8,
+      "id": 4,
       "name": "Sergey Kud-Sverchkov",
       "country": "Russia",
       "flag_code": "ru",
       "agency": "Roscosmos",
-      "position": "Flight Engineer",
+      "position": "Commander",
       "spacecraft": "Soyuz MS-28",
       "launched": 1764232077,
       "iss": true,
@@ -143,7 +75,7 @@
       "facebook": ""
     },
     {
-      "id": 9,
+      "id": 5,
       "name": "Sergey Mikayev",
       "country": "Russia",
       "flag_code": "ru",
@@ -160,7 +92,7 @@
       "facebook": ""
     },
      {
-      "id": 10,
+      "id": 6,
       "name": "Christoper Williams",
       "country": "United States",
       "flag_code": "us",
