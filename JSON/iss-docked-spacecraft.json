@@ -1,5 +1,5 @@
 {
-  "number": 7,
+  "number": 6,
   "spacecraft": [
     {
       "id": 1,
@@ -28,31 +28,6 @@
     },
     {
       "id": 2,
-      "name": "Crew-11 Dragon",
-      "country": "United States",
-      "flag_code": "us",
-      "operator": "SpaceX",
-      "manufacturer": "SpaceX",
-      "spacecraft_name": "Endeavour",
-      "launched": 1754055822,
-      "launch_site": "KSC, LC-39A",
-      "iss": true,
-      "docked": 1754108816,
-      "docking_port": "Harmony zenith",
-      "launch_mass": null,
-      "payload_mass": null,
-      "launch_vehicle": "Falcon 9",
-      "launch_vehicle_name": "B1094.3",
-      "mission_type": "Crew",
-      "crew": ["Zena Cardman", "Michael Fincke", "Kimiya Yui", "Oleg Platonov"],
-      "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/e/ec/SpaceX_Crew-11_logo.png",
-      "mission_patch_2": "https://upload.wikimedia.org/wikipedia/en/5/5a/SpaceX_Crew-11_mission_patch.png",
-      "mission_patch_3": "https://upload.wikimedia.org/wikipedia/en/d/d2/SpaceX_Crew-11_JAXA_mission_patch.png",
-      "url": "https://en.wikipedia.org/wiki/SpaceX_Crew-11",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Crew-11_official_portrait.jpg"
-    },
-    {
-      "id": 3,
       "name": "CRS-33 Dragon",
       "country": "United States",
       "flag_code": "us",
@@ -77,7 +52,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Iss073e0545547-cropped.jpg"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Progress MS-32",
       "country": "Russia",
       "flag_code": "ru",
@@ -102,7 +77,7 @@
       "image": "https://images-assets.nasa.gov/image/iss073e0284397/iss073e0284397~large.jpg?w=1920&h=1078&fit=clip&crop=faces%2Cfocalpoint"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Cygnus NG-23",
       "country": "United States",
       "flag_code": "us",
@@ -127,7 +102,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Northrop_Grumman%27s_Cygnus_XL_cargo_craft_approaches_the_International_Space_Station_%28ISS073E0703405%29_%28cropped%29.jpg"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "HTV-X1",
       "country": "Japan",
       "flag_code": "jp",
@@ -152,7 +127,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/The_new_HTV-X1_in_the_grips_of_the_Canadarm2_%28iss073e1046014%29.jpg"
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Soyuz MS-28",
       "country": "Russia",
       "flag_code": "ru",
