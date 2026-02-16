@@ -1,5 +1,5 @@
 {
-  "number": 6,
+  "number": 7,
   "spacecraft": [
     {
       "id": 1,
@@ -150,6 +150,31 @@
       "mission_patch_3": null,
       "url": "https://en.wikipedia.org/wiki/Soyuz_MS-28",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Soyuz_MS-28_rollout_01.jpg"
+    },
+     {
+      "id": 7,
+      "name": "Crew-12 Dragon",
+      "country": "United States",
+      "flag_code": "us",
+      "operator": "SpaceX",
+      "manufacturer": "SpaceX",
+      "spacecraft_name": "Freedom",
+      "launched": 1770974155,
+      "launch_site": "CCSFS, SLC-40",
+      "iss": true,
+      "docked": 1771096500,
+      "docking_port": "Harmony zenith",
+      "launch_mass": null,
+      "payload_mass": null,
+      "launch_vehicle": "Falcon 9",
+      "launch_vehicle_name": "B1101.2",
+      "mission_type": "Crew",
+      "crew": ["Jessica Meir", "Jack Hathaway", "Sophie Adenot", "Andrey Fedyaev"],
+      "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/b/b4/SpaceX_Crew-12_logo.png",
+      "mission_patch_2": "https://upload.wikimedia.org/wikipedia/en/2/27/SpaceX_Crew-12_mission_patch.png",
+      "mission_patch_3": "https://upload.wikimedia.org/wikipedia/en/5/5a/Epsilon_mission_insignia.png",
+      "url": "https://en.wikipedia.org/wiki/SpaceX_Crew-12",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/The_four_members_of_NASA%27s_SpaceX_Crew-12_mission_to_the_International_Space_Station_%28jsc2026e004045%29.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "number": 6,
+  "number": 10,
   "iss_expedition": 74,
   "expedition_patch": "https://images-assets.nasa.gov/image/iss074-s-001/iss074-s-001~large.jpg",
   "expedition_url": "https://en.wikipedia.org/wiki/Expedition_74",
@@ -91,7 +91,7 @@
       "twitter": "",
       "facebook": ""
     },
-     {
+    {
       "id": 6,
       "name": "Christoper Williams",
       "country": "United States",
@@ -106,6 +106,74 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Christopher_Williams_February_2024.jpg",
       "instagram": "https://www.instagram.com/astro_chrisw/",
       "twitter": "https://x.com/Astro_ChrisW",
+      "facebook": ""
+    },
+    {
+      "id": 7,
+      "name": "Jessica Meir",
+      "country": "United States",
+      "flag_code": "us",
+      "agency": "NASA",
+      "position": "Flight Engineer",
+      "spacecraft": "Crew-12 Dragon",
+      "launched": 1770974155,
+      "iss": true,
+      "days_in_space": 204,
+      "url": "https://en.wikipedia.org/wiki/Jessica_Meir",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jessica_Meir_official_portrait_in_an_EMU.jpg",
+      "instagram": "https://www.instagram.com/astro_jessica",
+      "twitter": "https://x.com/Astro_Jessica",
+      "facebook": "https://www.facebook.com/jessica.meir.96"
+    },
+    {
+      "id": 8,
+      "name": "Jack Hathaway",
+      "country": "United States",
+      "flag_code": "us",
+      "agency": "NASA",
+      "position": "Flight Engineer",
+      "spacecraft": "Crew-12 Dragon",
+      "launched": 1770974155,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Jack_Hathaway",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Jack_Hathaway_2024.jpg",
+      "instagram": "https://www.instagram.com/astro_hathaway",
+      "twitter": "https://x.com/astro_hathaway",
+      "facebook": ""
+    },
+    {
+      "id": 9,
+      "name": "Sophie Adenot",
+      "country": "France",
+      "flag_code": "fr",
+      "agency": "ESA",
+      "position": "Flight Engineer",
+      "spacecraft": "Crew-12 Dragon",
+      "launched": 1770974155,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Sophie_Adenot",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Official_portrait_of_ESA_%28European_Space_Agency%29_astronaut_Sophie_Adenot_%28jsc2025e058846_alt%29.jpg",
+      "instagram": "https://www.instagram.com/soph_astro",
+      "twitter": "https://x.com/Soph_astro",
+      "facebook": "https://www.facebook.com/ESASophieAdenot/"
+    },
+    {
+      "id": 10,
+      "name": "Andrey Fedyaev",
+      "country": "Russia",
+      "flag_code": "ru",
+      "agency": "Roscosmos",
+      "position": "Flight Engineer",
+      "spacecraft": "Crew-12 Dragon",
+      "launched": 1770974155,
+      "iss": true,
+      "days_in_space": 0,
+      "url": "https://en.wikipedia.org/wiki/Andrey_Fedyaev",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/SpaceX_crew_6_image_5.png",
+      "instagram": "",
+      "twitter": "",
       "facebook": ""
     }
   ]
