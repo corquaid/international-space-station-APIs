@@ -1,3 +1,12 @@
+# [1.107.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.106.0...v1.107.0) (2026-03-03)
+
+
+### Features
+
+* undocking of CRS-33 spacecraft, bumping Chinese taikonauts to Shenzhou-22 landing spacecraft ([efbffa2](https://github.com/corquaid/international-space-station-APIs/commit/efbffa25a38a7c41c17bcc5a7f35601f9aef5e1a))
+
+
+
 # [1.106.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.105.0...v1.106.0) (2026-02-16)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * docking of Soyuz MS-28 spacecraft ([edc6f8b](https://github.com/corquaid/international-space-station-APIs/commit/edc6f8bbb9452905dea857081458b0d5e4f2417c))
-
-
-
-# [1.102.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.101.0...v1.102.0) (2025-11-17)
-
-
-### Features
-
-* update for docking of HTV-X1 spacecraft ([4356fef](https://github.com/corquaid/international-space-station-APIs/commit/4356fefaa462f0a5725aa182136e81ae758cfd1a))
 
 
 
