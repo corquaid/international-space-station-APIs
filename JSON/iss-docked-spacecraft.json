@@ -1,5 +1,5 @@
 {
-  "number": 6,
+  "number": 5,
   "spacecraft": [
     {
       "id": 1,
@@ -78,31 +78,6 @@
     },
     {
       "id": 4,
-      "name": "HTV-X1",
-      "country": "Japan",
-      "flag_code": "jp",
-      "operator": "JAXA",
-      "manufacturer": "Mitsubishi Heavy Industries",
-      "spacecraft_name": "",
-      "launched": 1761429615,
-      "launch_site": "Tanegashima, LA-Y2",
-      "iss": true,
-      "docked": 1761819000,
-      "docking_port": "Harmony nadir",
-      "launch_mass": 14500,
-      "payload_mass": 4250,
-      "launch_vehicle": "H3-24W",
-      "launch_vehicle_name": "",
-      "mission_type": "Cargo",
-      "crew": null,
-      "mission_patch": "https://upload.wikimedia.org/wikipedia/en/9/90/HTV-X1_mission_insignia.png",
-      "mission_patch_2": "",
-      "mission_patch_3": null,
-      "url": "https://en.wikipedia.org/wiki/HTV-X1",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/The_new_HTV-X1_in_the_grips_of_the_Canadarm2_%28iss073e1046014%29.jpg"
-    },
-    {
-      "id": 5,
       "name": "Soyuz MS-28",
       "country": "Russia",
       "flag_code": "ru",
@@ -127,7 +102,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Soyuz_MS-28_rollout_01.jpg"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Crew-12 Dragon",
       "country": "United States",
       "flag_code": "us",
