@@ -1,3 +1,12 @@
+# [1.108.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.107.0...v1.108.0) (2026-03-09)
+
+
+### Features
+
+* undocking of HTV-X1 cargo spacecraft ([9b9201e](https://github.com/corquaid/international-space-station-APIs/commit/9b9201e9061c7e33ccad3164c5a5fd8f3776eff1))
+
+
+
 # [1.107.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.106.0...v1.107.0) (2026-03-03)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * undocking of Soyuz MS-27 spacecraft ([12a00c5](https://github.com/corquaid/international-space-station-APIs/commit/12a00c56185b245b793de9762adf56200f0eb182))
-
-
-
-# [1.103.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.102.0...v1.103.0) (2025-12-01)
-
-
-### Features
-
-* docking of Soyuz MS-28 spacecraft ([edc6f8b](https://github.com/corquaid/international-space-station-APIs/commit/edc6f8bbb9452905dea857081458b0d5e4f2417c))
 
 
 
