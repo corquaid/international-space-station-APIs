@@ -1,3 +1,12 @@
+# [1.111.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.110.0...v1.111.0) (2026-04-01)
+
+
+### Features
+
+* launch of Artemis 2 mission TO THE MOON ([2c3144b](https://github.com/corquaid/international-space-station-APIs/commit/2c3144b5639dfbef8824485fbbbd349a3b6109b8))
+
+
+
 # [1.110.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.109.0...v1.110.0) (2026-03-26)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * undocking of CRS-33 spacecraft, bumping Chinese taikonauts to Shenzhou-22 landing spacecraft ([efbffa2](https://github.com/corquaid/international-space-station-APIs/commit/efbffa25a38a7c41c17bcc5a7f35601f9aef5e1a))
-
-
-
-# [1.106.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.105.0...v1.106.0) (2026-02-16)
-
-
-### Features
-
-* docking of Crew-12 Dragon spacecraft ([08db4d0](https://github.com/corquaid/international-space-station-APIs/commit/08db4d0f80e0f3b8d92b5299e70173985f7beb38))
 
 
 
