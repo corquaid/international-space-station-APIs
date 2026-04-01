@@ -12,7 +12,7 @@ Please let me know if there is any information that you would like to have added
 
 Ad Astra!
 
-(Please note that I won't be updating for sub-orbital spaceflights (New Shepard, Virgin Galactic and the like), only orbital flights.)
+(Please note that I won't be updating for sub-orbital spaceflights (New Shepard, Virgin Galactic and the like), only orbital and deep-space flights.)
 
 ## APIs
 
