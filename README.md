@@ -1,6 +1,6 @@
 # International Space Station APIs
 
-APIs packed with information regarding all ongoing spaceflights and spacecraft operations at the International Space Station and the Chinese Space Station (Tiangong).
+APIs packed with information regarding all ongoing spaceflights and spacecraft operations at the International Space Station, the Chinese Space Station (Tiangong) and other orbital and deep-space missions.
 
 The inspiration for this project came from various space-related APIs, including [Open Notify](http://open-notify.org/) by Nathan Bergey and the excellent [Where The ISS At](https://wheretheiss.at/w/developer) resource.
 
