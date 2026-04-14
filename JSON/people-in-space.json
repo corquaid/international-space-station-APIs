@@ -70,9 +70,9 @@
       "days_in_space": 189,
       "url": "https://en.wikipedia.org/wiki/Sergey_Kud-Sverchkov",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Roscosmos_cosmonaut_and_Soyuz_MS-27_Backup_Commander_Sergey_Kud-Sverchkov_%28jsc2025e033531%29.jpg",
-      "instagram": "",
-      "twitter": "",
-      "facebook": ""
+      "instagram": "https://www.instagram.com/kudsverchkov/",
+      "twitter": "https://x.com/kudsverchkov",
+      "facebook": "https://www.facebook.com/che3000/"
     },
     {
       "id": 5,
@@ -172,7 +172,7 @@
       "days_in_space": 0,
       "url": "https://en.wikipedia.org/wiki/Andrey_Fedyaev",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/SpaceX_crew_6_image_5.png",
-      "instagram": "",
+      "instagram": "https://www.instagram.com/andrey_fedyaev_0",
       "twitter": "",
       "facebook": ""
     }
