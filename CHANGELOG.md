@@ -1,3 +1,17 @@
+# [1.112.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.111.1...v1.112.0) (2026-04-16)
+
+
+### Bug Fixes
+
+* update number of people in space ([07ea1b8](https://github.com/corquaid/international-space-station-APIs/commit/07ea1b8a58f83ba3e81bb734dc65365cceb3f03b))
+
+
+### Features
+
+* capture of Cygnus NG-24 spacecraft ([41f7c20](https://github.com/corquaid/international-space-station-APIs/commit/41f7c20d062412549f21f2746d349b19c2d1f910))
+
+
+
 # [1.111.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.110.0...v1.111.0) (2026-04-01)
 
 
@@ -22,24 +36,6 @@
 ### Features
 
 * undocking Cygnus and Progress spacecraft ([47d27dd](https://github.com/corquaid/international-space-station-APIs/commit/47d27dd0d8f07379cf4d8949f94812495c2bb68a))
-
-
-
-# [1.108.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.107.0...v1.108.0) (2026-03-09)
-
-
-### Features
-
-* undocking of HTV-X1 cargo spacecraft ([9b9201e](https://github.com/corquaid/international-space-station-APIs/commit/9b9201e9061c7e33ccad3164c5a5fd8f3776eff1))
-
-
-
-# [1.107.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.106.0...v1.107.0) (2026-03-03)
-
-
-### Features
-
-* undocking of CRS-33 spacecraft, bumping Chinese taikonauts to Shenzhou-22 landing spacecraft ([efbffa2](https://github.com/corquaid/international-space-station-APIs/commit/efbffa25a38a7c41c17bcc5a7f35601f9aef5e1a))
 
 
 
