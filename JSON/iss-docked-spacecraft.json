@@ -1,5 +1,5 @@
 {
-  "number": 4,
+  "number": 5,
   "spacecraft": [
     {
       "id": 1,
@@ -105,6 +105,31 @@
       "mission_patch_3": null,
       "url": "https://en.wikipedia.org/wiki/Progress_MS-33",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Progress_MS-33_approaches_ISS.webp"
+    },
+     {
+      "id": 5,
+      "name": "Cygnus NG-24",
+      "country": "United States",
+      "flag_code": "us",
+      "operator": "Northrop Grumman",
+      "manufacturer": "Northrop Grumman",
+      "spacecraft_name": "S.S. Steven R. Nagel",
+      "launched": 1775900481,
+      "launch_site": "CCSFS, SLC-40",
+      "iss": true,
+      "docked": 1776103200,
+      "docking_port": "Unity nadir",
+      "launch_mass": 7211,
+      "payload_mass": 5000,
+      "launch_vehicle": "Falcon 9",
+      "launch_vehicle_name": "B1094.7",
+      "mission_type": "Cargo",
+      "crew": null,
+      "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cygnus_NG-24_Patch.png",
+      "mission_patch_2": "https://i.ibb.co/HDG08Qbd/NASA-mission-resupply-NG-24-Mission-Patch-FINAL-Outlines.png",
+      "mission_patch_3": "https://i.ibb.co/tM3SdmtY/ng-24-patch.png",
+      "url": "https://en.wikipedia.org/wiki/Cygnus_NG-24",
+      "image": "https://images-assets.nasa.gov/image/iss074e0458270/iss074e0458270~large.jpg?w=1920&h=1078&fit=clip&crop=faces%2Cfocalpoint"
     }
   ]
 }
