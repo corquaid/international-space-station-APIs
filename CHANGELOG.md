@@ -1,4 +1,18 @@
-## [1.112.1](https://github.com/corquaid/international-space-station-APIs/compare/v1.114.0...v1.112.1) (2026-04-23)
+# [1.115.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.114.1...v1.115.0) (2026-04-28)
+
+
+### Bug Fixes
+
+* bump package.json version ([be88d9d](https://github.com/corquaid/international-space-station-APIs/commit/be88d9d820ae4489a9e2b1a2d9ba9c905eb503e4))
+
+
+### Features
+
+* docking of Progress MS-34 spacecraft ([bf2303e](https://github.com/corquaid/international-space-station-APIs/commit/bf2303ebb83ea9102bc09b39b1656450a490b254))
+
+
+
+## [1.114.1](https://github.com/corquaid/international-space-station-APIs/compare/v1.114.0...v1.114.1) (2026-04-23)
 
 
 ### Bug Fixes

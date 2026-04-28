@@ -1,6 +1,6 @@
 {
   "name": "iss_json_project",
-  "version": "1.114.1",
+  "version": "1.115.0",
   "description": "JSON files for ISS information",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,6 @@
     }
   },
   "keywords": [
-    
     "ISS",
     "astronaut",
     "space"
