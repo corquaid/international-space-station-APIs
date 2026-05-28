@@ -1,3 +1,13 @@
+# [1.116.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.115.0...v1.116.0) (2026-05-28)
+
+
+### Features
+
+* docking of SpaceX CRS-34 spacecraft ([a90b16d](https://github.com/corquaid/international-space-station-APIs/commit/a90b16d473f8395e2f0d60fe47201de07b1c9eb6))
+* launch of Shenzhou-23 mission ([b8e9055](https://github.com/corquaid/international-space-station-APIs/commit/b8e90550580f85d19edec2f71d35deeba69cc113))
+
+
+
 # [1.115.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.114.1...v1.115.0) (2026-04-28)
 
 
@@ -27,16 +37,6 @@
 
 
 # [1.112.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.113.0...v1.112.0) (2026-04-16)
-
-
-### Bug Fixes
-
-* update number of people in space ([07ea1b8](https://github.com/corquaid/international-space-station-APIs/commit/07ea1b8a58f83ba3e81bb734dc65365cceb3f03b))
-
-
-### Features
-
-* capture of Cygnus NG-24 spacecraft ([41f7c20](https://github.com/corquaid/international-space-station-APIs/commit/41f7c20d062412549f21f2746d349b19c2d1f910))
 
 
 
