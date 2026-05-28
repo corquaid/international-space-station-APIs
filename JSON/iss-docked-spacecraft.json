@@ -1,5 +1,5 @@
 {
-  "number": 5,
+  "number": 6,
   "spacecraft": [
     {
       "id": 1,
@@ -81,7 +81,7 @@
       "url": "https://en.wikipedia.org/wiki/Progress_MS-33",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Progress_MS-33_approaches_ISS.webp"
     },
-     {
+    {
       "id": 4,
       "name": "Cygnus NG-24",
       "country": "United States",
@@ -106,7 +106,7 @@
       "url": "https://en.wikipedia.org/wiki/Cygnus_NG-24",
       "image": "https://images-assets.nasa.gov/image/iss074e0458270/iss074e0458270~large.jpg?w=1920&h=1078&fit=clip&crop=faces%2Cfocalpoint"
     },
-     {
+    {
       "id": 5,
       "name": "Progress MS-34",
       "country": "Russia",
@@ -130,6 +130,31 @@
       "mission_patch_3": null,
       "url": "https://en.wikipedia.org/wiki/Progress_MS-34",
       "image": "https://images-assets.nasa.gov/image/iss073e0698630/iss073e0698630~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
+    },
+    {
+      "id": 6,
+      "name": "CRS-34 Dragon",
+      "country": "United States",
+      "flag_code": "us",
+      "operator": "SpaceX",
+      "manufacturer": "SpaceX",
+      "spacecraft_name": "C209",
+      "launched": 1778875541,
+      "launch_site": "Cape Canaveral, SLC-40",
+      "iss": true,
+      "docked": 1779007020,
+      "docking_port": "Harmony forward",
+      "launch_mass": null,
+      "payload_mass": 2948,
+      "launch_vehicle": "Falcon 9",
+      "launch_vehicle_name": "B1096.6",
+      "mission_type": "Cargo",
+      "crew": null,
+      "mission_patch": "https://upload.wikimedia.org/wikipedia/commons/1/1e/SpaceX_CRS-34_Patch.png",
+      "mission_patch_2": null,
+      "mission_patch_3": null,
+      "url": "https://en.wikipedia.org/wiki/SpaceX_CRS-34",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/A_SpaceX_Dragon_cargo_spacecraft_approaches_the_International_Space_Station_%28iss074e0603650%29.jpg"
     }
   ]
 }
