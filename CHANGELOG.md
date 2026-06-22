@@ -1,3 +1,12 @@
+# [1.118.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.117.0...v1.118.0) (2026-06-22)
+
+
+### Features
+
+* undocking of CRS-34 Dragon spacecraft ([d204081](https://github.com/corquaid/international-space-station-APIs/commit/d2040819fbd3c742ffc3baccd38acf09879c1952))
+
+
+
 # [1.117.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.116.0...v1.117.0) (2026-06-01)
 
 
@@ -37,11 +46,6 @@
 ### Bug Fixes
 
 * fetch full git history in release workflow to prevent duplicate version tags ([ed5eb2c](https://github.com/corquaid/international-space-station-APIs/commit/ed5eb2c24dbbcb24819e2f630120208052fe2fc2))
-
-
-### Features
-
-* undocking of Progress MS-32 spacecraft ([8480735](https://github.com/corquaid/international-space-station-APIs/commit/8480735bcd2f49a66c690c6c32e2bccaf5c5f4ec))
 
 
 
