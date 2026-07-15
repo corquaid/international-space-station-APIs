@@ -1,5 +1,5 @@
 {
-  "number": 5,
+  "number": 6,
   "spacecraft": [
     {
       "id": 1,
@@ -130,6 +130,31 @@
       "mission_patch_3": null,
       "url": "https://en.wikipedia.org/wiki/Progress_MS-34",
       "image": "https://images-assets.nasa.gov/image/iss073e0698630/iss073e0698630~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
+    },
+    {
+      "id": 6,
+      "name": "Soyuz MS-29",
+      "country": "Russia",
+      "flag_code": "ru",
+      "operator": "Roscosmos",
+      "manufacturer": "Energia",
+      "spacecraft_name": null,
+      "launched": 1784040463,
+      "launch_site": "Site 31/6, Baikonur",
+      "iss": true,
+      "docked": 1784051520,
+      "docking_port": "Prichal nadir",
+      "launch_mass": null,
+      "payload_mass": null,
+      "launch_vehicle": "Soyuz 2.1a",
+      "launch_vehicle_name": null,
+      "mission_type": "Crew",
+      "crew": ["Pyotr Dubrov", "Anna Kikina", "Anil Menon"],
+      "mission_patch": "https://upload.wikimedia.org/wikipedia/en/2/24/Soyuz_MS-29_mission_patch.png",
+      "mission_patch_2": null,
+      "mission_patch_3": null,
+      "url": "https://en.wikipedia.org/wiki/Soyuz_MS-29",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/07/blog-soyuzms29-approach-071426.jpg"
     }
   ]
 }
