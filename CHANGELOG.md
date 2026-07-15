@@ -1,3 +1,12 @@
+# [1.119.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.118.0...v1.119.0) (2026-07-15)
+
+
+### Features
+
+* docking of Soyuz MS-29 spacecraft ([2a95d41](https://github.com/corquaid/international-space-station-APIs/commit/2a95d4172b78871b758da951d6636a1c1fa712dc))
+
+
+
 # [1.118.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.117.0...v1.118.0) (2026-06-22)
 
 
@@ -37,15 +46,6 @@
 ### Features
 
 * docking of Progress MS-34 spacecraft ([bf2303e](https://github.com/corquaid/international-space-station-APIs/commit/bf2303ebb83ea9102bc09b39b1656450a490b254))
-
-
-
-## [1.114.1](https://github.com/corquaid/international-space-station-APIs/compare/v1.114.0...v1.114.1) (2026-04-23)
-
-
-### Bug Fixes
-
-* fetch full git history in release workflow to prevent duplicate version tags ([ed5eb2c](https://github.com/corquaid/international-space-station-APIs/commit/ed5eb2c24dbbcb24819e2f630120208052fe2fc2))
 
 
 
