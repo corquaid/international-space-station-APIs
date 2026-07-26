@@ -1,33 +1,8 @@
 {
-  "number": 6,
+  "number": 5,
   "spacecraft": [
     {
       "id": 1,
-      "name": "Soyuz MS-28",
-      "country": "Russia",
-      "flag_code": "ru",
-      "operator": "Roscosmos",
-      "manufacturer": "Energia",
-      "spacecraft_name": null,
-      "launched": 1764232077,
-      "launch_site": "Site 31/6, Baikonur",
-      "iss": true,
-      "docked": 1764243240,
-      "docking_port": "Rassvet nadir",
-      "launch_mass": null,
-      "payload_mass": null,
-      "launch_vehicle": "Soyuz 2.1a",
-      "launch_vehicle_name": null,
-      "mission_type": "Crew",
-      "crew": ["Sergey Kud-Sverchkov", "Sergey Mikayev", "Christoper Williams"],
-      "mission_patch": "https://upload.wikimedia.org/wikipedia/en/4/49/Soyuz_MS-28_mission_patch.png",
-      "mission_patch_2": null,
-      "mission_patch_3": null,
-      "url": "https://en.wikipedia.org/wiki/Soyuz_MS-28",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Soyuz_MS-28_rollout_01.jpg"
-    },
-    {
-      "id": 2,
       "name": "Crew-12 Dragon",
       "country": "United States",
       "flag_code": "us",
@@ -57,7 +32,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/The_four_members_of_NASA%27s_SpaceX_Crew-12_mission_to_the_International_Space_Station_%28jsc2026e004045%29.jpg"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Progress MS-33",
       "country": "Russia",
       "flag_code": "ru",
@@ -82,7 +57,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Progress_MS-33_approaches_ISS.webp"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Cygnus NG-24",
       "country": "United States",
       "flag_code": "us",
@@ -107,7 +82,7 @@
       "image": "https://images-assets.nasa.gov/image/iss074e0458270/iss074e0458270~large.jpg?w=1920&h=1078&fit=clip&crop=faces%2Cfocalpoint"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Progress MS-34",
       "country": "Russia",
       "flag_code": "ru",
@@ -132,7 +107,7 @@
       "image": "https://images-assets.nasa.gov/image/iss073e0698630/iss073e0698630~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Soyuz MS-29",
       "country": "Russia",
       "flag_code": "ru",
