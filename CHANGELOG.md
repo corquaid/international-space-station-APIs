@@ -1,3 +1,12 @@
+# [1.122.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.121.0...v1.122.0) (2026-09-20)
+
+
+### Features
+
+* docking of Progress MS-35 spacecraft ([da5a0d5](https://github.com/corquaid/international-space-station-APIs/commit/da5a0d5d65812784bfa220b829c72e2658b6080f))
+
+
+
 # [1.121.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.120.0...v1.121.0) (2026-09-10)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * undocking of CRS-34 Dragon spacecraft ([d204081](https://github.com/corquaid/international-space-station-APIs/commit/d2040819fbd3c742ffc3baccd38acf09879c1952))
-
-
-
-# [1.117.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.116.0...v1.117.0) (2026-06-01)
-
-
-### Features
-
-* end of Shenzhou-22 mission ([3752ab3](https://github.com/corquaid/international-space-station-APIs/commit/3752ab36e3e013d8f082802318975f6747aba1fc))
 
 
 
