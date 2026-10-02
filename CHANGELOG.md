@@ -1,3 +1,17 @@
+# [1.123.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.122.0...v1.123.0) (2026-10-02)
+
+
+### Bug Fixes
+
+* update Crew-13 positions ([e6f00e4](https://github.com/corquaid/international-space-station-APIs/commit/e6f00e4ae1ab8423c24023a93a353f2f4c6f7fd5))
+
+
+### Features
+
+* docking of SpaceX Crew-13 spacecraft ([2d3253e](https://github.com/corquaid/international-space-station-APIs/commit/2d3253ed0dc41e77907118eba5bc4451c74e9ed7))
+
+
+
 # [1.122.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.121.0...v1.122.0) (2026-09-20)
 
 
@@ -31,15 +45,6 @@
 ### Features
 
 * docking of Soyuz MS-29 spacecraft ([2a95d41](https://github.com/corquaid/international-space-station-APIs/commit/2a95d4172b78871b758da951d6636a1c1fa712dc))
-
-
-
-# [1.118.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.117.0...v1.118.0) (2026-06-22)
-
-
-### Features
-
-* undocking of CRS-34 Dragon spacecraft ([d204081](https://github.com/corquaid/international-space-station-APIs/commit/d2040819fbd3c742ffc3baccd38acf09879c1952))
 
 
 
