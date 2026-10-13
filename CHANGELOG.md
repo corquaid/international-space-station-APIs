@@ -1,3 +1,12 @@
+# [1.125.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.124.0...v1.125.0) (2026-10-13)
+
+
+### Features
+
+* undocking of Cygnus NG-24 spacecraft ([4272e69](https://github.com/corquaid/international-space-station-APIs/commit/4272e69cad434d115941df9dda63c570c6e22160))
+
+
+
 # [1.124.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.123.0...v1.124.0) (2026-10-08)
 
 
@@ -36,15 +45,6 @@
 ### Features
 
 * undocking of Progress MS-33 spacecraft ([2160bc3](https://github.com/corquaid/international-space-station-APIs/commit/2160bc3659507dbe65382c0a0f06fcece622ae6b))
-
-
-
-# [1.120.0](https://github.com/corquaid/international-space-station-APIs/compare/v1.119.0...v1.120.0) (2026-07-26)
-
-
-### Features
-
-* undocking of Soyuz MS-28 spacecraft ([ddecaf9](https://github.com/corquaid/international-space-station-APIs/commit/ddecaf90fe5be36f5ed51ebc957a3d0bb5a43858))
 
 
 
