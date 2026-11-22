@@ -1,0 +1,47 @@
+name: Deploy Pages
+
+# Runs once per push, after "Create Release" has finished (and pushed its
+# chore(release) commit), so only one Pages deploy happens per change.
+on:
+  workflow_run:
+    workflows: ["Create Release"]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion != 'cancelled' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      # Check out the tip of main (including the release commit), not the
+      # commit that triggered "Create Release".
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Stage site files
+        run: |
+          mkdir _site
+          cp -r index.html styles.css assets JSON _site/
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
